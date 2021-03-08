@@ -1,0 +1,1000 @@
+<A> catholicism <H> mary josephine hannon fitzgerald <R> spouse <T> john f fitzgerald <H> john f fitzgerald <R> religion <T> catholicism
+<A> Lost <H> Francine Pascal <R> book editions published <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> canonical version <T> Lost
+<A> male <H> robert of naples <R> parents <T> charles ii of naples <H> charles ii of naples <R> children <T> philip i of taranto <H> philip i of taranto <R> gender <T> male
+<A> Rome <H> Nicolas Poussin <R> place of death <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> male <H> constantine xi <R> parents <T> manuel ii palaiologos <H> manuel ii palaiologos <R> children <T> john viii palaiologos <H> john viii palaiologos <R> gender <T> male
+<A> Hard Times <H> Hard Times <R> recordings <T> Hard Times <H> Hard Times <R> recordings <T> Hard Times <H> Hard Times <R> tracks <T> Hard Times
+<A> Epilogue <H> Vincent Mentzel <R> art forms <T> Photography <H> Photography <R> releases <T> Epilogue
+<A> coburg <H> john elector of saxony <R> children <T> john ernest duke of saxe coburg <H> john ernest duke of saxe coburg <R> location <T> coburg
+<A> edward i of england <H> edward i of england <R> children <T> margaret plantagenet <H> margaret plantagenet <R> parents <T> eleanor of castile <H> eleanor of castile <R> spouse <T> edward i of england
+<A> dorothea of brandenburg <H> ernest elector of saxony <R> children <T> christina of saxony <H> christina of saxony <R> spouse <T> john i of denmark <H> john i of denmark <R> parents <T> dorothea of brandenburg
+<A> Believe <H> Trax Classix <R> track list <T> Pulse <H> Pulse <R> track <T> Believe <H> Believe <R> recording <T> Believe
+<A> Musical Album <H> Mercy <R> recording <T> Mercy <H> Mercy <R> versions <T> Mercy <H> Mercy <R> notable types <T> Musical Album
+<A> munich <H> princess adelgunde of bavaria <R> parents <T> maria theresia of austria-este <H> princess adelgunde of bavaria <R> place of death <T> munich <H> maria theresia of austria-este <R> children <T> princess adelgunde of bavaria
+<A> The Rite of Strings <H> Habanera <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> The Rite of Strings
+<A> Usharani Nair <H> Brahmakulam <R> containedby <T> Kerala <H> Kerala <R> people born here <T> Usharani Nair
+<A> Epilogue <H> RCMP <R> subjects <T> Photography <H> Photography <R> releases <T> Epilogue
+<A> Earth <H> Earth <R> tracks <T> Earth <H> Earth <R> tracks <T> Earth <H> Earth <R> tracks <T> Earth
+<A> male <H> prince joachim of prussia <R> parents <T> william ii german emperor <H> william ii german emperor <R> parents <T> frederick iii german emperor <H> frederick iii german emperor <R> gender <T> male
+<A> nablus <H> isabella of jerusalem <R> parents <T> amalric i of jerusalem <H> isabella of jerusalem <R> place of birth <T> nablus <H> amalric i of jerusalem <R> children <T> isabella of jerusalem
+<A> maximilian joseph duke in bavaria <H> elisabeth of bavaria <R> parents <T> maximilian joseph duke in bavaria <H> elisabeth of bavaria <R> parents <T> maximilian joseph duke in bavaria <H> maximilian joseph duke in bavaria <R> children <T> elisabeth of bavaria
+<A> united states <H> william backhouse astor jr <R> children <T> john jacob astor iv <H> john jacob astor iv <R> nationality <T> united states
+<A> jenny von westphalen <H> jenny von westphalen <R> children <T> jenny longuet <H> jenny longuet <R> parents <T> jenny von westphalen
+<A> matilda of flanders <H> baldwin v count of flanders <R> children <T> matilda of flanders <H> matilda of flanders <R> children <T> henry i of england <H> henry i of england <R> parents <T> matilda of flanders
+<A> louis vi elector palatine <H> frederick v elector palatine <R> parents <T> louise juliana of nassau <H> louise juliana of nassau <R> spouse <T> frederick iv elector palatine <H> frederick iv elector palatine <R> parents <T> louis vi elector palatine
+<A> prince george duke of kent <H> mary of teck <R> children <T> prince george duke of kent <H> mary of teck <R> children <T> prince george duke of kent <H> prince george duke of kent <R> parents <T> mary of teck
+<A> Free <H> Free <R> recordings <T> Free <H> Free <R> recordings <T> Free <H> Free <R> recordings <T> Free
+<A> diabetes mellitus <H> doris dowling <R> spouse <T> artie shaw <H> artie shaw <R> cause of death <T> diabetes mellitus
+<A> christian i elector of saxony <H> christian ii elector of saxony <R> parents <T> christian i elector of saxony <H> christian ii elector of saxony <R> parents <T> christian i elector of saxony <H> christian i elector of saxony <R> children <T> christian ii elector of saxony
+<A> Tarzan <H> Tarzan <R> adaptations <T> Tarzan <H> Tarzan <R> adaptations <T> Tarzan <H> Tarzan <R> adaptations <T> Tarzan
+<A> Krush <H> Another Day <R> releases <T> Another Day <H> Another Day <R> recording <T> Another Day <H> Another Day <R> release <T> Krush
+<A> City Town Village <H> Waterloo <R> tracks <T> Waterloo <H> Waterloo <R> tracks <T> Waterloo <H> Waterloo <R> notable types <T> City Town Village
+<A> Reining in <H> Perfect Shirl <R> organism type <T> Horse <H> Horse <R> works <T> Reining in
+<A> Sudheesh <H> Brahmakulam <R> containedby <T> Kerala <H> Kerala <R> people born here <T> Sudheesh
+<A> female <H> adelaide of lowenstein wertheim rosenberg <R> children <T> maria josepha of portugal <H> maria josepha of portugal <R> gender <T> female
+<A> scottish people <H> elizabeth de burgh <R> spouse <T> robert i of scotland <H> robert i of scotland <R> ethnicity <T> scottish people
+<A> jenny longuet <H> laura marx <R> parents <T> jenny von westphalen <H> jenny von westphalen <R> children <T> jenny longuet
+<A> Language <H> Food <R> permission <T> Language <H> Language <R> related type <T> Language <H> Language <R> related type <T> Language
+<A> hungary <H> geza i of hungary <R> children <T> prince almos <H> prince almos <R> nationality <T> hungary
+<A> Fantasy <H> Fortune Arterial <R> cvg genre <T> Fantasy <H> Fantasy <R> recording <T> Fantasy <H> Fantasy <R> recording <T> Fantasy
+<A> David Wilcox <H> Dangerous <R> recording <T> Dangerous <H> Dangerous <R> recording <T> Dangerous <H> Dangerous <R> artist <T> David Wilcox
+<A> male <H> sarah lennox duchess of richmond <R> children <T> charles lennox 3rd duke of richmond <H> charles lennox 3rd duke of richmond <R> gender <T> male
+<A> Indiana <H> Adrienne Moreau <R> place of birth <T> Trenton <H> Trenton <R> containedby <T> Indiana
+<A> infanta maria das neves of portugal <H> prince miguel duke of viseu <R> parents <T> miguel ii duke of braganza <H> miguel ii duke of braganza <R> parents <T> miguel of portugal <H> miguel of portugal <R> children <T> infanta maria das neves of portugal
+<A> sri suriyendra <H> sunandha <R> parents <T> piam <H> piam <R> spouse <T> mongkut <H> mongkut <R> parents <T> sri suriyendra
+<A> Southeast Asia <H> Southeast Asia <R> recording <T> Southeast Asia <H> Southeast Asia <R> recording <T> Southeast Asia <H> Southeast Asia <R> recording <T> Southeast Asia
+<A> I Have a Dream <H> You're Beautiful <R> track <T> I Have a Dream <H> I Have a Dream <R> recording <T> I Have a Dream <H> I Have a Dream <R> recording <T> I Have a Dream
+<A> novelist <H> roger sherman hoar <R> parents <T> sherman hoar <H> roger sherman hoar <R> profession <T> novelist <H> sherman hoar <R> children <T> roger sherman hoar
+<A> Baby Love <H> Baby Love <R> song <T> Baby Love <H> Baby Love <R> song <T> Baby Love
+<A> nablus <H> fulk of jerusalem <R> children <T> amalric i of jerusalem <H> amalric i of jerusalem <R> children <T> isabella of jerusalem <H> isabella of jerusalem <R> place of birth <T> nablus
+<A> magdalen college oxford <H> prince christian victor of schleswig-holstein <R> parents <T> princess helena of the united kingdom <H> prince christian victor of schleswig-holstein <R> institution <T> magdalen college oxford <H> princess helena of the united kingdom <R> children <T> prince christian victor of schleswig-holstein
+<A> tsarevich alexei nikolaevich of russia <H> albert of saxe-coburg and gotha <R> children <T> alice of the united kingdom <H> alice of the united kingdom <R> children <T> alexandra fyodorovna of hesse <H> alexandra fyodorovna of hesse <R> children <T> tsarevich alexei nikolaevich of russia
+<A> Joni Mitchell <H> Lady Baltimore <R> genre <T> Fiction <H> Fiction <R> artist <T> Joni Mitchell
+<A> italy <H> alfonso iv deste <R> parents <T> francesco i deste <H> alfonso iv deste <R> nationality <T> italy <H> francesco i deste <R> children <T> alfonso iv deste
+<A> lausanne <H> albert of saxe-coburg and gotha <R> children <T> princess beatrice of the united kingdom <H> princess beatrice of the united kingdom <R> children <T> victoria eugenia of battenberg <H> victoria eugenia of battenberg <R> place of death <T> lausanne
+<A> Titan <H> Titan <R> tracks <T> Titan <H> Titan <R> tracks <T> Titan <H> Titan <R> versions <T> Titan
+<A> tuberculosis <H> princess sophie helene beatrix of france <R> parents <T> louis xvi of france <H> louis xvi of france <R> parents <T> louis dauphin de france <H> louis dauphin de france <R> cause of death <T> tuberculosis
+<A> wiesbaden <H> guillaume iv grand duke of luxembourg <R> parents <T> adolphe grand duke of luxembourg <H> adolphe grand duke of luxembourg <R> spouse <T> grand duchess elizabeth mikhailovna <H> grand duchess elizabeth mikhailovna <R> place of death <T> wiesbaden
+<A> Ministers De-La-Funk <H> Believe <R> recording <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> artist <T> Ministers De-La-Funk
+<A> Carrie Elkin <H> Berlin <R> tracks <T> Berlin <H> Berlin <R> tracks <T> Berlin <H> Berlin <R> artist <T> Carrie Elkin
+<A> Film director <H> Pieter Bourke <R> tracks produced <T> Tempest <H> Tempest <R> notable types <T> Film director
+<A> united states <H> robert e lee <R> children <T> william henry fitzhugh lee <H> william henry fitzhugh lee <R> parents <T> mary anna custis lee <H> mary anna custis lee <R> nationality <T> united states
+<A> alexander darcy <H> alexander darcy <R> spouse <T> arleen whelan <H> arleen whelan <R> spouse <T> alexander darcy
+<A> male <H> martha bulloch <R> spouse <T> theodore roosevelt sr <H> theodore roosevelt sr <R> gender <T> male
+<A> george washington university <H> john f kennedy jr <R> parents <T> john f kennedy <H> john f kennedy <R> spouse <T> jacqueline kennedy onassis <H> jacqueline kennedy onassis <R> institution <T> george washington university
+<A> Consumer product <H> Elliott Yamin <R> track list <T> Free <H> Free <R> notable types <T> Consumer product
+<A> clotaire i <H> charibert i <R> parents <T> clotaire i <H> clotaire i <R> spouse <T> radegund <H> radegund <R> spouse <T> clotaire i
+<A> jew <H> alice betty stern <R> children <T> otto frank <H> otto frank <R> religion <T> jew
+<A> The Muffs <H> Another Day <R> recording <T> Another Day <H> Another Day <R> recording <T> Another Day <H> Another Day <R> releases <T> The Muffs
+<A> prince arthur duke of connaught and strathearn <H> john campbell 9th duke of argyll <R> spouse <T> princess louise duchess of argyll <H> princess louise duchess of argyll <R> parents <T> albert of saxe-coburg and gotha <H> albert of saxe-coburg and gotha <R> children <T> prince arthur duke of connaught and strathearn
+<A> henry vii of england <H> henry vii of england <R> spouse <T> elizabeth of york <H> elizabeth of york <R> spouse <T> henry vii of england
+<A> royal holloway university of london <H> frances stevenson <R> spouse <T> david lloyd george <H> frances stevenson <R> institution <T> royal holloway university of london <H> david lloyd george <R> spouse <T> frances stevenson
+<A> eva macmurrough <H> richard de clare 2nd earl of pembroke <R> spouse <T> eva macmurrough <H> eva macmurrough <R> children <T> isabel de clare 4th countess of pembroke <H> isabel de clare 4th countess of pembroke <R> parents <T> eva macmurrough
+<A> Miskolc <H> István Lázár <R> nationality <T> Austria-Hungary <H> Austria-Hungary <R> contains <T> Miskolc
+<A> Rome <H> Gianfranco Parolini <R> place of birth <T> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> prince christian victor of schleswig-holstein <H> princess helena of the united kingdom <R> children <T> prince christian victor of schleswig-holstein <H> princess helena of the united kingdom <R> children <T> prince christian victor of schleswig-holstein <H> prince christian victor of schleswig-holstein <R> parents <T> princess helena of the united kingdom
+<A> In Time <H> Four Winds <R> track <T> In Time <H> In Time <R> release <T> In Time
+<A> kleinheubach <H> charlotte of spain <R> children <T> miguel of portugal <H> miguel of portugal <R> children <T> infanta maria das neves of portugal <H> infanta maria das neves of portugal <R> place of birth <T> kleinheubach
+<A> Aurora <H> James Plotkin <R> album <T> Aurora <H> Aurora <R> release <T> Aurora <H> Aurora <R> release <T> Aurora
+<A> aelia eudoxia <H> theodosius ii <R> parents <T> aelia eudoxia <H> aelia eudoxia <R> spouse <T> arcadius <H> arcadius <R> spouse <T> aelia eudoxia
+<A> germany <H> frank reicher <R> parents <T> emanuel reicher <H> emanuel reicher <R> nationality <T> germany
+<A> jacqueline kennedy onassis <H> jacqueline kennedy onassis <R> children <T> john f kennedy jr <H> john f kennedy jr <R> parents <T> john f kennedy <H> john f kennedy <R> spouse <T> jacqueline kennedy onassis
+<A> female <H> luis munoz marin <R> spouse <T> ines mendoza <H> ines mendoza <R> gender <T> female
+<A> ernest elector of saxony <H> john elector of saxony <R> parents <T> ernest elector of saxony <H> ernest elector of saxony <R> children <T> christina of saxony <H> christina of saxony <R> parents <T> ernest elector of saxony
+<A> poissy <H> marguerite of france <R> parents <T> maria of brabant <H> maria of brabant <R> spouse <T> philip iii of france <H> philip iii of france <R> place of birth <T> poissy
+<A> djedefra <H> khufu <R> children <T> djedefra <H> khufu <R> children <T> djedefra <H> djedefra <R> parents <T> khufu
+<A> philip v of spain <H> maria luisa of savoy <R> spouse <T> philip v of spain <H> philip v of spain <R> children <T> mariana victoria of spain <H> mariana victoria of spain <R> parents <T> philip v of spain
+<A> clodoald <H> clodoald <R> parents <T> chlodomer <H> chlodomer <R> children <T> clodoald
+<A> united states <H> lilli palmer <R> spouse <T> carlos thompson <H> lilli palmer <R> nationality <T> united states <H> carlos thompson <R> spouse <T> lilli palmer
+<A> male <H> margaret of parma <R> spouse <T> ottavio farnese duke of parma <H> ottavio farnese duke of parma <R> children <T> alexander farnese duke of parma <H> alexander farnese duke of parma <R> gender <T> male
+<A> grand duchess <H> princess beatrice of the united kingdom <R> parents <T> albert of saxe-coburg and gotha <H> albert of saxe-coburg and gotha <R> children <T> alice of the united kingdom <H> alice of the united kingdom <R> profession <T> grand duchess
+<A> politician <H> john f fitzgerald <R> children <T> rose fitzgerald kennedy <H> john f fitzgerald <R> profession <T> politician <H> rose fitzgerald kennedy <R> parents <T> john f fitzgerald
+<A> margaret of artois <H> blanche of burgundy <R> spouse <T> charles iv of france <H> charles iv of france <R> spouse <T> jeanne devreux <H> jeanne devreux <R> parents <T> margaret of artois
+<A> politician <H> walter rothschild 2nd baron rothschild <R> parents <T> nathan rothschild 1st baron rothschild <H> walter rothschild 2nd baron rothschild <R> profession <T> politician <H> nathan rothschild 1st baron rothschild <R> children <T> walter rothschild 2nd baron rothschild
+<A> princess charlotte of prussia <H> prince joachim of prussia <R> parents <T> william ii german emperor <H> william ii german emperor <R> parents <T> frederick iii german emperor <H> frederick iii german emperor <R> children <T> princess charlotte of prussia
+<A> mongke khan <H> sorghaghtani beki <R> children <T> ariq boke <H> sorghaghtani beki <R> children <T> mongke khan <H> ariq boke <R> parents <T> sorghaghtani beki
+<A> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> canonical version <T> Lost
+<A> nakkhatra mangkala kitiyakara <H> chulalongkorn <R> children <T> kitiyakara voralaksana <H> kitiyakara voralaksana <R> children <T> nakkhatra mangkala kitiyakara
+<A> Greatest Hits <H> Believe <R> song <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> release <T> Greatest Hits
+<A> male <H> john vi of portugal <R> children <T> peter i of brazil <H> john vi of portugal <R> gender <T> male <H> peter i of brazil <R> parents <T> john vi of portugal
+<A> kashta <H> shabaka <R> parents <T> kashta <H> kashta <R> children <T> piye <H> piye <R> parents <T> kashta
+<A> Album <H> Believe <R> release <T> Greatest Hits <H> Greatest Hits <R> release type <T> Album
+<A> catholicism <H> prince francis joseph of braganza <R> parents <T> miguel ii duke of braganza <H> miguel ii duke of braganza <R> parents <T> miguel of portugal <H> miguel of portugal <R> religion <T> catholicism
+<A> blanche of anjou <H> charles ii of naples <R> children <T> philip i of taranto <H> charles ii of naples <R> children <T> blanche of anjou <H> philip i of taranto <R> parents <T> charles ii of naples
+<A> irish people <H> edward r murrow <R> spouse <T> janet huntington brewster <H> edward r murrow <R> ethnicity <T> irish people <H> janet huntington brewster <R> spouse <T> edward r murrow
+<A> A1 Team France <H> Triathlon <R> athletes <T> France <H> France <R> teams <T> A1 Team France
+<A> South Australia <H> South Australia <R> tracks <T> South Australia <H> South Australia <R> recording <T> South Australia <H> South Australia <R> recording <T> South Australia
+<A> female <H> marjorie merriweather post <R> spouse <T> joseph e davies <H> marjorie merriweather post <R> gender <T> female <H> joseph e davies <R> spouse <T> marjorie merriweather post
+<A> charles of viana <H> eleanor of alburquerque <R> children <T> john ii of aragon <H> john ii of aragon <R> spouse <T> blanche i of navarre <H> blanche i of navarre <R> children <T> charles of viana
+<A> clementine churchill baroness spencer churchill <H> leonard jerome <R> children <T> jennie churchill <H> jennie churchill <R> children <T> winston churchill <H> winston churchill <R> spouse <T> clementine churchill baroness spencer churchill
+<A> Electric Ladyland VI <H> Paul Stanley <R> track <T> Bulletproof <H> Bulletproof <R> release <T> Electric Ladyland VI
+<A> christina of saxony <H> christian ii of denmark <R> parents <T> christina of saxony <H> christina of saxony <R> parents <T> ernest elector of saxony <H> ernest elector of saxony <R> children <T> christina of saxony
+<A> graz <H> archduke carl ludwig of austria <R> children <T> archduke franz ferdinand of austria <H> archduke franz ferdinand of austria <R> place of birth <T> graz
+<A> female <H> ferdinand ii of portugal <R> children <T> luis i of portugal <H> luis i of portugal <R> parents <T> maria ii of portugal <H> maria ii of portugal <R> gender <T> female
+<A> male <H> ekaterina svanidze <R> spouse <T> joseph stalin <H> joseph stalin <R> gender <T> male
+<A> Mexico <H> Gloria Marín <R> nationality <T> Mexico <H> Mexico <R> tracks <T> Mexico <H> Mexico <R> tracks <T> Mexico
+<A> deism <H> thomas jefferson <R> children <T> martha jefferson randolph <H> thomas jefferson <R> religion <T> deism <H> martha jefferson randolph <R> parents <T> thomas jefferson
+<A> In Time <H> Four Winds <R> track <T> In Time <H> In Time <R> release <T> In Time <H> In Time <R> release <T> In Time
+<A> joseph e davies <H> joseph e davies <R> spouse <T> marjorie merriweather post <H> marjorie merriweather post <R> spouse <T> joseph e davies
+<A> Ministers De-La-Funk <H> Believe <R> song <T> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> artist <T> Ministers De-La-Funk
+<A> Fanatic <H> Phil Lanzon <R> label <T> Legacy Recordings <H> Legacy Recordings <R> releases <T> Fanatic
+<A> China <H> Bi Hui Fu <R> nationality <T> China <H> China <R> song <T> China <H> China <R> song <T> China
+<A> female <H> queen emma of hawaii <R> children <T> albert kamehameha <H> queen emma of hawaii <R> gender <T> female <H> albert kamehameha <R> parents <T> queen emma of hawaii
+<A> victoria of baden <H> maria pavlovna of russia <R> children <T> augusta of saxe-weimar <H> augusta of saxe-weimar <R> children <T> princess louise of prussia <H> princess louise of prussia <R> children <T> victoria of baden
+<A> varese <H> archduchess maria beatrix of austria este <R> children <T> carlos duke of madrid <H> carlos duke of madrid <R> place of death <T> varese
+<A> holyrood palace <H> joan beaufort queen of scotland <R> spouse <T> james i of scotland <H> james i of scotland <R> children <T> james ii of scotland <H> james ii of scotland <R> place of birth <T> holyrood palace
+<A> Twilight <H> Twilight <R> recording <T> Twilight <H> Twilight <R> versions <T> Twilight
+<A> sten sture the younger <H> svante nilsson <R> children <T> sten sture the younger <H> svante nilsson <R> children <T> sten sture the younger <H> sten sture the younger <R> parents <T> svante nilsson
+<A> politician <H> thomas thynne 2nd viscount weymouth <R> children <T> thomas thynne 1st marquess of bath <H> thomas thynne 1st marquess of bath <R> profession <T> politician
+<A> Free <H> Free <R> release <T> Free <H> Free <R> recordings <T> Free <H> Free <R> release <T> Free
+<A> Always <H> Always <R> tracks <T> Always <H> Always <R> recording <T> Always <H> Always <R> recording <T> Always
+<A> Denver <H> Denver <R> tracks <T> Denver <H> Denver <R> tracks <T> Denver <H> Denver <R> tracks <T> Denver
+<A> ljubljana <H> alfonso carlos duke of san jaime <R> parents <T> archduchess maria beatrix of austria este <H> archduchess maria beatrix of austria este <R> children <T> carlos duke of madrid <H> carlos duke of madrid <R> place of birth <T> ljubljana
+<A> catholicism <H> adele of champagne <R> spouse <T> louis vii of france <H> louis vii of france <R> parents <T> louis vi of france <H> louis vi of france <R> religion <T> catholicism
+<A> munich <H> princess adelgunde of bavaria <R> parents <T> maria theresia of austria-este <H> princess adelgunde of bavaria <R> place of death <T> munich <H> maria theresia of austria-este <R> children <T> princess adelgunde of bavaria
+<A> honolulu <H> albert kamehameha <R> parents <T> queen emma of hawaii <H> albert kamehameha <R> place of birth <T> honolulu <H> queen emma of hawaii <R> children <T> albert kamehameha
+<A> male <H> george formby <R> parents <T> george formby ashton under lyne <H> george formby ashton under lyne <R> gender <T> male
+<A> constantinople <H> constantine viii <R> children <T> theodora 0984 <H> theodora 0984 <R> place of death <T> constantinople
+<A> Musical Release <H> Don't Explain <R> releases <T> Gold <H> Gold <R> recording <T> Gold <H> Gold <R> notable types <T> Musical Release
+<A> Buenos Aires <H> Buenos Aires <R> canonical version <T> Buenos Aires <H> Buenos Aires <R> canonical version <T> Buenos Aires <H> Buenos Aires <R> canonical version <T> Buenos Aires
+<A> Rome <H> Gianfranco Parolini <R> place of birth <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> Staind <H> Staind <R> artist <T> Staind <H> Staind <R> artist <T> Staind <H> Staind <R> artist <T> Staind
+<A> Singer-Songwriter <H> Singer-Songwriter <R> tracks <T> Singer-Songwriter <H> Singer-Songwriter <R> tracks <T> Singer-Songwriter <H> Singer-Songwriter <R> tracks <T> Singer-Songwriter
+<A> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> tracks <T> Believe
+<A> united states <H> pearl starr <R> parents <T> belle starr <H> pearl starr <R> nationality <T> united states <H> belle starr <R> children <T> pearl starr
+<A> roman catholic church <H> isabel of spain princess of asturias <R> parents <T> ferdinand ii of the two sicilies <H> ferdinand ii of the two sicilies <R> parents <T> maria isabella of spain <H> maria isabella of spain <R> religion <T> roman catholic church
+<A> Fantasy <H> Golden Axe III <R> cvg genre <T> Fantasy <H> Fantasy <R> recording <T> Fantasy <H> Fantasy <R> recording <T> Fantasy
+<A> joseph i of portugal <H> maria luisa of savoy <R> spouse <T> philip v of spain <H> philip v of spain <R> children <T> mariana victoria of spain <H> mariana victoria of spain <R> spouse <T> joseph i of portugal
+<A> adulakit kitiyakara <H> chulalongkorn <R> children <T> kitiyakara voralaksana <H> kitiyakara voralaksana <R> children <T> nakkhatra mangkala kitiyakara <H> nakkhatra mangkala kitiyakara <R> children <T> adulakit kitiyakara
+<A> aurich <H> rudolf christian count of ostfriesland <R> parents <T> enno iii count of ostfriesland <H> enno iii count of ostfriesland <R> place of birth <T> aurich
+<A> maria theresa of austria <H> francis i holy roman emperor <R> spouse <T> maria theresa of austria <H> francis i holy roman emperor <R> spouse <T> maria theresa of austria <H> maria theresa of austria <R> spouse <T> francis i holy roman emperor
+<A> Dangerous <H> Dangerous <R> recording <T> Dangerous <H> Dangerous <R> recording <T> Dangerous
+<A> francis duke of teck <H> mary of teck <R> parents <T> francis duke of teck <H> francis duke of teck <R> parents <T> claudine rhedey von kis rhede <H> claudine rhedey von kis rhede <R> children <T> francis duke of teck
+<A> Hard Times (live) <H> Close as You Get <R> track list <T> Hard Times <H> Hard Times <R> recordings <T> Hard Times <H> Hard Times <R> recordings <T> Hard Times (live)
+<A> Dogma <H> Dogma <R> album <T> Dogma <H> Dogma <R> album <T> Dogma <H> Dogma <R> album <T> Dogma
+<A> Ultra Naté <H> Free <R> appears in topic gallery <T> Free <H> Free <R> recordings <T> Free <H> Free <R> artist <T> Ultra Naté
+<A> Joni Mitchell <H> The Birth of Venus <R> genre <T> Fiction <H> Fiction <R> artist <T> Joni Mitchell
+<A> potsdam <H> prince joachim of prussia <R> parents <T> william ii german emperor <H> william ii german emperor <R> parents <T> frederick iii german emperor <H> frederick iii german emperor <R> place of death <T> potsdam
+<A> princess charlotte of prussia <H> prince joachim of prussia <R> parents <T> william ii german emperor <H> william ii german emperor <R> parents <T> frederick iii german emperor <H> frederick iii german emperor <R> children <T> princess charlotte of prussia
+<A> female <H> maria eleonora of brandenburg <R> spouse <T> gustavus adolphus of sweden <H> gustavus adolphus of sweden <R> children <T> christina of sweden <H> christina of sweden <R> gender <T> female
+<A> Amsterdam <H> Amsterdam <R> recording <T> Amsterdam <H> Amsterdam <R> recording <T> Amsterdam <H> Amsterdam <R> song <T> Amsterdam
+<A> Mercy <H> Mercy <R> versions <T> Mercy <H> Mercy <R> versions <T> Mercy <H> Mercy <R> versions <T> Mercy
+<A> roman emperor <H> augustus <R> parents <T> atia <H> augustus <R> profession <T> roman emperor <H> atia <R> children <T> augustus
+<A> male <H> mountjoy blount 1st earl of newport <R> parents <T> penelope blount countess of devonshire <H> penelope blount countess of devonshire <R> parents <T> walter devereux 1st earl of essex <H> walter devereux 1st earl of essex <R> gender <T> male
+<A> england <H> eleanor of castile <R> children <T> elizabeth of rhuddlan <H> eleanor of castile <R> nationality <T> england <H> elizabeth of rhuddlan <R> parents <T> eleanor of castile
+<A> Free <H> Free <R> appears in topic gallery <T> Free <H> Free <R> release <T> Free <H> Free <R> appears in topic gallery <T> Free
+<A> archduke carl ludwig of austria <H> princess margaretha of saxony <R> spouse <T> archduke carl ludwig of austria <H> archduke carl ludwig of austria <R> children <T> archduke franz ferdinand of austria <H> archduke franz ferdinand of austria <R> parents <T> archduke carl ludwig of austria
+<A> Azra <H> Parsi-Dari Language <R> main country <T> Iran <H> Iran <R> primary release <T> Iran <H> Iran <R> artist <T> Azra
+<A> female <H> princess viktoria of prussia <R> parents <T> frederick iii german emperor <H> frederick iii german emperor <R> children <T> princess charlotte of prussia <H> princess charlotte of prussia <R> gender <T> female
+<A> catholicism <H> benedita dowager princess of brazil <R> parents <T> mariana victoria of spain <H> mariana victoria of spain <R> spouse <T> joseph i of portugal <H> joseph i of portugal <R> religion <T> catholicism
+<A> groucho marx <H> sam marx <R> children <T> groucho marx <H> sam marx <R> children <T> groucho marx <H> groucho marx <R> parents <T> sam marx
+<A> firearm <H> princess margaretha of saxony <R> spouse <T> archduke carl ludwig of austria <H> archduke carl ludwig of austria <R> children <T> archduke franz ferdinand of austria <H> archduke franz ferdinand of austria <R> cause of death <T> firearm
+<A> shrewsbury <H> george darwin <R> parents <T> charles darwin <H> charles darwin <R> location <T> shrewsbury
+<A> united states <H> charles edison <R> parents <T> thomas edison <H> charles edison <R> nationality <T> united states <H> thomas edison <R> children <T> charles edison
+<A> swedish people <H> george tabori <R> spouse <T> viveca lindfors <H> viveca lindfors <R> ethnicity <T> swedish people
+<A> john i of portugal <H> infanta isabel duchess of burgundy <R> parents <T> john i of portugal <H> infanta isabel duchess of burgundy <R> parents <T> john i of portugal <H> john i of portugal <R> children <T> infanta isabel duchess of burgundy
+<A> manchu <H> noble consort wan <R> spouse <T> qianlong emperor <H> qianlong emperor <R> parents <T> yongzheng emperor <H> yongzheng emperor <R> ethnicity <T> manchu
+<A> princess sophie helene beatrix of france <H> marie antoinette <R> children <T> princess sophie helene beatrix of france <H> princess sophie helene beatrix of france <R> parents <T> louis xvi of france <H> louis xvi of france <R> children <T> princess sophie helene beatrix of france
+<A> Africa <H> Africa <R> recording <T> Africa <H> Africa <R> recording <T> Africa <H> Africa <R> recording <T> Africa
+<A> male <H> thomas lamb eliot <R> parents <T> william greenleaf eliot <H> william greenleaf eliot <R> gender <T> male
+<A> male <H> gojong of korea <R> parents <T> daewon-gun <H> gojong of korea <R> gender <T> male <H> daewon-gun <R> children <T> gojong of korea
+<A> male <H> bhanurangsi savangwongse <R> parents <T> mongkut <H> mongkut <R> children <T> narisara nuvadtivongs <H> narisara nuvadtivongs <R> gender <T> male
+<A> Free <H> Free <R> release <T> Free <H> Free <R> recordings <T> Free <H> Free <R> appears in topic gallery <T> Free
+<A> Strasbourg IG <H> Jean-Marie Hullot <R> nationality <T> France <H> France <R> teams <T> Strasbourg IG
+<A> Sarah Brightman <H> Elliott Yamin <R> track list <T> Free <H> Free <R> recordings <T> Free <H> Free <R> artist <T> Sarah Brightman
+<A> Caesar's Civil War <H> Salwá Bakr <R> nationality <T> Egypt <H> Egypt <R> events <T> Caesar's Civil War
+<A> prince johann georg of saxony <H> george of saxony <R> children <T> princess mathilde of saxony <H> george of saxony <R> children <T> prince johann georg of saxony <H> princess mathilde of saxony <R> parents <T> george of saxony
+<A> Musical Album <H> Lost <R> canonical version <T> Lost <H> Lost <R> notable types <T> Musical Album
+<A> anna deste <H> jacques de savoie 2nd duc de nemours <R> spouse <T> anna deste <H> jacques de savoie 2nd duc de nemours <R> spouse <T> anna deste <H> anna deste <R> spouse <T> jacques de savoie 2nd duc de nemours
+<A> Radiation <H> Radiation <R> recordings <T> Radiation <H> Radiation <R> recordings <T> Radiation <H> Radiation <R> recordings <T> Radiation
+<A> Free <H> Elliott Yamin <R> track list <T> Free <H> Free <R> release <T> Free <H> Free <R> appears in topic gallery <T> Free
+<A> nicholas i of montenegro <H> princess nadejda petrovna of russia <R> parents <T> grand duke peter nicolaievich of russia <H> grand duke peter nicolaievich of russia <R> spouse <T> anastasia of montenegro <H> anastasia of montenegro <R> parents <T> nicholas i of montenegro
+<A> City Town Village <H> Waterloo <R> tracks <T> Waterloo <H> Waterloo <R> tracks <T> Waterloo <H> Waterloo <R> notable types <T> City Town Village
+<A> victoria eugenia of battenberg <H> albert of saxe-coburg and gotha <R> children <T> princess beatrice of the united kingdom <H> princess beatrice of the united kingdom <R> children <T> victoria eugenia of battenberg
+<A> Fantasy <H> Fallen <R> genre <T> Fantasy <H> Fantasy <R> recording <T> Fantasy
+<A> monarch <H> henry viii of england <R> parents <T> henry vii of england <H> henry vii of england <R> profession <T> monarch
+<A> India <H> More Than Ever <R> track list <T> Hollywood <H> Hollywood <R> country <T> India
+<A> Bohemia <H> István Lázár <R> nationality <T> Austria-Hungary <H> Austria-Hungary <R> contains <T> Bohemia
+<A> Belgium <H> Marie Arena <R> nationality <T> Belgium <H> Belgium <R> recording <T> Belgium <H> Belgium <R> recording <T> Belgium
+<A> male <H> margaret of artois <R> spouse <T> louis devreux <H> louis devreux <R> parents <T> philip iii of france <H> philip iii of france <R> gender <T> male
+<A> India <H> Vaikom Vijayalakshmi <R> nationality <T> India <H> India <R> recording <T> India <H> India <R> recording <T> India
+<A> Earthquake <H> Earthquake <R> tracks <T> Earthquake <H> Earthquake <R> tracks <T> Earthquake
+<A> Amsterdam <H> Amsterdam <R> recording <T> Amsterdam <H> Amsterdam <R> recording <T> Amsterdam
+<A> Red <H> Colors EP <R> track list <T> Red <H> Red <R> tracks <T> Red
+<A> tiberius <H> tiberius nero <R> children <T> tiberius <H> tiberius <R> spouse <T> vipsania agrippina <H> vipsania agrippina <R> spouse <T> tiberius
+<A> Ultra Naté <H> Free <R> release <T> Free <H> Free <R> release <T> Free <H> Free <R> artist <T> Ultra Naté
+<A> Purple <H> Purple <R> recording <T> Purple <H> Purple <R> recording <T> Purple <H> Purple <R> recording <T> Purple
+<A> Rome <H> Nicolas Poussin <R> place of death <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> male <H> francis iv duke of modena <R> children <T> archduchess maria beatrix of austria este <H> archduchess maria beatrix of austria este <R> children <T> carlos duke of madrid <H> carlos duke of madrid <R> gender <T> male
+<A> thomas thynne 1st marquess of bath <H> thomas thynne 1st marquess of bath <R> parents <T> thomas thynne 2nd viscount weymouth <H> thomas thynne 2nd viscount weymouth <R> children <T> thomas thynne 1st marquess of bath
+<A> marie de luxembourg queen of france <H> charles iv of france <R> spouse <T> marie de luxembourg queen of france <H> charles iv of france <R> spouse <T> marie de luxembourg queen of france <H> marie de luxembourg queen of france <R> spouse <T> charles iv of france
+<A> Utah <H> Utah <R> releases <T> Utah <H> Utah <R> releases <T> Utah
+<A> sophia eleonore of saxony <H> anna sophia ii abbess of quedlinburg <R> parents <T> sophia eleonore of saxony <H> anna sophia ii abbess of quedlinburg <R> parents <T> sophia eleonore of saxony <H> sophia eleonore of saxony <R> children <T> anna sophia ii abbess of quedlinburg
+<A> vienna <H> friedrich ii eugen duke of wurttemberg <R> children <T> elisabeth of wurttemberg <H> elisabeth of wurttemberg <R> spouse <T> francis ii holy roman emperor <H> francis ii holy roman emperor <R> place of death <T> vienna
+<A> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> song <T> Believe
+<A> tiberius gemellus <H> tiberius nero <R> children <T> tiberius <H> tiberius <R> children <T> julius caesar drusus <H> julius caesar drusus <R> children <T> tiberius gemellus
+<A> charles ii of naples <H> robert of naples <R> parents <T> charles ii of naples <H> charles ii of naples <R> children <T> philip i of taranto <H> philip i of taranto <R> parents <T> charles ii of naples
+<A> frederick wilhelm duke of saxe meiningen <H> bernhard i duke of saxe meiningen <R> children <T> frederick wilhelm duke of saxe meiningen <H> bernhard i duke of saxe meiningen <R> children <T> frederick wilhelm duke of saxe meiningen <H> frederick wilhelm duke of saxe meiningen <R> parents <T> bernhard i duke of saxe meiningen
+<A> Carol of the Bells <H> O Holy Night <R> recording <T> O Holy Night <H> O Holy Night <R> tracks <T> O Holy Night <H> O Holy Night <R> releases <T> Carol of the Bells
+<A> female <H> joseph e davies <R> spouse <T> marjorie merriweather post <H> marjorie merriweather post <R> gender <T> female
+<A> gloucester <H> athelstan of england <R> parents <T> edward the elder <H> athelstan of england <R> place of death <T> gloucester <H> edward the elder <R> children <T> athelstan of england
+<A> Aurora <H> Wave:CD <R> track list <T> Aurora <H> Aurora <R> release <T> Aurora <H> Aurora <R> release <T> Aurora
+<A> Another Day <H> Amsterdam <R> artist <T> Another Day <H> Another Day <R> recording <T> Another Day <H> Another Day <R> recording <T> Another Day
+<A> White House <H> White House <R> versions <T> White House <H> White House <R> versions <T> White House <H> White House <R> versions <T> White House
+<A> baudouin of belgium <H> leopold iii of belgium <R> spouse <T> lilian baels <H> leopold iii of belgium <R> children <T> baudouin of belgium <H> lilian baels <R> spouse <T> leopold iii of belgium
+<A> Monaco <H> Monaco <R> tracks <T> Monaco <H> Monaco <R> tracks <T> Monaco <H> Monaco <R> tracks <T> Monaco
+<A> Miskolc <H> Mátyás Rákosi <R> nationality <T> Austria-Hungary <H> Austria-Hungary <R> contains <T> Miskolc
+<A> Roll Over Beethoven <H> Roll Over Beethoven <R> recording <T> Roll Over Beethoven <H> Roll Over Beethoven <R> recording <T> Roll Over Beethoven <H> Roll Over Beethoven <R> recording <T> Roll Over Beethoven
+<A> princess helena duchess of albany <H> princess alice countess of athlone <R> parents <T> princess helena duchess of albany <H> princess alice countess of athlone <R> parents <T> princess helena duchess of albany <H> princess helena duchess of albany <R> children <T> princess alice countess of athlone
+<A> Black Beauty <H> Success Express <R> organism type <T> Horse <H> Horse <R> works <T> Black Beauty
+<A> tiberius <H> vipsania agrippina <R> spouse <T> tiberius <H> vipsania agrippina <R> spouse <T> tiberius <H> tiberius <R> spouse <T> vipsania agrippina
+<A> Manic Moonlight <H> Believe <R> song <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> releases <T> Manic Moonlight
+<A> No Return <H> Live on Two Legs <R> track <T> Black <H> Black <R> releases <T> No Return
+<A> female <H> abigail campbell kawananakoa <R> children <T> abigail kapiolani kawananakoa <H> abigail campbell kawananakoa <R> gender <T> female <H> abigail kapiolani kawananakoa <R> parents <T> abigail campbell kawananakoa
+<A> male <H> yongzheng emperor <R> children <T> qianlong emperor <H> qianlong emperor <R> children <T> jiaqing emperor <H> jiaqing emperor <R> gender <T> male
+<A> male <H> baldwin v count of flanders <R> children <T> matilda of flanders <H> matilda of flanders <R> children <T> henry i of england <H> henry i of england <R> gender <T> male
+<A> Lost <H> Lost <R> tracks <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> tracks <T> Lost
+<A> Gold <H> Gold <R> recording <T> Gold <H> Gold <R> recording <T> Gold
+<A> richard de clare 2nd earl of pembroke <H> richard de clare 2nd earl of pembroke <R> spouse <T> eva macmurrough <H> eva macmurrough <R> children <T> isabel de clare 4th countess of pembroke <H> isabel de clare 4th countess of pembroke <R> parents <T> richard de clare 2nd earl of pembroke
+<A> Reining in <H> Hurry to Market <R> organism type <T> Horse <H> Horse <R> works <T> Reining in
+<A> Always <H> Always <R> tracks <T> Always <H> Always <R> tracks <T> Always
+<A> The Breakout Trilogy <H> Transistor Rhythm <R> track list <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> release <T> The Breakout Trilogy
+<A> In Time <H> Four Winds <R> track <T> In Time <H> In Time <R> release <T> In Time <H> In Time <R> release <T> In Time
+<A> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> male <H> amun-her-khepeshef <R> parents <T> nefertari <H> nefertari <R> spouse <T> ramesses ii <H> ramesses ii <R> gender <T> male
+<A> Paris <H> René Barjavel <R> place of death <T> Paris <H> Paris <R> tracks <T> Paris <H> Paris <R> tracks <T> Paris
+<A> female <H> grand duchess catherine mikhailovna of russia <R> parents <T> elena pavlovna of wurttemberg <H> elena pavlovna of wurttemberg <R> children <T> grand duchess elizabeth mikhailovna <H> grand duchess elizabeth mikhailovna <R> gender <T> female
+<A> Rome <H> Rome <R> book <T> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> book <T> Rome
+<A> Rome <H> Renato Fasano <R> place of death <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> Southeast Asia <H> Southeast Asia <R> recording <T> Southeast Asia <H> Southeast Asia <R> recording <T> Southeast Asia
+<A> assassination <H> caesonia <R> spouse <T> caligula <H> caligula <R> parents <T> germanicus <H> germanicus <R> cause of death <T> assassination
+<A> alexandra iosifovna of altenburg <H> grand duchess vera konstantinovna of russia <R> parents <T> grand duke konstantin nikolayevich of russia <H> grand duke konstantin nikolayevich of russia <R> children <T> grand duke dmitri konstantinovich of russia <H> grand duke dmitri konstantinovich of russia <R> parents <T> alexandra iosifovna of altenburg
+<A> Guatemala <H> Guatemala <R> tracks <T> Guatemala <H> Guatemala <R> tracks <T> Guatemala <H> Guatemala <R> tracks <T> Guatemala
+<A> Rome <H> Mario Siciliano <R> place of birth <T> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> Painter <H> Painter <R> recording <T> Painter <H> Painter <R> recording <T> Painter <H> Painter <R> recording <T> Painter
+<A> airplane crash <H> georg donatus hereditary grand duke of hesse <R> spouse <T> princess cecilie of greece and denmark <H> princess cecilie of greece and denmark <R> children <T> prince ludwig of hesse and by rhine <H> prince ludwig of hesse and by rhine <R> cause of death <T> airplane crash
+<A> russia <H> tsarevich alexei nikolaevich of russia <R> parents <T> nicholas ii of russia <H> nicholas ii of russia <R> children <T> grand duchess maria nikolaevna of russia <H> grand duchess maria nikolaevna of russia <R> nationality <T> russia
+<A> Martial Arts <H> Martial Arts <R> permission <T> Martial Arts <H> Martial Arts <R> permission <T> Martial Arts
+<A> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> recording <T> Believe
+<A> Toronto <H> Robert R. Coats <R> place of birth <T> Toronto <H> Toronto <R> tracks <T> Toronto <H> Toronto <R> tracks <T> Toronto
+<A> united states <H> katherine corri harris <R> spouse <T> john barrymore <H> john barrymore <R> nationality <T> united states
+<A> swedish american <H> george tabori <R> spouse <T> viveca lindfors <H> viveca lindfors <R> ethnicity <T> swedish american
+<A> harvard university <H> william starling burgess <R> children <T> tasha tudor <H> william starling burgess <R> institution <T> harvard university <H> tasha tudor <R> parents <T> william starling burgess
+<A> princess t chi <H> emperor temmu <R> children <T> princess t chi <H> princess t chi <R> spouse <T> emperor kobun <H> emperor kobun <R> spouse <T> princess t chi
+<A> catholicism <H> margaret of artois <R> spouse <T> louis devreux <H> louis devreux <R> parents <T> philip iii of france <H> philip iii of france <R> religion <T> catholicism
+<A> manuel i of portugal <H> infante fernando duke of viseu <R> spouse <T> beatriz of portugal <H> infante fernando duke of viseu <R> children <T> manuel i of portugal <H> beatriz of portugal <R> spouse <T> infante fernando duke of viseu
+<A> diabetes mellitus <H> evelyn keyes <R> spouse <T> artie shaw <H> artie shaw <R> cause of death <T> diabetes mellitus
+<A> united states <H> belle starr <R> children <T> pearl starr <H> belle starr <R> nationality <T> united states <H> pearl starr <R> parents <T> belle starr
+<A> josephine de beauharnais <H> josephine de beauharnais <R> spouse <T> alexandre vicomte de beauharnais <H> alexandre vicomte de beauharnais <R> children <T> hortense de beauharnais <H> hortense de beauharnais <R> parents <T> josephine de beauharnais
+<A> Another Day <H> Amsterdam <R> artist <T> Another Day <H> Another Day <R> releases <T> Another Day <H> Another Day <R> recording <T> Another Day
+<A> dysentery <H> leopold i duke of austria <R> parents <T> albert i of germany <H> albert i of germany <R> children <T> rudolph i of bohemia <H> rudolph i of bohemia <R> cause of death <T> dysentery
+<A> louis xiv of france <H> louise marie anne de bourbon <R> parents <T> louis xiv of france <H> louise marie anne de bourbon <R> parents <T> louis xiv of france <H> louis xiv of france <R> children <T> louise marie anne de bourbon
+<A> princess charlotte of prussia <H> william ii german emperor <R> parents <T> frederick iii german emperor <H> frederick iii german emperor <R> children <T> princess charlotte of prussia
+<A> germany <H> christina of saxony <R> spouse <T> john i of denmark <H> john i of denmark <R> parents <T> dorothea of brandenburg <H> dorothea of brandenburg <R> nationality <T> germany
+<A> male <H> charles vii holy roman emperor <R> spouse <T> maria amalia of austria <H> maria amalia of austria <R> children <T> louis of etruria <H> louis of etruria <R> gender <T> male
+<A> winchester <H> richard i of england <R> parents <T> henry ii of england <H> henry ii of england <R> parents <T> empress matilda <H> empress matilda <R> place of birth <T> winchester
+<A> united states <H> frank lloyd wright <R> children <T> lloyd wright <H> lloyd wright <R> nationality <T> united states
+<A> portugal <H> infante fernando duke of viseu <R> spouse <T> beatriz of portugal <H> infante fernando duke of viseu <R> nationality <T> portugal <H> beatriz of portugal <R> spouse <T> infante fernando duke of viseu
+<A> Annunciation <H> Annunciation <R> album <T> Annunciation <H> Annunciation <R> album <T> Annunciation <H> Annunciation <R> album <T> Annunciation
+<A> female <H> juba ii <R> spouse <T> cleopatra selene <H> cleopatra selene <R> gender <T> female
+<A> catholicism <H> archduke johann of austria <R> parents <T> maria louisa of spain <H> maria louisa of spain <R> parents <T> charles iii of spain <H> charles iii of spain <R> religion <T> catholicism
+<A> jeanne devreux <H> charles iv of france <R> spouse <T> marie de luxembourg queen of france <H> charles iv of france <R> spouse <T> jeanne devreux <H> marie de luxembourg queen of france <R> spouse <T> charles iv of france
+<A> Eclipse <H> Eclipse <R> versions <T> Eclipse <H> Eclipse <R> versions <T> Eclipse <H> Eclipse <R> versions <T> Eclipse
+<A> catholicism <H> ferdinand ii of portugal <R> children <T> luis i of portugal <H> luis i of portugal <R> parents <T> maria ii of portugal <H> maria ii of portugal <R> religion <T> catholicism
+<A> Prague <H> Mátyás Rákosi <R> nationality <T> Austria-Hungary <H> Austria-Hungary <R> contains <T> Prague
+<A> lausanne <H> princess beatrice of the united kingdom <R> children <T> victoria eugenia of battenberg <H> victoria eugenia of battenberg <R> place of death <T> lausanne
+<A> Mexico <H> Jefe de la Frontera <R> netflix genres <T> Mexico <H> Mexico <R> tracks <T> Mexico <H> Mexico <R> tracks <T> Mexico
+<A> fulk of jerusalem <H> bertrade de montfort <R> spouse <T> fulk iv of anjou <H> bertrade de montfort <R> children <T> fulk of jerusalem <H> fulk iv of anjou <R> spouse <T> bertrade de montfort
+<A> Electric Rendezvous <H> Habanera <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> Electric Rendezvous
+<A> early life of augustus <H> scribonia <R> children <T> julia the elder <H> scribonia <R> spouse <T> early life of augustus <H> julia the elder <R> parents <T> scribonia
+<A> vienna <H> francis i holy roman emperor <R> spouse <T> maria theresa of austria <H> maria theresa of austria <R> children <T> archduchess maria josepha of austria <H> archduchess maria josepha of austria <R> place of death <T> vienna
+<A> peter i of brazil <H> john vi of portugal <R> children <T> peter i of brazil <H> john vi of portugal <R> children <T> peter i of brazil <H> peter i of brazil <R> parents <T> john vi of portugal
+<A> england <H> marguerite of france <R> children <T> eleanor of castile <H> eleanor of castile <R> nationality <T> england
+<A> New York City <H> New York City <R> versions <T> New York City <H> New York City <R> recording <T> New York City <H> New York City <R> recording <T> New York City
+<A> germany <H> princess sophia dorothea of prussia <R> parents <T> frederick william i of prussia <H> frederick william i of prussia <R> children <T> frederick ii of prussia <H> frederick ii of prussia <R> nationality <T> germany
+<A> andria <H> constance of aragon <R> spouse <T> frederick ii holy roman emperor <H> frederick ii holy roman emperor <R> children <T> conrad iv of germany <H> conrad iv of germany <R> place of birth <T> andria
+<A> Believe <H> Transistor Rhythm <R> track list <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> recording <T> Believe
+<A> India <H> India <R> recording <T> India <H> India <R> recording <T> India <H> India <R> recording <T> India
+<A> sophia of prussia <H> elena of greece and denmark <R> parents <T> sophia of prussia <H> elena of greece and denmark <R> parents <T> sophia of prussia <H> sophia of prussia <R> children <T> elena of greece and denmark
+<A> Manic Moonlight <H> Believe <R> tracks <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> releases <T> Manic Moonlight
+<A> male <H> leopold ii holy roman emperor <R> children <T> archduke joseph of austria palatine of hungary <H> archduke joseph of austria palatine of hungary <R> gender <T> male
+<A> Always <H> 21 <R> track list <T> Always <H> Always <R> tracks <T> Always
+<A> united states <H> mrs j mullen <R> children <T> charles e mullen <H> charles e mullen <R> parents <T> gunnery sergeant john e mullin <H> gunnery sergeant john e mullin <R> nationality <T> united states
+<A> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> tracks <T> Lost <H> Lost <R> tracks <T> Lost
+<A> male <H> lady louisa stuart <R> parents <T> john stuart 3rd earl of bute <H> john stuart 3rd earl of bute <R> gender <T> male
+<A> Azra <H> Jamal Mirsadeghi <R> nationality <T> Iran <H> Iran <R> artist <T> Azra
+<A> South Australia <H> South Australia <R> recording <T> South Australia <H> South Australia <R> recording <T> South Australia <H> South Australia <R> tracks <T> South Australia
+<A> Miglustat <H> Miglustat <R> active moieties <T> Miglustat <H> Miglustat <R> active moieties <T> Miglustat <H> Miglustat <R> active moieties <T> Miglustat
+<A> cardiovascular disease <H> madhubala <R> spouse <T> kishore kumar <H> kishore kumar <R> cause of death <T> cardiovascular disease
+<A> Lost <H> Final Day <R> track list <T> Lost <H> Lost <R> canonical version <T> Lost
+<A> female <H> ida lupino <R> spouse <T> louis hayward <H> ida lupino <R> gender <T> female <H> louis hayward <R> spouse <T> ida lupino
+<A> Rome <H> Rome <R> book <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> book <T> Rome
+<A> Sarah Brightman <H> Elliott Yamin <R> track list <T> Free <H> Free <R> release <T> Free <H> Free <R> artist <T> Sarah Brightman
+<A> Believe <H> Lonely House <R> track <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> recording <T> Believe
+<A> Musical Album <H> Lost <R> tracks <T> Lost <H> Lost <R> tracks <T> Lost <H> Lost <R> notable types <T> Musical Album
+<A> Vocal Rendezvous <H> Habanera <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> Vocal Rendezvous
+<A> kingdom of england <H> henry howard 7th duke of norfolk <R> parents <T> henry howard 6th duke of norfolk <H> henry howard 6th duke of norfolk <R> nationality <T> kingdom of england
+<A> Always <H> 21 <R> track list <T> Always <H> Always <R> tracks <T> Always
+<A> Album <H> Transistor Rhythm <R> track list <T> Believe <H> Believe <R> release <T> Greatest Hits <H> Greatest Hits <R> release type <T> Album
+<A> Musical Release <H> Hal Holbrook <R> award nominations <T> Sally Field <H> Sally Field <R> award nominations <T> Sybil <H> Sybil <R> notable types <T> Musical Release
+<A> Belgium <H> Triathlon <R> athletes <T> Belgium <H> Belgium <R> recording <T> Belgium <H> Belgium <R> recording <T> Belgium
+<A> catholicism <H> francis ii holy roman emperor <R> spouse <T> maria teresa of the two sicilies <H> maria teresa of the two sicilies <R> children <T> ferdinand i of austria <H> ferdinand i of austria <R> religion <T> catholicism
+<A> acre israel <H> constance of aragon <R> spouse <T> frederick ii holy roman emperor <H> frederick ii holy roman emperor <R> spouse <T> yolande of jerusalem <H> yolande of jerusalem <R> place of birth <T> acre israel
+<A> Believe <H> Lonely House <R> track <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> recording <T> Believe
+<A> C.K. Vineeth <H> Brahmakulam <R> containedby <T> Kerala <H> Kerala <R> people born here <T> C.K. Vineeth
+<A> male <H> pieter brueghel the elder <R> children <T> pieter brueghel the younger <H> pieter brueghel the elder <R> gender <T> male <H> pieter brueghel the younger <R> parents <T> pieter brueghel the elder
+<A> nola <H> augustus <R> parents <T> atia <H> atia <R> children <T> octavia minor <H> octavia minor <R> place of birth <T> nola
+<A> Earth <H> Transmission in Time <R> region <T> Earth <H> Earth <R> tracks <T> Earth <H> Earth <R> tracks <T> Earth
+<A> Musical Album <H> Blue <R> recording <T> Blue <H> Blue <R> notable types <T> Musical Album
+<A> Always <H> 21 <R> track list <T> Always <H> Always <R> recording <T> Always <H> Always <R> tracks <T> Always
+<A> paris <H> clodoald <R> parents <T> chlodomer <H> clodoald <R> place of birth <T> paris <H> chlodomer <R> children <T> clodoald
+<A> peter iv of aragon <H> john i of aragon <R> children <T> yolande of aragon <H> john i of aragon <R> parents <T> peter iv of aragon <H> yolande of aragon <R> parents <T> john i of aragon
+<A> poet <H> ted hughes <R> children <T> nicholas hughes <H> nicholas hughes <R> parents <T> sylvia plath <H> sylvia plath <R> profession <T> poet
+<A> miguel of portugal <H> charlotte of spain <R> children <T> miguel of portugal <H> miguel of portugal <R> children <T> miguel ii duke of braganza <H> miguel ii duke of braganza <R> parents <T> miguel of portugal
+<A> trinity college cambridge <H> edward smith stanley 14th earl of derby <R> parents <T> edward smith stanley 13th earl of derby <H> edward smith stanley 13th earl of derby <R> institution <T> trinity college cambridge
+<A> The Muffs <H> Another Day <R> recording <T> Another Day <H> Another Day <R> releases <T> Another Day <H> Another Day <R> releases <T> The Muffs
+<A> Language <H> Language <R> related type <T> Language <H> Language <R> related type <T> Language <H> Language <R> related type <T> Language
+<A> India <H> India <R> recording <T> India <H> India <R> recording <T> India <H> India <R> recording <T> India
+<A> male <H> louise juliana of nassau <R> spouse <T> frederick iv elector palatine <H> frederick iv elector palatine <R> gender <T> male
+<A> Iran <H> Alireza Azizi <R> nationality <T> Iran <H> Iran <R> primary release <T> Iran <H> Iran <R> primary release <T> Iran
+<A> male <H> claudine rhedey von kis rhede <R> children <T> francis duke of teck <H> francis duke of teck <R> gender <T> male
+<A> The Guitar Hero <H> Ritmo de la Noche <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> The Guitar Hero
+<A> Musical Album <H> Poison <R> song <T> Poison <H> Poison <R> song <T> Poison <H> Poison <R> notable types <T> Musical Album
+<A> honolulu <H> kalama <R> spouse <T> kamehameha iii <H> kamehameha iii <R> place of death <T> honolulu
+<A> chulalongkorn <H> paripatra <R> parents <T> chulalongkorn <H> paripatra <R> parents <T> chulalongkorn <H> chulalongkorn <R> children <T> paripatra
+<A> isabel de clare 4th countess of pembroke <H> eva macmurrough <R> children <T> isabel de clare 4th countess of pembroke <H> eva macmurrough <R> children <T> isabel de clare 4th countess of pembroke <H> isabel de clare 4th countess of pembroke <R> parents <T> eva macmurrough
+<A> Fantasy <H> Golden Axe III <R> cvg genre <T> Fantasy <H> Fantasy <R> recording <T> Fantasy
+<A> gerberga of saxony <H> louis iv of france <R> children <T> lothair of france <H> lothair of france <R> parents <T> gerberga of saxony
+<A> mountaineering <H> vittorio emanuele count of turin <R> parents <T> amadeo i of spain <H> amadeo i of spain <R> children <T> luigi amedeo duke of the abruzzi <H> luigi amedeo duke of the abruzzi <R> profession <T> mountaineering
+<A> alexandra iosifovna of altenburg <H> alexandra fyodorovna <R> children <T> grand duke konstantin nikolayevich of russia <H> grand duke konstantin nikolayevich of russia <R> children <T> grand duke dmitri konstantinovich of russia <H> grand duke dmitri konstantinovich of russia <R> parents <T> alexandra iosifovna of altenburg
+<A> edward i of england <H> eleanor of castile <R> children <T> elizabeth of rhuddlan <H> eleanor of castile <R> spouse <T> edward i of england <H> elizabeth of rhuddlan <R> parents <T> eleanor of castile
+<A> Creative Work <H> Felix Riebl <R> notable types <T> Songwriter <H> Songwriter <R> notable types <T> Creative Work
+<A> chimalpopoca <H> moctezuma ii <R> children <T> chimalpopoca <H> moctezuma ii <R> children <T> chimalpopoca <H> chimalpopoca <R> parents <T> moctezuma ii
+<A> alice of the united kingdom <H> albert of saxe-coburg and gotha <R> children <T> princess beatrice of the united kingdom <H> albert of saxe-coburg and gotha <R> children <T> alice of the united kingdom <H> princess beatrice of the united kingdom <R> parents <T> albert of saxe-coburg and gotha
+<A> manchu <H> yongzheng emperor <R> children <T> qianlong emperor <H> qianlong emperor <R> ethnicity <T> manchu
+<A> thomas plantagenet 2nd earl of lancaster <H> blanche of artois <R> children <T> thomas plantagenet 2nd earl of lancaster <H> blanche of artois <R> children <T> thomas plantagenet 2nd earl of lancaster <H> thomas plantagenet 2nd earl of lancaster <R> parents <T> blanche of artois
+<A> Buenos Aires <H> Fronte dell'essere <R> track list <T> Buenos Aires <H> Buenos Aires <R> canonical version <T> Buenos Aires
+<A> roman catholic church <H> isabel of spain princess of asturias <R> parents <T> ferdinand ii of the two sicilies <H> ferdinand ii of the two sicilies <R> parents <T> maria isabella of spain <H> maria isabella of spain <R> religion <T> roman catholic church
+<A> Consumer product <H> Free <R> recordings <T> Free <H> Free <R> recordings <T> Free <H> Free <R> notable types <T> Consumer product
+<A> anna pavlovna of russia <H> william i of wurttemberg <R> spouse <T> catherine pavlovna of russia <H> catherine pavlovna of russia <R> parents <T> maria fyodorovna of russia <H> maria fyodorovna of russia <R> children <T> anna pavlovna of russia
+<A> Germans <H> Pina <R> written by <T> Wim Wenders <H> Wim Wenders <R> ethnicity <T> Germans
+<A> english people <H> henry viii of england <R> spouse <T> anne boleyn <H> anne boleyn <R> children <T> elizabeth i of england <H> elizabeth i of england <R> ethnicity <T> english people
+<A> joseph p kennedy jr <H> mary josephine hannon fitzgerald <R> spouse <T> john f fitzgerald <H> john f fitzgerald <R> children <T> rose fitzgerald kennedy <H> rose fitzgerald kennedy <R> children <T> joseph p kennedy jr
+<A> New Orleans <H> Crazy Horse <R> track <T> New Orleans <H> New Orleans <R> releases <T> New Orleans
+<A> saint petersburg <H> alexandra iosifovna of altenburg <R> parents <T> amelia of wurttemberg <H> alexandra iosifovna of altenburg <R> place of death <T> saint petersburg <H> amelia of wurttemberg <R> children <T> alexandra iosifovna of altenburg
+<A> Free <H> Elliott Yamin <R> track list <T> Free <H> Free <R> recordings <T> Free <H> Free <R> release <T> Free
+<A> Vocal Rendezvous <H> Al Di Meola <R> album <T> Ritmo de la Noche <H> Al Di Meola <R> album <T> Vocal Rendezvous <H> Ritmo de la Noche <R> artist <T> Al Di Meola
+<A> Day of the Dead <H> Day of the Dead <R> versions <T> Day of the Dead <H> Day of the Dead <R> versions <T> Day of the Dead <H> Day of the Dead <R> tracks <T> Day of the Dead
+<A> L.A. Doctors <H> Robert Iscove <R> episodes directed <T> Pilot <H> Pilot <R> series <T> L.A. Doctors
+<A> mongkut <H> savang vadhana <R> parents <T> mongkut <H> mongkut <R> spouse <T> piam <H> piam <R> spouse <T> mongkut
+<A> Columbus <H> Columbus <R> releases <T> Columbus <H> Columbus <R> releases <T> Columbus <H> Columbus <R> releases <T> Columbus
+<A> archibald cleghorn <H> kekauluohi likelike <R> children <T> kaiulani <H> kekauluohi likelike <R> spouse <T> archibald cleghorn <H> kaiulani <R> parents <T> kekauluohi likelike
+<A> Liberace <H> O Holy Night <R> tracks <T> O Holy Night <H> O Holy Night <R> recording <T> O Holy Night <H> O Holy Night <R> artist <T> Liberace
+<A> LP <H> LP <R> album <T> LP <H> LP <R> album <T> LP <H> LP <R> album <T> LP
+<A> Sidesaddle <H> Perfect Shirl <R> organism type <T> Horse <H> Horse <R> works <T> Sidesaddle
+<A> Ultra Naté <H> Free <R> release <T> Free <H> Free <R> recordings <T> Free <H> Free <R> artist <T> Ultra Naté
+<A> london <H> christina rossetti <R> parents <T> frances polidori <H> frances polidori <R> parents <T> gaetano polidori <H> gaetano polidori <R> place of death <T> london
+<A> nicholas ii of russia <H> alice of the united kingdom <R> children <T> alexandra fyodorovna of hesse <H> alexandra fyodorovna of hesse <R> children <T> tsarevich alexei nikolaevich of russia <H> tsarevich alexei nikolaevich of russia <R> parents <T> nicholas ii of russia
+<A> Eclipse <H> Eclipse <R> versions <T> Eclipse <H> Eclipse <R> versions <T> Eclipse <H> Eclipse <R> versions <T> Eclipse
+<A> male <H> jeanne ii countess of burgundy <R> spouse <T> philip v of france <H> philip v of france <R> gender <T> male
+<A> catholicism <H> mariana victoria of spain <R> spouse <T> joseph i of portugal <H> joseph i of portugal <R> religion <T> catholicism
+<A> The Prefect <H> The Prefect <R> editions <T> The Prefect <H> The Prefect <R> editions <T> The Prefect
+<A> pneumonia <H> groucho marx <R> parents <T> sam marx <H> groucho marx <R> cause of death <T> pneumonia <H> sam marx <R> children <T> groucho marx
+<A> actor <H> ronald reagan <R> spouse <T> jane wyman <H> jane wyman <R> profession <T> actor
+<A> Lost <H> Final Day <R> track list <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> tracks <T> Lost
+<A> Buenos Aires <H> Yamila Diaz-Rahi <R> place of birth <T> Buenos Aires <H> Buenos Aires <R> canonical version <T> Buenos Aires <H> Buenos Aires <R> canonical version <T> Buenos Aires
+<A> united kingdom <H> john lennon <R> parents <T> julia lennon <H> john lennon <R> nationality <T> united kingdom <H> julia lennon <R> children <T> john lennon
+<A> Compilation album <H> Pulse <R> track <T> Believe <H> Believe <R> release <T> Greatest Hits <H> Greatest Hits <R> album content type <T> Compilation album
+<A> gabriel de borbon <H> charlotte of spain <R> parents <T> charles iv of spain <H> charles iv of spain <R> parents <T> maria amalia of saxony <H> maria amalia of saxony <R> children <T> gabriel de borbon
+<A> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> diplomat <H> nissanka wijeyeratne <R> parents <T> edwin wijeyeratne <H> edwin wijeyeratne <R> profession <T> diplomat
+<A> male <H> verina <R> spouse <T> leo i <H> leo i <R> gender <T> male
+<A> Columbus <H> Columbus <R> releases <T> Columbus <H> Columbus <R> releases <T> Columbus
+<A> male <H> william ii german emperor <R> parents <T> frederick iii german emperor <H> frederick iii german emperor <R> gender <T> male
+<A> male <H> yixin prince gong <R> parents <T> daoguang emperor <H> daoguang emperor <R> gender <T> male
+<A> screenwriter <H> anna lee <R> spouse <T> robert stevenson 1905 <H> robert stevenson 1905 <R> profession <T> screenwriter
+<A> Star <H> Star <R> recording <T> Star <H> Star <R> recording <T> Star <H> Star <R> recording <T> Star
+<A> female <H> tiberius nero <R> children <T> tiberius <H> tiberius <R> spouse <T> vipsania agrippina <H> vipsania agrippina <R> gender <T> female
+<A> male <H> sviatoslav ii of kiev <R> parents <T> olof of sweden <H> olof of sweden <R> gender <T> male
+<A> diabetes mellitus <H> doris dowling <R> spouse <T> artie shaw <H> artie shaw <R> cause of death <T> diabetes mellitus
+<A> Strasbourg IG <H> Philippe Gaumont <R> place of birth <T> France <H> France <R> teams <T> Strasbourg IG
+<A> Always <H> Always <R> recording <T> Always <H> Always <R> tracks <T> Always <H> Always <R> tracks <T> Always
+<A> aquitaine <H> berenguela of castile <R> parents <T> leonora of england <H> leonora of england <R> parents <T> eleanor of aquitaine <H> eleanor of aquitaine <R> location <T> aquitaine
+<A> ogden mills <H> ogden l mills <R> parents <T> ogden mills <H> ogden mills <R> parents <T> darius ogden mills <H> darius ogden mills <R> children <T> ogden mills
+<A> Purple <H> Polydistortion <R> track list <T> Purple <H> Purple <R> recording <T> Purple <H> Purple <R> recording <T> Purple
+<A> female <H> henri dorleans duc daumale <R> parents <T> louis-philippe of france <H> louis-philippe of france <R> spouse <T> maria amalia of the two sicilies <H> maria amalia of the two sicilies <R> gender <T> female
+<A> mongkut <H> savang vadhana <R> parents <T> mongkut <H> mongkut <R> spouse <T> piam <H> piam <R> spouse <T> mongkut
+<A> Red <H> Thomas Nelson <R> books published <T> Red <H> Red <R> tracks <T> Red <H> Red <R> tracks <T> Red
+<A> The Breakout Trilogy <H> Lonely House <R> track <T> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> release <T> The Breakout Trilogy
+<A> julie london <H> bobby troup <R> spouse <T> julie london <H> bobby troup <R> spouse <T> julie london <H> julie london <R> spouse <T> bobby troup
+<A> India <H> Simranjit Singh Mann <R> nationality <T> India <H> India <R> recording <T> India <H> India <R> recording <T> India
+<A> World Sinfonia <H> Habanera <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> World Sinfonia
+<A> martin boehm <H> henry boehm <R> parents <T> martin boehm <H> henry boehm <R> parents <T> martin boehm <H> martin boehm <R> children <T> henry boehm
+<A> charles the simple <H> richilde of provence <R> spouse <T> charles the bald <H> charles the bald <R> children <T> louis the stammerer <H> louis the stammerer <R> children <T> charles the simple
+<A> writer <H> pretty shield <R> spouse <T> goes ahead <H> pretty shield <R> profession <T> writer <H> goes ahead <R> spouse <T> pretty shield
+<A> Belgium <H> Begijnendijk <R> containedby <T> Belgium <H> Belgium <R> recording <T> Belgium <H> Belgium <R> recording <T> Belgium
+<A> Revisited <H> Al Di Meola <R> album <T> Ritmo de la Noche <H> Al Di Meola <R> album <T> Revisited <H> Ritmo de la Noche <R> artist <T> Al Di Meola
+<A> atlantic ocean <H> john f kennedy <R> spouse <T> jacqueline kennedy onassis <H> jacqueline kennedy onassis <R> children <T> john f kennedy jr <H> john f kennedy jr <R> place of death <T> atlantic ocean
+<A> Earth <H> Kiss + Swallow <R> region <T> Earth <H> Earth <R> tracks <T> Earth
+<A> riverdale country school <H> john f kennedy jr <R> parents <T> john f kennedy <H> john f kennedy <R> institution <T> riverdale country school
+<A> Turkey <H> Turkey <R> place <T> Turkey <H> Turkey <R> place <T> Turkey <H> Turkey <R> place <T> Turkey
+<A> monarch <H> alexander ii of russia <R> parents <T> alexandra fyodorovna <H> alexandra fyodorovna <R> spouse <T> nicholas i of russia <H> nicholas i of russia <R> profession <T> monarch
+<A> Lost <H> Francine Pascal <R> book editions published <T> Lost <H> Lost <R> tracks <T> Lost <H> Lost <R> tracks <T> Lost
+<A> germany <H> wilhelmine of bayreuth <R> parents <T> frederick william i of prussia <H> frederick william i of prussia <R> children <T> frederick ii of prussia <H> frederick ii of prussia <R> nationality <T> germany
+<A> male <H> francis ii holy roman emperor <R> spouse <T> maria teresa of the two sicilies <H> maria teresa of the two sicilies <R> children <T> ferdinand i of austria <H> ferdinand i of austria <R> gender <T> male
+<A> maria josepha of portugal <H> maria antonia of portugal <R> parents <T> adelaide of lowenstein wertheim rosenberg <H> adelaide of lowenstein wertheim rosenberg <R> children <T> maria josepha of portugal
+<A> Closer <H> Northern Star <R> track <T> Closer <H> Closer <R> recording <T> Closer
+<A> Strasbourg IG <H> Maurice Halbwachs <R> nationality <T> France <H> France <R> teams <T> Strasbourg IG
+<A> Martial Artist <H> Martial Arts <R> permission <T> Martial Arts <H> Martial Arts <R> permission <T> Martial Artist
+<A> male <H> george formby <R> parents <T> george formby ashton under lyne <H> george formby ashton under lyne <R> gender <T> male
+<A> Peru <H> Peru <R> tracks <T> Peru <H> Peru <R> tracks <T> Peru <H> Peru <R> tracks <T> Peru
+<A> DMX Krew <H> Chagrin River <R> cities <T> Aurora <H> Aurora <R> release <T> Aurora <H> Aurora <R> artist <T> DMX Krew
+<A> The Breakout Trilogy <H> Trax Classix <R> track list <T> Pulse <H> Pulse <R> track <T> Believe <H> Believe <R> release <T> The Breakout Trilogy
+<A> harrow school <H> faisal ii of iraq <R> parents <T> ghazi of iraq <H> faisal ii of iraq <R> institution <T> harrow school <H> ghazi of iraq <R> children <T> faisal ii of iraq
+<A> rome <H> vipsania agrippina <R> spouse <T> tiberius <H> tiberius <R> children <T> julius caesar drusus <H> julius caesar drusus <R> place of birth <T> rome
+<A> female <H> marie antoinette <R> children <T> princess sophie helene beatrix of france <H> princess sophie helene beatrix of france <R> gender <T> female
+<A> typhoid fever <H> john campbell 9th duke of argyll <R> spouse <T> princess louise duchess of argyll <H> princess louise duchess of argyll <R> parents <T> albert of saxe-coburg and gotha <H> albert of saxe-coburg and gotha <R> cause of death <T> typhoid fever
+<A> george i of great britain <H> princess caroline elizabeth of great britain <R> parents <T> george ii of great britain <H> george ii of great britain <R> parents <T> george i of great britain
+<A> firearm <H> nicholas ii of russia <R> children <T> grand duchess maria nikolaevna of russia <H> grand duchess maria nikolaevna of russia <R> cause of death <T> firearm
+<A> I Have a Dream <H> I Have a Dream <R> recording <T> I Have a Dream <H> I Have a Dream <R> recording <T> I Have a Dream
+<A> socialite <H> aristotle onassis <R> spouse <T> jacqueline kennedy onassis <H> jacqueline kennedy onassis <R> children <T> john f kennedy jr <H> john f kennedy jr <R> profession <T> socialite
+<A> Azra <H> Alireza Azizi <R> nationality <T> Iran <H> Iran <R> primary release <T> Iran <H> Iran <R> artist <T> Azra
+<A> John Perry <H> Ballymote <R> people born here <T> Thomas Joseph Drury <H> Ballymote <R> people born here <T> John Perry <H> Thomas Joseph Drury <R> place of birth <T> Ballymote
+<A> One Fine Day <H> Michele Chiavarini <R> compositions <T> One Fine Day <H> One Fine Day <R> split to <T> One Fine Day <H> One Fine Day <R> split to <T> One Fine Day
+<A> male <H> anne of cleves <R> parents <T> john iii duke of cleves <H> john iii duke of cleves <R> gender <T> male
+<A> abigail kapiolani kawananakoa <H> abigail campbell kawananakoa <R> children <T> abigail kapiolani kawananakoa <H> abigail kapiolani kawananakoa <R> parents <T> david kawananakoa <H> david kawananakoa <R> children <T> abigail kapiolani kawananakoa
+<A> Hard Times (live) <H> Hard Times <R> tracks <T> Hard Times <H> Hard Times <R> recordings <T> Hard Times <H> Hard Times <R> recordings <T> Hard Times (live)
+<A> louis of toulouse <H> charles ii of naples <R> children <T> philip i of taranto <H> charles ii of naples <R> children <T> louis of toulouse <H> philip i of taranto <R> parents <T> charles ii of naples
+<A> Lost <H> Francine Pascal <R> book editions published <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> tracks <T> Lost
+<A> matilda of flanders <H> henry i of england <R> parents <T> matilda of flanders <H> henry i of england <R> parents <T> matilda of flanders <H> matilda of flanders <R> children <T> henry i of england
+<A> I Miss You <H> Believe <R> recording <T> Believe <H> Believe <R> release <T> Greatest Hits <H> Greatest Hits <R> track <T> I Miss You
+<A> william i german emperor <H> crown prince wilhelm of germany <R> parents <T> william ii german emperor <H> william ii german emperor <R> parents <T> frederick iii german emperor <H> frederick iii german emperor <R> parents <T> william i german emperor
+<A> susanna of bavaria <H> kunigunde of austria <R> children <T> susanna of bavaria <H> kunigunde of austria <R> children <T> susanna of bavaria <H> susanna of bavaria <R> parents <T> kunigunde of austria
+<A> Ministers De-La-Funk <H> Pulse <R> track <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> artist <T> Ministers De-La-Funk
+<A> male <H> charles lennox 1st duke of richmond <R> children <T> charles lennox 2nd duke of richmond <H> charles lennox 2nd duke of richmond <R> children <T> lord george lennox <H> lord george lennox <R> gender <T> male
+<A> united states <H> julie london <R> spouse <T> bobby troup <H> bobby troup <R> nationality <T> united states
+<A> World Sinfonia <H> Habanera <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> World Sinfonia
+<A> Life Goes On <H> Life Goes On <R> primary release <T> Life Goes On <H> Life Goes On <R> primary release <T> Life Goes On <H> Life Goes On <R> primary release <T> Life Goes On
+<A> Creative Work <H> Marvin Yancy <R> profession <T> Songwriter <H> Songwriter <R> notable types <T> Creative Work
+<A> Revisited <H> Al Di Meola <R> album <T> Ritmo de la Noche <H> Al Di Meola <R> album <T> Revisited <H> Ritmo de la Noche <R> artist <T> Al Di Meola
+<A> male <H> jenny von westphalen <R> children <T> jenny longuet <H> jenny longuet <R> spouse <T> charles longuet <H> charles longuet <R> gender <T> male
+<A> lucius aelius <H> lucius verus <R> parents <T> lucius aelius <H> lucius verus <R> parents <T> lucius aelius <H> lucius aelius <R> children <T> lucius verus
+<A> white latin american <H> peter i of brazil <R> parents <T> john vi of portugal <H> peter i of brazil <R> ethnicity <T> white latin american <H> john vi of portugal <R> children <T> peter i of brazil
+<A> aurich <H> rudolf christian count of ostfriesland <R> parents <T> enno iii count of ostfriesland <H> enno iii count of ostfriesland <R> place of birth <T> aurich
+<A> Hard Times (live) <H> Hard Times <R> tracks <T> Hard Times <H> Hard Times <R> recordings <T> Hard Times <H> Hard Times <R> recordings <T> Hard Times (live)
+<A> Ooh, Baby <H> New York City <R> versions <T> New York City <H> New York City <R> versions <T> New York City <H> New York City <R> releases <T> Ooh, Baby
+<A> venceslas i of bohemia <H> ottokar i of bohemia <R> children <T> venceslas i of bohemia <H> ottokar i of bohemia <R> children <T> venceslas i of bohemia <H> venceslas i of bohemia <R> parents <T> ottokar i of bohemia
+<A> edward clinton 1st earl of lincoln <H> elizabeth clinton countess of lincoln <R> spouse <T> edward clinton 1st earl of lincoln <H> elizabeth clinton countess of lincoln <R> spouse <T> edward clinton 1st earl of lincoln <H> edward clinton 1st earl of lincoln <R> spouse <T> elizabeth clinton countess of lincoln
+<A> maria of montferrat <H> fulk of jerusalem <R> children <T> amalric i of jerusalem <H> amalric i of jerusalem <R> children <T> isabella of jerusalem <H> isabella of jerusalem <R> children <T> maria of montferrat
+<A> united states <H> margaret mead <R> spouse <T> gregory bateson <H> gregory bateson <R> nationality <T> united states
+<A> Lost <H> Lost <R> tracks <T> Lost <H> Lost <R> tracks <T> Lost <H> Lost <R> canonical version <T> Lost
+<A> spain <H> marguerite of france <R> children <T> eleanor of castile <H> eleanor of castile <R> parents <T> ferdinand iii of castile <H> ferdinand iii of castile <R> nationality <T> spain
+<A> united kingdom <H> maria alexandrovna of russia <R> children <T> princess beatrice of edinburgh and saxe-coburg-gotha <H> maria alexandrovna of russia <R> nationality <T> united kingdom <H> princess beatrice of edinburgh and saxe-coburg-gotha <R> parents <T> maria alexandrovna of russia
+<A> princess helene of orleans <H> emanuele filiberto 2nd duke of aosta <R> spouse <T> princess helene of orleans <H> princess helene of orleans <R> children <T> amedeo 3rd duke of aosta <H> amedeo 3rd duke of aosta <R> parents <T> princess helene of orleans
+<A> Like a Virgin <H> Stay <R> recording <T> Stay <H> Stay <R> recording <T> Stay <H> Stay <R> release <T> Like a Virgin
+<A> Rome <H> Vittorio Metz <R> place of death <T> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> jenny longuet <H> jenny longuet <R> parents <T> jenny von westphalen <H> jenny von westphalen <R> children <T> jenny longuet
+<A> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> tracks <T> Believe
+<A> male <H> alexandre vicomte de beauharnais <R> children <T> hortense de beauharnais <H> hortense de beauharnais <R> children <T> napoleon iii of france <H> napoleon iii of france <R> gender <T> male
+<A> magnus i of norway <H> olaf ii of norway <R> children <T> magnus i of norway <H> olaf ii of norway <R> children <T> magnus i of norway <H> magnus i of norway <R> parents <T> olaf ii of norway
+<A> marie josephe of saxony <H> christiane eberhardine of brandenburg bayreuth <R> children <T> augustus iii of poland <H> augustus iii of poland <R> children <T> marie josephe of saxony
+<A> emperor <H> louis the pious <R> parents <T> charlemagne <H> charlemagne <R> profession <T> emperor
+<A> 1920 Summer Olympics <H> James Blake <R> athletes <T> Tennis <H> Tennis <R> olympic games contested <T> 1920 Summer Olympics
+<A> male <H> john v palaiologos <R> children <T> manuel ii palaiologos <H> manuel ii palaiologos <R> children <T> john viii palaiologos <H> john viii palaiologos <R> gender <T> male
+<A> male <H> august anheuser busch sr <R> children <T> adolphus busch iii <H> august anheuser busch sr <R> gender <T> male <H> adolphus busch iii <R> parents <T> august anheuser busch sr
+<A> edward of portugal <H> philippa of lancaster <R> children <T> infante joao of portugal <H> infante joao of portugal <R> parents <T> john i of portugal <H> john i of portugal <R> children <T> edward of portugal
+<A> rome <H> infanta beatriz of spain <R> parents <T> victoria eugenia of battenberg <H> victoria eugenia of battenberg <R> spouse <T> alfonso xiii of spain <H> alfonso xiii of spain <R> location <T> rome
+<A> male <H> michael i rangabe <R> children <T> patriarch ignatios of constantinople <H> patriarch ignatios of constantinople <R> gender <T> male
+<A> O Holy Night <H> O Holy Night <R> tracks <T> O Holy Night <H> O Holy Night <R> tracks <T> O Holy Night <H> O Holy Night <R> recording <T> O Holy Night
+<A> roman catholic church <H> isabel burton <R> spouse <T> richard burton <H> isabel burton <R> religion <T> roman catholic church <H> richard burton <R> spouse <T> isabel burton
+<A> Lost <H> Final Day <R> track list <T> Lost <H> Lost <R> tracks <T> Lost
+<A> wales <H> david lloyd george <R> spouse <T> frances stevenson <H> david lloyd george <R> nationality <T> wales <H> frances stevenson <R> spouse <T> david lloyd george
+<A> episcopal church in the united states of america <H> ogden l mills <R> parents <T> ogden mills <H> ogden mills <R> parents <T> darius ogden mills <H> darius ogden mills <R> religion <T> episcopal church in the united states of america
+<A> archduke joseph of austria palatine of hungary <H> francis i holy roman emperor <R> spouse <T> maria theresa of austria <H> maria theresa of austria <R> children <T> leopold ii holy roman emperor <H> leopold ii holy roman emperor <R> children <T> archduke joseph of austria palatine of hungary
+<A> All Your Life <H> Ritmo de la Noche <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> All Your Life
+<A> Rome <H> Renato Fasano <R> place of death <T> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> book <T> Rome
+<A> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> tracks <T> Believe
+<A> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> princess sophie helene beatrix of france <H> marie antoinette <R> children <T> princess sophie helene beatrix of france <H> princess sophie helene beatrix of france <R> parents <T> louis xvi of france <H> louis xvi of france <R> children <T> princess sophie helene beatrix of france
+<A> rome <H> charles iv of spain <R> children <T> francisco de paula duke of cadiz <H> charles iv of spain <R> place of death <T> rome <H> francisco de paula duke of cadiz <R> parents <T> charles iv of spain
+<A> male <H> elizabeth macquarie <R> spouse <T> lachlan macquarie <H> lachlan macquarie <R> gender <T> male
+<A> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> tracks <T> Lost <H> Lost <R> tracks <T> Lost
+<A> Rome <H> Claudia Gerini <R> place of birth <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> ptolemy xiii theos philopator <H> juba ii <R> spouse <T> cleopatra selene <H> cleopatra selene <R> parents <T> cleopatra vii of egypt <H> cleopatra vii of egypt <R> spouse <T> ptolemy xiii theos philopator
+<A> Russia <H> Sharon Creech <R> works written <T> Heartbeat <H> Heartbeat <R> track <T> Russia
+<A> israel <H> pesach burstein <R> spouse <T> lillian lux <H> pesach burstein <R> nationality <T> israel <H> lillian lux <R> spouse <T> pesach burstein
+<A> henry vii of england <H> margaret beaufort <R> children <T> henry vii of england <H> henry vii of england <R> spouse <T> elizabeth of york <H> elizabeth of york <R> spouse <T> henry vii of england
+<A> edward of portugal <H> john i of portugal <R> children <T> infanta isabel duchess of burgundy <H> john i of portugal <R> children <T> edward of portugal <H> infanta isabel duchess of burgundy <R> parents <T> john i of portugal
+<A> Another Day <H> Amsterdam <R> recording <T> Amsterdam <H> Amsterdam <R> artist <T> Another Day <H> Another Day <R> releases <T> Another Day
+<A> Mercy <H> Mercy <R> recording <T> Mercy <H> Mercy <R> versions <T> Mercy <H> Mercy <R> recording <T> Mercy
+<A> The Breakout Trilogy <H> Believe <R> tracks <T> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> release <T> The Breakout Trilogy
+<A> Rome <H> Rome <R> book <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> elizabeth of york <H> elizabeth of york <R> spouse <T> henry vii of england <H> henry vii of england <R> spouse <T> elizabeth of york
+<A> thomas thynne 2nd viscount weymouth <H> thomas thynne 2nd viscount weymouth <R> children <T> thomas thynne 1st marquess of bath <H> thomas thynne 1st marquess of bath <R> parents <T> thomas thynne 2nd viscount weymouth
+<A> isabella of jerusalem <H> geoffrey v count of anjou <R> parents <T> fulk of jerusalem <H> fulk of jerusalem <R> children <T> amalric i of jerusalem <H> amalric i of jerusalem <R> children <T> isabella of jerusalem
+<A> potsdam <H> princess margaret of prussia <R> parents <T> frederick iii german emperor <H> frederick iii german emperor <R> place of death <T> potsdam
+<A> princess nadejda petrovna of russia <H> grand duke peter nicolaievich of russia <R> children <T> princess nadejda petrovna of russia <H> grand duke peter nicolaievich of russia <R> children <T> princess nadejda petrovna of russia <H> princess nadejda petrovna of russia <R> parents <T> grand duke peter nicolaievich of russia
+<A> Musical Album <H> Final Day <R> track list <T> Lost <H> Lost <R> tracks <T> Lost <H> Lost <R> notable types <T> Musical Album
+<A> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> Lost <H> Lost <R> tracks <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> tracks <T> Lost
+<A> Red Morning <H> Amsterdam <R> recording <T> Amsterdam <H> Amsterdam <R> recording <T> Amsterdam <H> Amsterdam <R> release <T> Red Morning
+<A> john i of portugal <H> john of gaunt 1st duke of lancaster <R> children <T> philippa of lancaster <H> philippa of lancaster <R> children <T> infante joao of portugal <H> infante joao of portugal <R> parents <T> john i of portugal
+<A> dorothea of brandenburg <H> christian ii of denmark <R> parents <T> christina of saxony <H> christina of saxony <R> spouse <T> john i of denmark <H> john i of denmark <R> parents <T> dorothea of brandenburg
+<A> geoffrey ii duke of brittany <H> leonora of england <R> parents <T> eleanor of aquitaine <H> eleanor of aquitaine <R> children <T> geoffrey ii duke of brittany
+<A> male <H> empress xiaoquan cheng <R> spouse <T> daoguang emperor <H> daoguang emperor <R> gender <T> male
+<A> March <H> March <R> recording <T> March <H> March <R> recording <T> March <H> March <R> recording <T> March
+<A> Free <H> Free <R> release <T> Free <H> Free <R> release <T> Free <H> Free <R> appears in topic gallery <T> Free
+<A> lawyer <H> aristotle onassis <R> spouse <T> jacqueline kennedy onassis <H> jacqueline kennedy onassis <R> children <T> john f kennedy jr <H> john f kennedy jr <R> profession <T> lawyer
+<A> Colorado <H> Colorado <R> recording <T> Colorado <H> Colorado <R> recording <T> Colorado
+<A> united states <H> john d spreckels <R> parents <T> claus spreckels <H> john d spreckels <R> nationality <T> united states <H> claus spreckels <R> children <T> john d spreckels
+<A> lightning <H> james otis sr <R> children <T> james otis <H> james otis <R> cause of death <T> lightning
+<A> Believe <H> Transmission <R> track list <T> Pulse <H> Pulse <R> track <T> Believe <H> Believe <R> tracks <T> Believe
+<A> denmark <H> anne of great britain <R> spouse <T> george of denmark <H> george of denmark <R> nationality <T> denmark
+<A> decapitation <H> james hepburn 4th earl of bothwell <R> spouse <T> mary i of scotland <H> mary i of scotland <R> cause of death <T> decapitation
+<A> england <H> leonard jerome <R> children <T> jennie churchill <H> jennie churchill <R> children <T> winston churchill <H> winston churchill <R> nationality <T> england
+<A> Sarah Brightman <H> Free <R> release <T> Free <H> Free <R> release <T> Free <H> Free <R> artist <T> Sarah Brightman
+<A> prince johann georg of saxony <H> george of saxony <R> children <T> princess mathilde of saxony <H> george of saxony <R> children <T> prince johann georg of saxony <H> princess mathilde of saxony <R> parents <T> george of saxony
+<A> Writer <H> Ljubljana <R> people born here <T> Tone Perčič <H> Tone Perčič <R> profession <T> Writer
+<A> female <H> ramon berenguer ii count of barcelona <R> parents <T> ramon berenguer i count of barcelona <H> ramon berenguer i count of barcelona <R> spouse <T> almodis de la marche <H> almodis de la marche <R> gender <T> female
+<A> Wintersville <H> Wintersville <R> place <T> Wintersville <H> Wintersville <R> place <T> Wintersville
+<A> Ace Records <H> Hard Headed Woman <R> lyricist <T> John Lee Hooker <H> John Lee Hooker <R> label <T> Ace Records
+<A> germany <H> ferdinand georg of saxe-coburg-gotha <R> parents <T> franz frederick anton duke of saxe coburg saalfeld <H> franz frederick anton duke of saxe coburg saalfeld <R> children <T> juliane of saxe-coburg-saalfeld <H> juliane of saxe-coburg-saalfeld <R> nationality <T> germany
+<A> Wahid Sali <H> Brahmakulam <R> containedby <T> Kerala <H> Kerala <R> people born here <T> Wahid Sali
+<A> Marathon <H> Marathon <R> recording <T> Marathon <H> Marathon <R> recording <T> Marathon <H> Marathon <R> recording <T> Marathon
+<A> Free <H> Elliott Yamin <R> track list <T> Free <H> Free <R> appears in topic gallery <T> Free <H> Free <R> appears in topic gallery <T> Free
+<A> Ultra Naté <H> Free <R> release <T> Free <H> Free <R> appears in topic gallery <T> Free <H> Free <R> artist <T> Ultra Naté
+<A> The Breakout Trilogy <H> Believe <R> tracks <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> release <T> The Breakout Trilogy
+<A> male <H> princess tenagnework <R> parents <T> haile selassie i of ethiopia <H> haile selassie i of ethiopia <R> gender <T> male
+<A> frederick ii of prussia <H> sofia albertina princess of sweden <R> parents <T> louisa ulrika of prussia <H> louisa ulrika of prussia <R> parents <T> frederick william i of prussia <H> frederick william i of prussia <R> children <T> frederick ii of prussia
+<A> sigismund iii vasa <H> john ii casimir of poland <R> parents <T> sigismund iii vasa <H> sigismund iii vasa <R> children <T> john albert vasa <H> john albert vasa <R> parents <T> sigismund iii vasa
+<A> berlin <H> princess viktoria of prussia <R> parents <T> frederick iii german emperor <H> frederick iii german emperor <R> parents <T> william i german emperor <H> william i german emperor <R> place of birth <T> berlin
+<A> joseph clemens of bavaria <H> henriette adelaide of savoy <R> spouse <T> ferdinand maria elector of bavaria <H> ferdinand maria elector of bavaria <R> children <T> joseph clemens of bavaria
+<A> united states <H> william backhouse astor jr <R> children <T> john jacob astor iv <H> john jacob astor iv <R> nationality <T> united states
+<A> Montevideo <H> On the Run <R> releases <T> Baby <H> Baby <R> release <T> Fever <H> Fever <R> artist <T> Montevideo
+<A> Alphajerked <H> Red <R> tracks <T> Red <H> Red <R> tracks <T> Red <H> Red <R> releases <T> Alphajerked
+<A> Rome <H> Rome <R> book <T> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> India <H> Pramatha Nath Bose <R> nationality <T> India <H> India <R> recording <T> India <H> India <R> recording <T> India
+<A> Toronto <H> Robert R. Coats <R> place of birth <T> Toronto <H> Toronto <R> tracks <T> Toronto
+<A> lady anne blunt <H> lady anne blunt <R> parents <T> william king noel 1st earl of lovelace <H> william king noel 1st earl of lovelace <R> spouse <T> ada lovelace <H> ada lovelace <R> children <T> lady anne blunt
+<A> elizabeth of rhuddlan <H> eleanor of castile <R> children <T> margaret plantagenet <H> eleanor of castile <R> children <T> elizabeth of rhuddlan <H> margaret plantagenet <R> parents <T> eleanor of castile
+<A> brussels <H> adelaide of lowenstein wertheim rosenberg <R> children <T> maria josepha of portugal <H> maria josepha of portugal <R> children <T> elisabeth of bavaria 1876 <H> elisabeth of bavaria 1876 <R> place of death <T> brussels
+<A> Paris <H> Fernandel <R> place of death <T> Paris <H> Paris <R> tracks <T> Paris <H> Paris <R> tracks <T> Paris
+<A> piam <H> sunandha <R> parents <T> piam <H> piam <R> spouse <T> mongkut <H> mongkut <R> spouse <T> piam
+<A> Blow <H> Tiefschwarz <R> track <T> Blow <H> Blow <R> tracks <T> Blow <H> Blow <R> tracks <T> Blow
+<A> Bow <H> Bow <R> tracks <T> Bow <H> Bow <R> tracks <T> Bow <H> Bow <R> tracks <T> Bow
+<A> male <H> peter i of brazil <R> parents <T> john vi of portugal <H> peter i of brazil <R> gender <T> male <H> john vi of portugal <R> children <T> peter i of brazil
+<A> A1 Team France <H> Raymond Radiguet <R> nationality <T> France <H> France <R> teams <T> A1 Team France
+<A> edith craig <H> edith craig <R> parents <T> edward william godwin <H> edward william godwin <R> spouse <T> ellen terry <H> ellen terry <R> children <T> edith craig
+<A> Male <H> New Orleans <R> releases <T> New Orleans <H> New Orleans <R> artist <T> Idris Muhammad <H> Idris Muhammad <R> gender <T> Male
+<A> holy roman emperor <H> elisabeth of austria 1526 <R> parents <T> ferdinand i holy roman emperor <H> ferdinand i holy roman emperor <R> profession <T> holy roman emperor
+<A> paul newman <H> claire olivia newman <R> parents <T> paul newman <H> claire olivia newman <R> parents <T> paul newman <H> paul newman <R> children <T> claire olivia newman
+<A> geoffrey ii duke of brittany <H> leonora of england <R> parents <T> eleanor of aquitaine <H> eleanor of aquitaine <R> children <T> geoffrey ii duke of brittany
+<A> eleanor of castile <H> margaret plantagenet <R> parents <T> eleanor of castile <H> margaret plantagenet <R> parents <T> eleanor of castile <H> eleanor of castile <R> children <T> margaret plantagenet
+<A> cardiovascular disease <H> madhubala <R> spouse <T> kishore kumar <H> kishore kumar <R> cause of death <T> cardiovascular disease
+<A> catholicism <H> mariana victoria of spain <R> parents <T> philip v of spain <H> philip v of spain <R> children <T> charles iii of spain <H> charles iii of spain <R> religion <T> catholicism
+<A> Warrior Queen <H> Warrior Queen <R> track list <T> Warrior Queen <H> Warrior Queen <R> track list <T> Warrior Queen <H> Warrior Queen <R> track list <T> Warrior Queen
+<A> Kim <H> Kim <R> tracks <T> Kim <H> Kim <R> tracks <T> Kim <H> Kim <R> tracks <T> Kim
+<A> male <H> marie of edinburgh <R> children <T> princess ileana of romania <H> princess ileana of romania <R> spouse <T> archduke anton prince of tuscany <H> archduke anton prince of tuscany <R> gender <T> male
+<A> female <H> adelaide of lowenstein wertheim rosenberg <R> children <T> maria josepha of portugal <H> maria josepha of portugal <R> gender <T> female
+<A> ohio <H> thomas edison <R> children <T> charles edison <H> thomas edison <R> location <T> ohio <H> charles edison <R> parents <T> thomas edison
+<A> A Little Bit Special <H> Theodore McCall <R> profession <T> Priest <H> Priest <R> releases <T> A Little Bit Special
+<A> I Have a Dream <H> You're Beautiful <R> track <T> I Have a Dream <H> I Have a Dream <R> recording <T> I Have a Dream
+<A> Hokkaido <H> Hiromi Tsuru <R> place of birth <T> Hokkaido <H> Hokkaido <R> tracks <T> Hokkaido <H> Hokkaido <R> tracks <T> Hokkaido
+<A> beatriz of portugal <H> john of gaunt 1st duke of lancaster <R> children <T> philippa of lancaster <H> philippa of lancaster <R> children <T> infante joao of portugal <H> infante joao of portugal <R> children <T> beatriz of portugal
+<A> maria of montferrat <H> isabella of jerusalem <R> parents <T> amalric i of jerusalem <H> isabella of jerusalem <R> children <T> maria of montferrat <H> amalric i of jerusalem <R> children <T> isabella of jerusalem
+<A> princess mary adelaide of cambridge <H> mary of teck <R> children <T> prince george duke of kent <H> mary of teck <R> parents <T> princess mary adelaide of cambridge <H> prince george duke of kent <R> parents <T> mary of teck
+<A> Robert Carlock <H> Sister Wynona Carr <R> place of birth <T> Cleveland <H> Cleveland <R> writer <T> Robert Carlock
+<A> Caesar's Civil War <H> Salwá Bakr <R> nationality <T> Egypt <H> Egypt <R> events <T> Caesar's Civil War
+<A> madeleine de la tour dauvergne <H> henry iii of france <R> parents <T> catherine de medici <H> catherine de medici <R> parents <T> madeleine de la tour dauvergne
+<A> Manic Moonlight <H> Believe <R> tracks <T> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> releases <T> Manic Moonlight
+<A> Titan <H> Titan <R> versions <T> Titan <H> Titan <R> tracks <T> Titan
+<A> henry i of england <H> edith of scotland <R> spouse <T> henry i of england <H> edith of scotland <R> spouse <T> henry i of england <H> henry i of england <R> spouse <T> edith of scotland
+<A> Indiana <H> Trenton <R> containedby <T> Indiana <H> Indiana <R> recording <T> Indiana <H> Indiana <R> recording <T> Indiana
+<A> grand duchess <H> alexandra fyodorovna of hesse <R> children <T> grand duchess anastasia nikolaevna of russia <H> grand duchess anastasia nikolaevna of russia <R> profession <T> grand duchess
+<A> Tom George <H> Brahmakulam <R> containedby <T> Kerala <H> Kerala <R> people born here <T> Tom George
+<A> Lost <H> Francine Pascal <R> book editions published <T> Lost <H> Lost <R> tracks <T> Lost <H> Lost <R> canonical version <T> Lost
+<A> theophano <H> romanos ii <R> children <T> basil ii <H> basil ii <R> parents <T> nikephoros ii <H> nikephoros ii <R> spouse <T> theophano
+<A> OK <H> Eclipse <R> versions <T> Eclipse <H> Eclipse <R> versions <T> Eclipse <H> Eclipse <R> releases <T> OK
+<A> Toronto <H> Constance Rooke <R> place of death <T> Toronto <H> Toronto <R> tracks <T> Toronto <H> Toronto <R> tracks <T> Toronto
+<A> male <H> ferdinand vii of spain <R> parents <T> maria luisa of parma <H> maria luisa of parma <R> children <T> infante carlos count of molina <H> infante carlos count of molina <R> gender <T> male
+<A> ernest elector of saxony <H> christina of saxony <R> parents <T> ernest elector of saxony <H> christina of saxony <R> parents <T> ernest elector of saxony <H> ernest elector of saxony <R> children <T> christina of saxony
+<A> gojong of korea <H> daewon-gun <R> children <T> gojong of korea <H> daewon-gun <R> children <T> gojong of korea <H> gojong of korea <R> parents <T> daewon-gun
+<A> abigail kapiolani kawananakoa <H> abigail campbell kawananakoa <R> children <T> abigail kapiolani kawananakoa <H> abigail campbell kawananakoa <R> children <T> abigail kapiolani kawananakoa <H> abigail kapiolani kawananakoa <R> parents <T> abigail campbell kawananakoa
+<A> He & Carmen <H> Ritmo de la Noche <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> He & Carmen
+<A> India <H> Jeans <R> netflix genres <T> India <H> India <R> recording <T> India <H> India <R> recording <T> India
+<A> male <H> louis philippe i duke of orleans <R> parents <T> louis of bourbon duke of orleans <H> louis of bourbon duke of orleans <R> gender <T> male
+<A> qianlong emperor <H> noble consort wan <R> spouse <T> qianlong emperor <H> qianlong emperor <R> parents <T> yongzheng emperor <H> yongzheng emperor <R> children <T> qianlong emperor
+<A> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> recording <T> Believe
+<A> francois duke of anjou <H> claude of france <R> spouse <T> francis i of france <H> francis i of france <R> children <T> henry ii of france <H> henry ii of france <R> children <T> francois duke of anjou
+<A> david lloyd george <H> frances stevenson <R> spouse <T> david lloyd george <H> frances stevenson <R> spouse <T> david lloyd george <H> david lloyd george <R> spouse <T> frances stevenson
+<A> The Breakout Trilogy <H> Believe <R> tracks <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> release <T> The Breakout Trilogy
+<A> kanteerava narasimharaja wadiyar <H> jayachamaraja wodeyar bahadur <R> parents <T> kanteerava narasimharaja wadiyar <H> jayachamaraja wodeyar bahadur <R> parents <T> kanteerava narasimharaja wadiyar <H> kanteerava narasimharaja wadiyar <R> children <T> jayachamaraja wodeyar bahadur
+<A> Xenophon <H> Xenophon <R> namesakes <T> Xenophon <H> Xenophon <R> namesakes <T> Xenophon <H> Xenophon <R> namesakes <T> Xenophon
+<A> Paris <H> Paris <R> tracks <T> Paris <H> Paris <R> tracks <T> Paris
+<A> edith of scotland <H> henry i of england <R> parents <T> matilda of flanders <H> henry i of england <R> spouse <T> edith of scotland <H> matilda of flanders <R> children <T> henry i of england
+<A> joan crawford <H> phillip terry <R> spouse <T> joan crawford <H> phillip terry <R> spouse <T> joan crawford <H> joan crawford <R> spouse <T> phillip terry
+<A> female <H> guillaume iv grand duke of luxembourg <R> parents <T> adolphe grand duke of luxembourg <H> adolphe grand duke of luxembourg <R> spouse <T> grand duchess elizabeth mikhailovna <H> grand duchess elizabeth mikhailovna <R> gender <T> female
+<A> henry boehm <H> martin boehm <R> children <T> henry boehm <H> martin boehm <R> children <T> henry boehm <H> henry boehm <R> parents <T> martin boehm
+<A> theodosius i <H> aelia eudoxia <R> spouse <T> arcadius <H> arcadius <R> parents <T> theodosius i
+<A> Bunnell <H> Bunnell <R> place <T> Bunnell <H> Bunnell <R> place <T> Bunnell <H> Bunnell <R> place <T> Bunnell
+<A> aalborg <H> ernest elector of saxony <R> children <T> christina of saxony <H> christina of saxony <R> spouse <T> john i of denmark <H> john i of denmark <R> place of birth <T> aalborg
+<A> catholicism <H> charles iv of spain <R> children <T> francisco de paula duke of cadiz <H> charles iv of spain <R> religion <T> catholicism <H> francisco de paula duke of cadiz <R> parents <T> charles iv of spain
+<A> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> tracks <T> Believe
+<A> rudolf cardinal von habsburg lothringen <H> archduke louis of austria <R> parents <T> leopold ii holy roman emperor <H> leopold ii holy roman emperor <R> children <T> rudolf cardinal von habsburg lothringen
+<A> abigail kapiolani kawananakoa <H> abigail campbell kawananakoa <R> children <T> abigail kapiolani kawananakoa <H> abigail kapiolani kawananakoa <R> parents <T> david kawananakoa <H> david kawananakoa <R> children <T> abigail kapiolani kawananakoa
+<A> germany <H> catherine dolgorukov <R> spouse <T> alexander ii of russia <H> alexander ii of russia <R> parents <T> alexandra fyodorovna <H> alexandra fyodorovna <R> nationality <T> germany
+<A> female <H> princess helena of the united kingdom <R> children <T> prince christian victor of schleswig-holstein <H> princess helena of the united kingdom <R> gender <T> female <H> prince christian victor of schleswig-holstein <R> parents <T> princess helena of the united kingdom
+<A> Consumer product <H> Free <R> release <T> Free <H> Free <R> recordings <T> Free <H> Free <R> notable types <T> Consumer product
+<A> hungary <H> geza i of hungary <R> children <T> prince almos <H> prince almos <R> nationality <T> hungary
+<A> The Breakout Trilogy <H> Believe <R> recording <T> Believe <H> Believe <R> release <T> The Breakout Trilogy
+<A> natalya alexeevna <H> maria miloslavskaya <R> children <T> feodor iii of russia <H> feodor iii of russia <R> parents <T> alexis i of russia <H> alexis i of russia <R> children <T> natalya alexeevna
+<A> Aurora <H> Wave:CD <R> track list <T> Aurora <H> Aurora <R> release <T> Aurora
+<A> female <H> maria fyodorovna of russia <R> children <T> alexandra pavlovna of russia <H> alexandra pavlovna of russia <R> gender <T> female
+<A> santa barbara <H> anna lee <R> spouse <T> robert stevenson 1905 <H> robert stevenson 1905 <R> place of death <T> santa barbara
+<A> charles iv of spain <H> maria amalia of saxony <R> children <T> charles iv of spain <H> charles iv of spain <R> children <T> francisco de paula duke of cadiz <H> francisco de paula duke of cadiz <R> parents <T> charles iv of spain
+<A> Paris <H> René Barjavel <R> place of death <T> Paris <H> Paris <R> tracks <T> Paris <H> Paris <R> tracks <T> Paris
+<A> Always <H> 21 <R> track list <T> Always <H> Always <R> tracks <T> Always <H> Always <R> recording <T> Always
+<A> moctezuma ii <H> chimalpopoca <R> parents <T> moctezuma ii <H> chimalpopoca <R> parents <T> moctezuma ii <H> moctezuma ii <R> children <T> chimalpopoca
+<A> Greatest Hits <H> Lonely House <R> track <T> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> release <T> Greatest Hits
+<A> Live From Las Vegas <H> Robin Hood <R> recording <T> Robin Hood <H> Robin Hood <R> recording <T> Robin Hood <H> Robin Hood <R> releases <T> Live From Las Vegas
+<A> male <H> elisabeth of wurttemberg <R> spouse <T> francis ii holy roman emperor <H> francis ii holy roman emperor <R> children <T> ferdinand i of austria <H> ferdinand i of austria <R> gender <T> male
+<A> francoise marie de bourbon <H> louis philippe i duke of orleans <R> parents <T> louis of bourbon duke of orleans <H> louis of bourbon duke of orleans <R> parents <T> francoise marie de bourbon
+<A> All the Small Things <H> Believe <R> song <T> Believe <H> Believe <R> release <T> Greatest Hits <H> Greatest Hits <R> track <T> All the Small Things
+<A> umberto i of italy <H> vittorio emanuele count of turin <R> parents <T> amadeo i of spain <H> amadeo i of spain <R> parents <T> maria adelaide of austria <H> maria adelaide of austria <R> children <T> umberto i of italy
+<A> Ministers De-La-Funk <H> Transistor Rhythm <R> track list <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> artist <T> Ministers De-La-Funk
+<A> prince ludwig of hesse and by rhine <H> eleonore of solms hohensolms lich <R> children <T> georg donatus hereditary grand duke of hesse <H> georg donatus hereditary grand duke of hesse <R> spouse <T> princess cecilie of greece and denmark <H> princess cecilie of greece and denmark <R> children <T> prince ludwig of hesse and by rhine
+<A> honolulu <H> albert kamehameha <R> parents <T> queen emma of hawaii <H> albert kamehameha <R> place of birth <T> honolulu <H> queen emma of hawaii <R> children <T> albert kamehameha
+<A> female <H> joan crawford <R> spouse <T> phillip terry <H> joan crawford <R> gender <T> female <H> phillip terry <R> spouse <T> joan crawford
+<A> male <H> matilda of flanders <R> spouse <T> william i of england <H> william i of england <R> gender <T> male
+<A> male <H> eleanor of aquitaine <R> children <T> geoffrey ii duke of brittany <H> geoffrey ii duke of brittany <R> children <T> arthur i duke of brittany <H> arthur i duke of brittany <R> gender <T> male
+<A> Reining in <H> Abercrombie <R> organism type <T> Horse <H> Horse <R> works <T> Reining in
+<A> Compilation album <H> Believe <R> recording <T> Believe <H> Believe <R> release <T> Greatest Hits <H> Greatest Hits <R> album content type <T> Compilation album
+<A> Rome <H> Gianfranco Parolini <R> place of birth <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> napoleon iii of france <H> josephine de beauharnais <R> spouse <T> alexandre vicomte de beauharnais <H> alexandre vicomte de beauharnais <R> children <T> hortense de beauharnais <H> hortense de beauharnais <R> children <T> napoleon iii of france
+<A> alexander darcy <H> arleen whelan <R> spouse <T> alexander darcy <H> arleen whelan <R> spouse <T> alexander darcy <H> alexander darcy <R> spouse <T> arleen whelan
+<A> female <H> margaret of england <R> parents <T> eleanor of provence <H> eleanor of provence <R> children <T> beatrice of england <H> beatrice of england <R> gender <T> female
+<A> renee of france <H> henry i duke of guise <R> parents <T> anna deste <H> anna deste <R> parents <T> renee of france
+<A> Sudheesh <H> Brahmakulam <R> containedby <T> Kerala <H> Kerala <R> people born here <T> Sudheesh
+<A> banker <H> james mayer de rothschild <R> children <T> charlotte de rothschild <H> james mayer de rothschild <R> profession <T> banker <H> charlotte de rothschild <R> parents <T> james mayer de rothschild
+<A> hortense de beauharnais <H> eugene de beauharnais <R> parents <T> josephine de beauharnais <H> josephine de beauharnais <R> spouse <T> alexandre vicomte de beauharnais <H> alexandre vicomte de beauharnais <R> children <T> hortense de beauharnais
+<A> male <H> john b kelly sr <R> children <T> grace kelly <H> grace kelly <R> spouse <T> rainier iii prince of monaco <H> rainier iii prince of monaco <R> gender <T> male
+<A> paris <H> margaret of france duchess of berry <R> parents <T> francis i of france <H> francis i of france <R> children <T> henry ii of france <H> henry ii of france <R> place of death <T> paris
+<A> male <H> darius ogden mills <R> children <T> ogden mills <H> darius ogden mills <R> gender <T> male <H> ogden mills <R> parents <T> darius ogden mills
+<A> Earth <H> Earth <R> tracks <T> Earth <H> Earth <R> tracks <T> Earth
+<A> Michael Jackson <H> Michael Jackson <R> recording <T> Michael Jackson <H> Michael Jackson <R> recording <T> Michael Jackson <H> Michael Jackson <R> recording <T> Michael Jackson
+<A> Another Day <H> Amsterdam <R> song <T> Amsterdam <H> Amsterdam <R> artist <T> Another Day <H> Another Day <R> recording <T> Another Day
+<A> louis xiv of france <H> francoise daubigne marquise de maintenon <R> spouse <T> louis xiv of france <H> louis xiv of france <R> children <T> louise marie anne de bourbon <H> louise marie anne de bourbon <R> parents <T> louis xiv of france
+<A> windsor castle <H> george iii of the united kingdom <R> children <T> george iv of the united kingdom <H> george iv of the united kingdom <R> place of death <T> windsor castle
+<A> female <H> princess nadejda petrovna of russia <R> parents <T> grand duke peter nicolaievich of russia <H> grand duke peter nicolaievich of russia <R> spouse <T> anastasia of montenegro <H> anastasia of montenegro <R> gender <T> female
+<A> france <H> louis duke of nemours <R> children <T> gaston comte deu <H> gaston comte deu <R> nationality <T> france
+<A> Free <H> Free <R> recordings <T> Free <H> Free <R> release <T> Free <H> Free <R> recordings <T> Free
+<A> john viii palaiologos <H> constantine dragas <R> children <T> helena draga <H> helena draga <R> spouse <T> manuel ii palaiologos <H> manuel ii palaiologos <R> children <T> john viii palaiologos
+<A> catholicism <H> franz josef i prince of liechtenstein <R> children <T> johann i josef prince of liechtenstein <H> johann i josef prince of liechtenstein <R> religion <T> catholicism
+<A> female <H> casimir margrave of brandenburg bayreuth <R> parents <T> susanna of bavaria <H> susanna of bavaria <R> parents <T> kunigunde of austria <H> kunigunde of austria <R> gender <T> female
+<A> chulalongkorn <H> saovabha <R> parents <T> piam <H> piam <R> spouse <T> mongkut <H> mongkut <R> children <T> chulalongkorn
+<A> william i german emperor <H> maria pavlovna of russia <R> children <T> augusta of saxe-weimar <H> augusta of saxe-weimar <R> children <T> princess louise of prussia <H> princess louise of prussia <R> parents <T> william i german emperor
+<A> robert c wickliffe <H> charles a wickliffe <R> children <T> robert c wickliffe <H> charles a wickliffe <R> children <T> robert c wickliffe <H> robert c wickliffe <R> parents <T> charles a wickliffe
+<A> spain <H> maria luisa of savoy <R> spouse <T> philip v of spain <H> philip v of spain <R> children <T> charles iii of spain <H> charles iii of spain <R> nationality <T> spain
+<A> Another Day <H> Amsterdam <R> song <T> Amsterdam <H> Amsterdam <R> recording <T> Amsterdam <H> Amsterdam <R> artist <T> Another Day
+<A> sigismund i the old <H> casimir iv jagiellon <R> children <T> john i albert of poland <H> john i albert of poland <R> spouse <T> elisabeth of austria <H> elisabeth of austria <R> children <T> sigismund i the old
+<A> graz <H> francis iv duke of modena <R> children <T> archduchess maria beatrix of austria este <H> archduchess maria beatrix of austria este <R> place of death <T> graz
+<A> germany <H> louisa ulrika of prussia <R> parents <T> frederick william i of prussia <H> frederick william i of prussia <R> children <T> frederick ii of prussia <H> frederick ii of prussia <R> nationality <T> germany
+<A> grand duke peter nicolaievich of russia <H> duke peter of oldenburg <R> children <T> grand duchess alexandra petrovna <H> grand duchess alexandra petrovna <R> children <T> grand duke peter nicolaievich of russia
+<A> varese <H> alfonso carlos duke of san jaime <R> parents <T> archduchess maria beatrix of austria este <H> archduchess maria beatrix of austria este <R> children <T> carlos duke of madrid <H> carlos duke of madrid <R> place of death <T> varese
+<A> pneumonia <H> anahareo <R> spouse <T> grey owl <H> grey owl <R> cause of death <T> pneumonia
+<A> Twilight <H> Twilight <R> recording <T> Twilight <H> Twilight <R> versions <T> Twilight <H> Twilight <R> recording <T> Twilight
+<A> princess helene of orleans <H> amedeo 3rd duke of aosta <R> parents <T> princess helene of orleans <H> amedeo 3rd duke of aosta <R> parents <T> princess helene of orleans <H> princess helene of orleans <R> children <T> amedeo 3rd duke of aosta
+<A> hinduism <H> madhubala <R> spouse <T> kishore kumar <H> kishore kumar <R> religion <T> hinduism
+<A> assassination <H> justinus van nassau <R> parents <T> william the silent <H> william the silent <R> cause of death <T> assassination
+<A> princess katherine of greece and denmark <H> prince sigismund of prussia <R> parents <T> victoria princess royal <H> victoria princess royal <R> children <T> sophia of prussia <H> sophia of prussia <R> children <T> princess katherine of greece and denmark
+<A> berlin <H> louisa ulrika of prussia <R> parents <T> frederick william i of prussia <H> frederick william i of prussia <R> children <T> frederick ii of prussia <H> frederick ii of prussia <R> location <T> berlin
+<A> India <H> Dum <R> country <T> India <H> India <R> recording <T> India
+<A> Always <H> Always <R> tracks <T> Always <H> Always <R> tracks <T> Always <H> Always <R> recording <T> Always
+<A> Believe <H> Pulse <R> track <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> tracks <T> Believe
+<A> female <H> vasili i of russia <R> parents <T> eudoxia of moscow <H> eudoxia of moscow <R> gender <T> female
+<A> China <H> Hong Liangji <R> nationality <T> China <H> China <R> song <T> China <H> China <R> song <T> China
+<A> grand duke alexei mikhailovich of russia <H> grand duke george mikhailovich of russia <R> parents <T> olga feodorovna grand duchess of russia <H> olga feodorovna grand duchess of russia <R> children <T> grand duke alexei mikhailovich of russia
+<A> united states <H> gussie busch <R> parents <T> august anheuser busch sr <H> august anheuser busch sr <R> children <T> adolphus busch iii <H> adolphus busch iii <R> nationality <T> united states
+<A> Rome <H> Nicolas Poussin <R> place of death <T> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> book <T> Rome
+<A> male <H> berenguela of castile <R> parents <T> leonora of england <H> leonora of england <R> parents <T> henry ii of england <H> henry ii of england <R> gender <T> male
+<A> united states <H> david carradine <R> parents <T> john carradine <H> john carradine <R> nationality <T> united states
+<A> Reining in <H> Maintenon <R> organism type <T> Horse <H> Horse <R> works <T> Reining in
+<A> prince andrew of greece and denmark <H> georg donatus hereditary grand duke of hesse <R> spouse <T> princess cecilie of greece and denmark <H> princess cecilie of greece and denmark <R> parents <T> prince andrew of greece and denmark
+<A> female <H> lady cynthia mosley <R> parents <T> mary curzon baroness curzon of kedleston <H> mary curzon baroness curzon of kedleston <R> gender <T> female
+<A> Blue <H> Blue <R> recording <T> Blue <H> Blue <R> recording <T> Blue
+<A> screenwriter <H> sigurd ibsen <R> children <T> tancred ibsen <H> tancred ibsen <R> profession <T> screenwriter
+<A> BIRTH <H> BIRTH <R> primary release <T> BIRTH <H> BIRTH <R> primary release <T> BIRTH <H> BIRTH <R> primary release <T> BIRTH
+<A> Buenos Aires <H> Tangocrisis <R> origin <T> Buenos Aires <H> Buenos Aires <R> canonical version <T> Buenos Aires <H> Buenos Aires <R> canonical version <T> Buenos Aires
+<A> female <H> nicholas ii of russia <R> children <T> grand duchess maria nikolaevna of russia <H> grand duchess maria nikolaevna of russia <R> gender <T> female
+<A> new york <H> anna e roosevelt <R> parents <T> franklin d roosevelt <H> franklin d roosevelt <R> parents <T> james roosevelt sr <H> james roosevelt sr <R> place of death <T> new york
+<A> male <H> charles ii of naples <R> children <T> philip i of taranto <H> charles ii of naples <R> gender <T> male <H> philip i of taranto <R> parents <T> charles ii of naples
+<A> saint petersburg <H> nicholas ii of russia <R> parents <T> maria fyodorovna <H> maria fyodorovna <R> spouse <T> alexander iii of russia <H> alexander iii of russia <R> location <T> saint petersburg
+<A> Rome <H> Ettore Marchiafava <R> place of birth <T> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> female <H> juba ii <R> spouse <T> cleopatra selene <H> cleopatra selene <R> gender <T> female
+<A> Rome <H> Rome <R> book <T> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> canonical version <T> Rome
+<A> parkinsons disease <H> lynn redgrave <R> parents <T> michael redgrave <H> michael redgrave <R> cause of death <T> parkinsons disease
+<A> female <H> joseph p kennedy sr <R> children <T> rosemary kennedy <H> rosemary kennedy <R> gender <T> female
+<A> Titan <H> Titan <R> versions <T> Titan <H> Titan <R> tracks <T> Titan <H> Titan <R> versions <T> Titan
+<A> spain <H> elizabeth of rhuddlan <R> parents <T> eleanor of castile <H> eleanor of castile <R> parents <T> ferdinand iii of castile <H> ferdinand iii of castile <R> nationality <T> spain
+<A> islam <H> akbar <R> spouse <T> jodhabai <H> jodhabai <R> children <T> jahangir <H> jahangir <R> religion <T> islam
+<A> united states <H> phillip terry <R> spouse <T> joan crawford <H> phillip terry <R> nationality <T> united states <H> joan crawford <R> spouse <T> phillip terry
+<A> delft university of technology <H> anton philips <R> children <T> frits philips <H> frits philips <R> institution <T> delft university of technology
+<A> alexandre vicomte de beauharnais <H> napoleon louis bonaparte <R> parents <T> hortense de beauharnais <H> hortense de beauharnais <R> parents <T> josephine de beauharnais <H> josephine de beauharnais <R> spouse <T> alexandre vicomte de beauharnais
+<A> jiaqing emperor <H> noble consort wan <R> spouse <T> qianlong emperor <H> qianlong emperor <R> children <T> jiaqing emperor
+<A> conducting <H> franz liszt <R> children <T> cosima wagner <H> cosima wagner <R> children <T> siegfried wagner <H> siegfried wagner <R> profession <T> conducting
+<A> Another Day <H> Amsterdam <R> recording <T> Amsterdam <H> Amsterdam <R> artist <T> Another Day <H> Another Day <R> releases <T> Another Day
+<A> julius caesar drusus <H> tiberius nero <R> children <T> tiberius <H> tiberius <R> children <T> julius caesar drusus
+<A> Compact disc <H> Eloise <R> subjects <T> Christmas <H> Christmas <R> format <T> Compact disc
+<A> Busted <H> Busted <R> recording <T> Busted <H> Busted <R> recording <T> Busted <H> Busted <R> recording <T> Busted
+<A> Manic Moonlight <H> Believe <R> song <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> releases <T> Manic Moonlight
+<A> Azra <H> Sussan Deyhim <R> nationality <T> Iran <H> Iran <R> primary release <T> Iran <H> Iran <R> artist <T> Azra
+<A> united states <H> robert c wickliffe <R> parents <T> charles a wickliffe <H> charles a wickliffe <R> nationality <T> united states
+<A> henri victor regnault <H> henri regnault <R> parents <T> henri victor regnault <H> henri regnault <R> parents <T> henri victor regnault <H> henri victor regnault <R> children <T> henri regnault
+<A> russia <H> louise of mecklenburg-strelitz <R> children <T> alexandra fyodorovna <H> alexandra fyodorovna <R> children <T> grand duke konstantin nikolayevich of russia <H> grand duke konstantin nikolayevich of russia <R> nationality <T> russia
+<A> england <H> george grossmith jr <R> parents <T> george grossmith <H> george grossmith <R> nationality <T> england
+<A> Paris <H> Raymond Marcellin <R> place of death <T> Paris <H> Paris <R> tracks <T> Paris <H> Paris <R> tracks <T> Paris
+<A> playwright <H> feodor iii of russia <R> parents <T> alexis i of russia <H> alexis i of russia <R> children <T> natalya alexeevna <H> natalya alexeevna <R> profession <T> playwright
+<A> Carol of the Bells <H> O Holy Night <R> tracks <T> O Holy Night <H> O Holy Night <R> tracks <T> O Holy Night <H> O Holy Night <R> releases <T> Carol of the Bells
+<A> judaism <H> sarah <R> spouse <T> abraham <H> abraham <R> religion <T> judaism
+<A> sophia dorothea of celle <H> princess sophia dorothea of prussia <R> parents <T> sophia dorothea of hanover <H> sophia dorothea of hanover <R> parents <T> sophia dorothea of celle
+<A> maria of montferrat <H> constance of aragon <R> spouse <T> frederick ii holy roman emperor <H> frederick ii holy roman emperor <R> spouse <T> yolande of jerusalem <H> yolande of jerusalem <R> parents <T> maria of montferrat
+<A> Titan <H> Titan <R> versions <T> Titan <H> Titan <R> versions <T> Titan <H> Titan <R> tracks <T> Titan
+<A> prince arthur duke of connaught and strathearn <H> albert of saxe-coburg and gotha <R> children <T> princess beatrice of the united kingdom <H> princess beatrice of the united kingdom <R> parents <T> victoria of the united kingdom <H> victoria of the united kingdom <R> children <T> prince arthur duke of connaught and strathearn
+<A> grand duchess maria nikolaevna of russia <H> alexandra fyodorovna of hesse <R> children <T> tsarevich alexei nikolaevich of russia <H> tsarevich alexei nikolaevich of russia <R> parents <T> nicholas ii of russia <H> nicholas ii of russia <R> children <T> grand duchess maria nikolaevna of russia
+<A> Free <H> Free <R> release <T> Free <H> Free <R> appears in topic gallery <T> Free <H> Free <R> appears in topic gallery <T> Free
+<A> john jacob astor iv <H> william backhouse astor jr <R> children <T> john jacob astor iv <H> william backhouse astor jr <R> children <T> john jacob astor iv <H> john jacob astor iv <R> parents <T> william backhouse astor jr
+<A> christina of sweden <H> christina of sweden <R> parents <T> maria eleonora of brandenburg <H> maria eleonora of brandenburg <R> spouse <T> gustavus adolphus of sweden <H> gustavus adolphus of sweden <R> children <T> christina of sweden
+<A> Always <H> Always <R> tracks <T> Always <H> Always <R> tracks <T> Always
+<A> Hard Times <H> Close as You Get <R> track list <T> Hard Times <H> Hard Times <R> tracks <T> Hard Times <H> Hard Times <R> tracks <T> Hard Times
+<A> Portrait <H> Portrait <R> album <T> Portrait <H> Portrait <R> album <T> Portrait <H> Portrait <R> album <T> Portrait
+<A> The Game <H> The Game <R> versions <T> The Game <H> The Game <R> versions <T> The Game
+<A> Kailua <H> Waipio Acres <R> containedby <T> Honolulu County <H> Honolulu County <R> hud county place <T> Kailua
+<A> Consumer product <H> Elliott Yamin <R> track list <T> Free <H> Free <R> appears in topic gallery <T> Free <H> Free <R> notable types <T> Consumer product
+<A> count alexei alexandrovich belevsky zhukovsky <H> alexandra vasilievna countess zhukavskaya <R> children <T> count alexei alexandrovich belevsky zhukovsky <H> alexandra vasilievna countess zhukavskaya <R> children <T> count alexei alexandrovich belevsky zhukovsky <H> count alexei alexandrovich belevsky zhukovsky <R> parents <T> alexandra vasilievna countess zhukavskaya
+<A> christs college cambridge <H> george darwin <R> parents <T> charles darwin <H> charles darwin <R> institution <T> christs college cambridge
+<A> louis xvi of france <H> louis dauphin de france <R> children <T> louis xvi of france <H> louis xvi of france <R> children <T> princess sophie helene beatrix of france <H> princess sophie helene beatrix of france <R> parents <T> louis xvi of france
+<A> robert e lee <H> robert e lee <R> spouse <T> mary anna custis lee <H> mary anna custis lee <R> spouse <T> robert e lee
+<A> philippines <H> luz magsaysay <R> spouse <T> ramon magsaysay <H> ramon magsaysay <R> nationality <T> philippines
+<A> infanta isabella clara eugenia of spain <H> maria of spain <R> children <T> albert vii archduke of austria <H> albert vii archduke of austria <R> spouse <T> infanta isabella clara eugenia of spain
+<A> Hard Times <H> Hard Times <R> recordings <T> Hard Times <H> Hard Times <R> recordings <T> Hard Times <H> Hard Times <R> recordings <T> Hard Times
+<A> maria of habsburg archduchess of austria <H> anna of bohemia and hungary <R> children <T> maria of habsburg archduchess of austria <H> anna of bohemia and hungary <R> children <T> maria of habsburg archduchess of austria <H> maria of habsburg archduchess of austria <R> parents <T> anna of bohemia and hungary
+<A> kunigunde of austria <H> susanna of bavaria <R> parents <T> kunigunde of austria <H> susanna of bavaria <R> parents <T> kunigunde of austria <H> kunigunde of austria <R> children <T> susanna of bavaria
+<A> Album <H> Transistor Rhythm <R> track list <T> Believe <H> Believe <R> release <T> Greatest Hits <H> Greatest Hits <R> release type <T> Album
+<A> lord randolph churchill <H> lady sarah wilson <R> parents <T> john spencer churchill 7th duke of marlborough <H> john spencer churchill 7th duke of marlborough <R> children <T> lord randolph churchill
+<A> male <H> prince alexander of hesse and by rhine <R> children <T> alexander prince of bulgaria <H> alexander prince of bulgaria <R> gender <T> male
+<A> female <H> p j kennedy <R> children <T> joseph p kennedy sr <H> joseph p kennedy sr <R> children <T> rosemary kennedy <H> rosemary kennedy <R> gender <T> female
+<A> Marco Polo <H> Marco Polo <R> tracks <T> Marco Polo <H> Marco Polo <R> tracks <T> Marco Polo
+<A> Lost <H> Final Day <R> track list <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> canonical version <T> Lost
+<A> Montevideo <H> Mean Man <R> releases <T> Baby <H> Baby <R> release <T> Fever <H> Fever <R> artist <T> Montevideo
+<A> Sidesaddle <H> Hurry to Market <R> organism type <T> Horse <H> Horse <R> works <T> Sidesaddle
+<A> ferdinand duke of genoa <H> ferdinand duke of genoa <R> parents <T> maria theresa of austria and tuscany <H> maria theresa of austria and tuscany <R> spouse <T> charles albert of sardinia <H> charles albert of sardinia <R> children <T> ferdinand duke of genoa
+<A> france <H> jenny longuet <R> parents <T> jenny von westphalen <H> jenny von westphalen <R> children <T> laura marx <H> laura marx <R> location <T> france
+<A> O Holy Night <H> O Holy Night <R> recording <T> O Holy Night <H> O Holy Night <R> recording <T> O Holy Night <H> O Holy Night <R> tracks <T> O Holy Night
+<A> princess nadejda petrovna of russia <H> duke peter of oldenburg <R> children <T> grand duchess alexandra petrovna <H> grand duchess alexandra petrovna <R> children <T> grand duke peter nicolaievich of russia <H> grand duke peter nicolaievich of russia <R> children <T> princess nadejda petrovna of russia
+<A> ada lovelace <H> wilfrid scawen blunt <R> spouse <T> lady anne blunt <H> lady anne blunt <R> parents <T> william king noel 1st earl of lovelace <H> william king noel 1st earl of lovelace <R> spouse <T> ada lovelace
+<A> Framed Lives <H> Stay <R> recording <T> Stay <H> Stay <R> recording <T> Stay <H> Stay <R> release <T> Framed Lives
+<A> Closer <H> Northern Star <R> track <T> Closer <H> Closer <R> recording <T> Closer <H> Closer <R> recording <T> Closer
+<A> atheism <H> john lennon <R> parents <T> julia lennon <H> john lennon <R> religion <T> atheism <H> julia lennon <R> children <T> john lennon
+<A> Aaron Lewis Staind <H> Staind <R> artist <T> Staind <H> Staind <R> artist <T> Staind <H> Staind <R> image <T> Aaron Lewis Staind
+<A> scribonia <H> julia the elder <R> parents <T> scribonia <H> julia the elder <R> parents <T> scribonia <H> scribonia <R> children <T> julia the elder
+<A> wales <H> david lloyd george <R> spouse <T> frances stevenson <H> david lloyd george <R> nationality <T> wales <H> frances stevenson <R> spouse <T> david lloyd george
+<A> bona sforza <H> sigismund i the old <R> spouse <T> bona sforza <H> bona sforza <R> children <T> anna jagiellon <H> anna jagiellon <R> parents <T> bona sforza
+<A> catholicism <H> isabella of portugal <R> children <T> maria of spain <H> maria of spain <R> spouse <T> maximilian ii holy roman emperor <H> maximilian ii holy roman emperor <R> religion <T> catholicism
+<A> krakow <H> sigismund i the old <R> parents <T> casimir iv jagiellon <H> casimir iv jagiellon <R> children <T> john i albert of poland <H> john i albert of poland <R> location <T> krakow
+<A> myocardial infarction <H> john d rockefeller jr <R> children <T> nelson rockefeller <H> nelson rockefeller <R> cause of death <T> myocardial infarction
+<A> Fanatic <H> Phil Lanzon <R> label <T> Legacy Recordings <H> Legacy Recordings <R> releases <T> Fanatic
+<A> female <H> prince konrad of bavaria <R> parents <T> prince leopold of bavaria <H> prince leopold of bavaria <R> spouse <T> archduchess gisela of austria <H> archduchess gisela of austria <R> gender <T> female
+<A> pearl starr <H> belle starr <R> children <T> pearl starr <H> belle starr <R> children <T> pearl starr <H> pearl starr <R> parents <T> belle starr
+<A> Another Day <H> Another Day <R> recording <T> Another Day <H> Another Day <R> releases <T> Another Day <H> Another Day <R> recording <T> Another Day
+<A> female <H> alexandre vicomte de beauharnais <R> children <T> hortense de beauharnais <H> hortense de beauharnais <R> gender <T> female
+<A> Kiss My Axe <H> Ritmo de la Noche <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> Kiss My Axe
+<A> male <H> princess viktoria luise of prussia <R> parents <T> augusta viktoria of schleswig-holstein <H> augusta viktoria of schleswig-holstein <R> children <T> prince august wilhelm of prussia <H> prince august wilhelm of prussia <R> gender <T> male
+<A> christianity <H> soong may-ling <R> children <T> chiang wei-kuo <H> soong may-ling <R> religion <T> christianity <H> chiang wei-kuo <R> parents <T> soong may-ling
+<A> Believe <H> Believe <R> song <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> song <T> Believe
+<A> germany <H> princess anna amalia of prussia <R> parents <T> frederick william i of prussia <H> frederick william i of prussia <R> children <T> frederick ii of prussia <H> frederick ii of prussia <R> nationality <T> germany
+<A> male <H> alexis i of russia <R> spouse <T> maria miloslavskaya <H> maria miloslavskaya <R> children <T> feodor iii of russia <H> feodor iii of russia <R> gender <T> male
+<A> Atlantic Records <H> Hard Headed Woman <R> lyricist <T> John Lee Hooker <H> John Lee Hooker <R> label <T> Atlantic Records
+<A> King Records <H> Hard Headed Woman <R> lyricist <T> John Lee Hooker <H> John Lee Hooker <R> label <T> King Records
+<A> male <H> charles lennox 2nd duke of richmond <R> children <T> lady sarah lennox <H> charles lennox 2nd duke of richmond <R> gender <T> male <H> lady sarah lennox <R> parents <T> charles lennox 2nd duke of richmond
+<A> frederick iii german emperor <H> prince joachim of prussia <R> parents <T> william ii german emperor <H> william ii german emperor <R> parents <T> frederick iii german emperor
+<A> Ultra Naté <H> Free <R> recordings <T> Free <H> Free <R> appears in topic gallery <T> Free <H> Free <R> artist <T> Ultra Naté
+<A> gerberga of saxony <H> charles duke of lower lorraine <R> parents <T> louis iv of france <H> louis iv of france <R> children <T> lothair of france <H> lothair of france <R> parents <T> gerberga of saxony
+<A> pretoria <H> prince christian victor of schleswig-holstein <R> parents <T> princess helena of the united kingdom <H> prince christian victor of schleswig-holstein <R> place of death <T> pretoria <H> princess helena of the united kingdom <R> children <T> prince christian victor of schleswig-holstein
+<A> EP <H> Cold War <R> recording <T> Cold War <H> Cold War <R> recording <T> Cold War <H> Cold War <R> release type <T> EP
+<A> The Guitar Hero <H> Al Di Meola <R> album <T> Ritmo de la Noche <H> Al Di Meola <R> album <T> The Guitar Hero <H> Ritmo de la Noche <R> artist <T> Al Di Meola
+<A> Baltic states <H> Estonian county <R> pertains to <T> Estonia <H> Estonia <R> containedby <T> Baltic states
+<A> catholicism <H> mary josephine hannon fitzgerald <R> spouse <T> john f fitzgerald <H> john f fitzgerald <R> children <T> rose fitzgerald kennedy <H> rose fitzgerald kennedy <R> religion <T> catholicism
+<A> female <H> claudius <R> spouse <T> aelia paetina <H> aelia paetina <R> gender <T> female
+<A> Dangerous <H> Dangerous <R> recording <T> Dangerous <H> Dangerous <R> recording <T> Dangerous <H> Dangerous <R> recording <T> Dangerous
+<A> windsor castle <H> perkin warbeck <R> parents <T> edward iv of england <H> edward iv of england <R> children <T> mary of york <H> mary of york <R> place of birth <T> windsor castle
+<A> edward vii of the united kingdom <H> prince sigismund of prussia <R> parents <T> victoria princess royal <H> victoria princess royal <R> parents <T> victoria of the united kingdom <H> victoria of the united kingdom <R> children <T> edward vii of the united kingdom
+<A> harvard university <H> juliette peirce <R> spouse <T> charles peirce <H> charles peirce <R> institution <T> harvard university
+<A> male <H> archduke carl ludwig of austria <R> children <T> archduke franz ferdinand of austria <H> archduke carl ludwig of austria <R> gender <T> male <H> archduke franz ferdinand of austria <R> parents <T> archduke carl ludwig of austria
+<A> male <H> ruth roland <R> spouse <T> ben bard <H> ben bard <R> gender <T> male
+<A> cetinje <H> victor emmanuel iii of italy <R> spouse <T> elena of montenegro <H> elena of montenegro <R> place of birth <T> cetinje
+<A> I Miss You <H> Believe <R> tracks <T> Believe <H> Believe <R> release <T> Greatest Hits <H> Greatest Hits <R> track <T> I Miss You
+<A> france <H> marie francois sadi carnot <R> parents <T> hippolyte carnot <H> hippolyte carnot <R> nationality <T> france
+<A> A1 Team France <H> Charles d'Abancour <R> nationality <T> France <H> France <R> teams <T> A1 Team France
+<A> philippe i duke of orleans <H> princess elizabeth of england <R> parents <T> henrietta maria of france <H> henrietta maria of france <R> children <T> henrietta anne stuart <H> henrietta anne stuart <R> spouse <T> philippe i duke of orleans
+<A> male <H> francis iv duke of modena <R> children <T> archduchess maria beatrix of austria este <H> archduchess maria beatrix of austria este <R> children <T> carlos duke of madrid <H> carlos duke of madrid <R> gender <T> male
+<A> Toronto <H> Constance Rooke <R> place of death <T> Toronto <H> Toronto <R> tracks <T> Toronto
+<A> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> tracks <T> Lost
+<A> aki province <H> kikkawa motoharu <R> parents <T> mori motonari <H> mori motonari <R> location <T> aki province
+<A> neuburg an der donau <H> philipp wilhelm elector palatine <R> children <T> maria anna of pfalz-neuburg <H> maria anna of pfalz-neuburg <R> parents <T> landgravine elisabeth amalie of hesse darmstadt <H> landgravine elisabeth amalie of hesse darmstadt <R> place of death <T> neuburg an der donau
+<A> piye <H> kashta <R> children <T> piye <H> kashta <R> children <T> piye <H> piye <R> parents <T> kashta
+<A> Bewitched <H> Bewitched <R> canonical version <T> Bewitched <H> Bewitched <R> canonical version <T> Bewitched <H> Bewitched <R> album <T> Bewitched
+<A> county dublin <H> william petty 2nd earl of shelburne <R> children <T> henry petty fitzmaurice 3rd marquess of lansdowne <H> william petty 2nd earl of shelburne <R> location <T> county dublin <H> henry petty fitzmaurice 3rd marquess of lansdowne <R> parents <T> william petty 2nd earl of shelburne
+<A> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> recording <T> Believe
+<A> Paris <H> Zoumana Bakayogo <R> place of birth <T> Paris <H> Paris <R> tracks <T> Paris
+<A> female <H> leonard jerome <R> children <T> jennie churchill <H> jennie churchill <R> gender <T> female
+<A> infanta maria das neves of portugal <H> prince miguel duke of viseu <R> parents <T> miguel ii duke of braganza <H> miguel ii duke of braganza <R> parents <T> miguel of portugal <H> miguel of portugal <R> children <T> infanta maria das neves of portugal
+<A> Twilight <H> Twilight <R> recording <T> Twilight <H> Twilight <R> versions <T> Twilight <H> Twilight <R> recording <T> Twilight
+<A> church of england <H> thomas quiney <R> spouse <T> judith quiney <H> judith quiney <R> parents <T> william shakespeare <H> william shakespeare <R> religion <T> church of england
+<A> dara shikoh <H> jahangir <R> children <T> shah jahan <H> shah jahan <R> children <T> dara shikoh
+<A> princess louise margaret duchess of connaught <H> princess beatrice of the united kingdom <R> parents <T> albert of saxe-coburg and gotha <H> albert of saxe-coburg and gotha <R> children <T> prince arthur duke of connaught and strathearn <H> prince arthur duke of connaught and strathearn <R> spouse <T> princess louise margaret duchess of connaught
+<A> Joni Mitchell <H> Straight-A teacher <R> genre <T> Fiction <H> Fiction <R> artist <T> Joni Mitchell
+<A> new york university <H> aristotle onassis <R> spouse <T> jacqueline kennedy onassis <H> jacqueline kennedy onassis <R> children <T> john f kennedy jr <H> john f kennedy jr <R> institution <T> new york university
+<A> Language <H> Language <R> related type <T> Language <H> Language <R> related type <T> Language <H> Language <R> related type <T> Language
+<A> Chess Records <H> Gloria <R> track <T> John Lee Hooker <H> John Lee Hooker <R> label <T> Chess Records
+<A> Another Day <H> Another Day <R> recording <T> Another Day <H> Another Day <R> releases <T> Another Day <H> Another Day <R> releases <T> Another Day
+<A> Another Day <H> Another Day <R> releases <T> Another Day <H> Another Day <R> releases <T> Another Day <H> Another Day <R> recording <T> Another Day
+<A> Musical Album <H> Lost <R> tracks <T> Lost <H> Lost <R> notable types <T> Musical Album
+<A> I Miss You <H> Believe <R> tracks <T> Believe <H> Believe <R> release <T> Greatest Hits <H> Greatest Hits <R> track <T> I Miss You
+<A> Rome <H> Rome <R> book <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> hungary <H> franz liszt <R> children <T> cosima wagner <H> franz liszt <R> nationality <T> hungary <H> cosima wagner <R> parents <T> franz liszt
+<A> jayachamaraja wodeyar bahadur <H> kanteerava narasimharaja wadiyar <R> children <T> jayachamaraja wodeyar bahadur <H> kanteerava narasimharaja wadiyar <R> children <T> jayachamaraja wodeyar bahadur <H> jayachamaraja wodeyar bahadur <R> parents <T> kanteerava narasimharaja wadiyar
+<A> chudadhut dharadilok <H> piam <R> spouse <T> mongkut <H> mongkut <R> children <T> chulalongkorn <H> chulalongkorn <R> children <T> chudadhut dharadilok
+<A> politician <H> walter rothschild 2nd baron rothschild <R> parents <T> nathan rothschild 1st baron rothschild <H> walter rothschild 2nd baron rothschild <R> profession <T> politician <H> nathan rothschild 1st baron rothschild <R> children <T> walter rothschild 2nd baron rothschild
+<A> male <H> blanche of castile <R> parents <T> alfonso viii of castile <H> alfonso viii of castile <R> parents <T> sancho iii of castile <H> sancho iii of castile <R> gender <T> male
+<A> Rome <H> Nicolas Poussin <R> place of death <T> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> Compact disc <H> Al Di Meola <R> album <T> The Collection <H> The Collection <R> format <T> Compact disc
+<A> male <H> sviatoslav ii of kiev <R> parents <T> olof of sweden <H> olof of sweden <R> children <T> iziaslav i of kiev <H> iziaslav i of kiev <R> gender <T> male
+<A> Creative Work <H> Bob Stillman <R> profession <T> Songwriter <H> Songwriter <R> notable types <T> Creative Work
+<A> Rome <H> Claudia Gerini <R> place of birth <T> Rome <H> Rome <R> book <T> Rome <H> Rome <R> book <T> Rome
+<A> tuberculosis <H> archduke anton victor of austria <R> parents <T> maria louisa of spain <H> maria louisa of spain <R> parents <T> maria amalia of saxony <H> maria amalia of saxony <R> cause of death <T> tuberculosis
+<A> winchester <H> joan of england queen of sicily <R> parents <T> henry ii of england <H> henry ii of england <R> parents <T> empress matilda <H> empress matilda <R> place of birth <T> winchester
+<A> germany <H> frederika of hanover <R> parents <T> ernest augustus iii duke of brunswick <H> ernest augustus iii duke of brunswick <R> nationality <T> germany
+<A> monarch <H> henry iv of england <R> children <T> henry v of england <H> henry v of england <R> profession <T> monarch
+<A> male <H> henry the lion <R> children <T> william of winchester lord of lunenburg <H> william of winchester lord of lunenburg <R> children <T> otto i duke of brunswick luneburg <H> otto i duke of brunswick luneburg <R> gender <T> male
+<A> India <H> Lucky Star <R> country <T> India <H> India <R> recording <T> India
+<A> arcadius <H> arcadius <R> spouse <T> aelia eudoxia <H> aelia eudoxia <R> spouse <T> arcadius
+<A> male <H> regina crown princess of austria <R> parents <T> georg iii duke of saxe meiningen <H> georg iii duke of saxe meiningen <R> gender <T> male
+<A> spain <H> maria luisa of parma <R> children <T> infante carlos count of molina <H> infante carlos count of molina <R> nationality <T> spain
+<A> China <H> Wei Zheng <R> nationality <T> China <H> China <R> song <T> China <H> China <R> song <T> China
+<A> tasha tudor <H> william starling burgess <R> children <T> tasha tudor <H> william starling burgess <R> children <T> tasha tudor <H> tasha tudor <R> parents <T> william starling burgess
+<A> Earth <H> Transmission in Time <R> region <T> Earth <H> Earth <R> tracks <T> Earth <H> Earth <R> tracks <T> Earth
+<A> male <H> louis xvi of france <R> children <T> princess sophie helene beatrix of france <H> louis xvi of france <R> gender <T> male <H> princess sophie helene beatrix of france <R> parents <T> louis xvi of france
+<A> Aurora <H> Wave:CD <R> track list <T> Aurora <H> Aurora <R> release <T> Aurora <H> Aurora <R> release <T> Aurora
+<A> Believe <H> Believe <R> song <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> song <T> Believe
+<A> spain <H> ferdinand iii of castile <R> parents <T> alfonso ix of leon <H> ferdinand iii of castile <R> nationality <T> spain <H> alfonso ix of leon <R> children <T> ferdinand iii of castile
+<A> charles lennox 2nd duke of richmond <H> charles lennox 1st duke of richmond <R> children <T> charles lennox 2nd duke of richmond <H> charles lennox 1st duke of richmond <R> children <T> charles lennox 2nd duke of richmond <H> charles lennox 2nd duke of richmond <R> parents <T> charles lennox 1st duke of richmond
+<A> B.A.T. <H> Knights of the Sky <R> platform <T> Amiga <H> Amiga <R> games <T> B.A.T.
+<A> sweden <H> ernest elector of saxony <R> children <T> christina of saxony <H> christina of saxony <R> spouse <T> john i of denmark <H> john i of denmark <R> nationality <T> sweden
+<A> matilda of flanders <H> henry i of england <R> spouse <T> edith of scotland <H> henry i of england <R> parents <T> matilda of flanders <H> edith of scotland <R> spouse <T> henry i of england
+<A> anglicanism <H> marie-anne pierrette paulze <R> spouse <T> benjamin thompson <H> benjamin thompson <R> religion <T> anglicanism
+<A> The Breakout Trilogy <H> Trax Classix <R> track list <T> Pulse <H> Pulse <R> track <T> Believe <H> Believe <R> release <T> The Breakout Trilogy
+<A> Carol of the Bells <H> O Holy Night <R> tracks <T> O Holy Night <H> O Holy Night <R> tracks <T> O Holy Night <H> O Holy Night <R> releases <T> Carol of the Bells
+<A> potsdam <H> prince sigismund of prussia <R> parents <T> victoria princess royal <H> victoria princess royal <R> children <T> sophia of prussia <H> sophia of prussia <R> location <T> potsdam
+<A> female <H> luis munoz marin <R> spouse <T> ines mendoza <H> ines mendoza <R> gender <T> female
+<A> Toronto <H> Constance Rooke <R> place of death <T> Toronto <H> Toronto <R> tracks <T> Toronto
+<A> male <H> elena of montenegro <R> parents <T> nicholas i of montenegro <H> nicholas i of montenegro <R> gender <T> male
+<A> Musical Album <H> Final Day <R> track list <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> notable types <T> Musical Album
+<A> Framed Lives <H> Stay <R> recording <T> Stay <H> Stay <R> recording <T> Stay <H> Stay <R> release <T> Framed Lives
+<A> james e robinson <H> pauline robinson <R> parents <T> james e robinson <H> pauline robinson <R> parents <T> james e robinson <H> james e robinson <R> children <T> pauline robinson
+<A> male <H> anna radziwill <R> spouse <T> konrad iii rudy <H> konrad iii rudy <R> gender <T> male
+<A> Free <H> Free <R> release <T> Free <H> Free <R> appears in topic gallery <T> Free <H> Free <R> appears in topic gallery <T> Free
+<A> The Muffs <H> Amsterdam <R> artist <T> Another Day <H> Another Day <R> recording <T> Another Day <H> Another Day <R> releases <T> The Muffs
+<A> abigail campbell kawananakoa <H> abigail kapiolani kawananakoa <R> parents <T> david kawananakoa <H> abigail kapiolani kawananakoa <R> parents <T> abigail campbell kawananakoa <H> david kawananakoa <R> children <T> abigail kapiolani kawananakoa
+<A> ferdinand ii of aragon <H> john ii of aragon <R> children <T> ferdinand ii of aragon <H> john ii of aragon <R> children <T> ferdinand ii of aragon <H> ferdinand ii of aragon <R> parents <T> john ii of aragon
+<A> female <H> george iii of the united kingdom <R> children <T> george iv of the united kingdom <H> george iv of the united kingdom <R> children <T> princess charlotte augusta of wales <H> princess charlotte augusta of wales <R> gender <T> female
+<A> Another Day <H> Amsterdam <R> song <T> Amsterdam <H> Amsterdam <R> artist <T> Another Day <H> Another Day <R> recording <T> Another Day
+<A> hinduism <H> madhubala <R> spouse <T> kishore kumar <H> kishore kumar <R> religion <T> hinduism
+<A> Nero <H> Nero <R> tracks <T> Nero <H> Nero <R> tracks <T> Nero <H> Nero <R> tracks <T> Nero
+<A> Winter Nights <H> Al Di Meola <R> album <T> Ritmo de la Noche <H> Al Di Meola <R> album <T> Winter Nights <H> Ritmo de la Noche <R> artist <T> Al Di Meola
+<A> Film character <H> Chagrin River <R> cities <T> Aurora <H> Aurora <R> release <T> Aurora <H> Aurora <R> notable types <T> Film character
+<A> Believe <H> Lonely House <R> track <T> Believe <H> Believe <R> song <T> Believe
+<A> harvard university <H> tasha tudor <R> parents <T> william starling burgess <H> william starling burgess <R> institution <T> harvard university
+<A> Film character <H> Wave:CD <R> track list <T> Aurora <H> Aurora <R> release <T> Aurora <H> Aurora <R> notable types <T> Film character
+<A> minamoto no yoritomo <H> hojo masako <R> spouse <T> minamoto no yoritomo <H> minamoto no yoritomo <R> children <T> minamoto no sanetomo <H> minamoto no sanetomo <R> parents <T> minamoto no yoritomo
+<A> book editor <H> john f kennedy jr <R> parents <T> john f kennedy <H> john f kennedy <R> spouse <T> jacqueline kennedy onassis <H> jacqueline kennedy onassis <R> profession <T> book editor
+<A> francisco de paula duke of cadiz <H> maria louisa of spain <R> parents <T> maria amalia of saxony <H> maria amalia of saxony <R> children <T> charles iv of spain <H> charles iv of spain <R> children <T> francisco de paula duke of cadiz
+<A> Elvis Presley <H> Elvis Presley <R> tracks <T> Elvis Presley <H> Elvis Presley <R> tracks <T> Elvis Presley
+<A> harvard university <H> juliette peirce <R> spouse <T> charles peirce <H> charles peirce <R> institution <T> harvard university
+<A> Thomas Joseph Drury <H> Ballymote <R> people born here <T> Thomas Joseph Drury <H> Ballymote <R> people born here <T> Thomas Joseph Drury <H> Thomas Joseph Drury <R> place of birth <T> Ballymote
+<A> paul i of russia <H> catherine pavlovna of russia <R> parents <T> maria fyodorovna of russia <H> maria fyodorovna of russia <R> children <T> alexandra pavlovna of russia <H> alexandra pavlovna of russia <R> parents <T> paul i of russia
+<A> All the Small Things <H> Believe <R> recording <T> Believe <H> Believe <R> release <T> Greatest Hits <H> Greatest Hits <R> track <T> All the Small Things
+<A> prince arthur duke of connaught and strathearn <H> albert of saxe-coburg and gotha <R> children <T> princess beatrice of the united kingdom <H> albert of saxe-coburg and gotha <R> children <T> prince arthur duke of connaught and strathearn <H> princess beatrice of the united kingdom <R> parents <T> albert of saxe-coburg and gotha
+<A> united states <H> pauline robinson <R> parents <T> james e robinson <H> pauline robinson <R> nationality <T> united states <H> james e robinson <R> children <T> pauline robinson
+<A> Musical Album <H> Reminiscence <R> track list <T> Evolution <H> Evolution <R> tracks <T> Evolution <H> Evolution <R> notable types <T> Musical Album
+<A> Adamov <H> Gyula Zilahi <R> nationality <T> Austria-Hungary <H> Austria-Hungary <R> contains <T> Adamov
+<A> alexandra iosifovna of altenburg <H> grand duchess vera konstantinovna of russia <R> parents <T> grand duke konstantin nikolayevich of russia <H> grand duke konstantin nikolayevich of russia <R> children <T> grand duke dmitri konstantinovich of russia <H> grand duke dmitri konstantinovich of russia <R> parents <T> alexandra iosifovna of altenburg
+<A> ottokar i of bohemia <H> venceslas i of bohemia <R> parents <T> ottokar i of bohemia <H> venceslas i of bohemia <R> parents <T> ottokar i of bohemia <H> ottokar i of bohemia <R> children <T> venceslas i of bohemia
+<A> female <H> victoria princess royal <R> children <T> sophia of prussia <H> sophia of prussia <R> children <T> princess katherine of greece and denmark <H> princess katherine of greece and denmark <R> gender <T> female
+<A> Monster <H> Monster <R> recording <T> Monster <H> Monster <R> recording <T> Monster <H> Monster <R> recording <T> Monster
+<A> Jeet Thayil <H> Brahmakulam <R> containedby <T> Kerala <H> Kerala <R> people born here <T> Jeet Thayil
+<A> alfonso ii count of provence <H> margaret of england <R> parents <T> eleanor of provence <H> eleanor of provence <R> parents <T> ramon berenguer iv count of provence <H> ramon berenguer iv count of provence <R> parents <T> alfonso ii count of provence
+<A> christian <H> charles spurgeon <R> children <T> thomas spurgeon <H> charles spurgeon <R> religion <T> christian <H> thomas spurgeon <R> parents <T> charles spurgeon
+<A> Musical Album <H> Lost <R> tracks <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> notable types <T> Musical Album
+<A> male <H> friedrich ii eugen duke of wurttemberg <R> children <T> elisabeth of wurttemberg <H> elisabeth of wurttemberg <R> spouse <T> francis ii holy roman emperor <H> francis ii holy roman emperor <R> gender <T> male
+<A> Paul McCartney <H> Paul McCartney <R> recording <T> Paul McCartney <H> Paul McCartney <R> recording <T> Paul McCartney <H> Paul McCartney <R> recording <T> Paul McCartney
+<A> st louis missouri <H> adolphus busch iii <R> parents <T> august anheuser busch sr <H> august anheuser busch sr <R> place of birth <T> st louis missouri
+<A> Carol of the Bells <H> O Holy Night <R> recording <T> O Holy Night <H> O Holy Night <R> recording <T> O Holy Night <H> O Holy Night <R> releases <T> Carol of the Bells
+<A> Bad <H> Bad <R> track list <T> Bad <H> Bad <R> track list <T> Bad
+<A> Lost <H> Final Day <R> track list <T> Lost <H> Lost <R> canonical version <T> Lost <H> Lost <R> tracks <T> Lost
+<A> politician <H> adam ludwik czartoryski <R> parents <T> wladyslaw czartoryski <H> wladyslaw czartoryski <R> parents <T> adam jerzy czartoryski <H> adam jerzy czartoryski <R> profession <T> politician
+<A> aachen <H> henri victor regnault <R> children <T> henri regnault <H> henri victor regnault <R> place of birth <T> aachen <H> henri regnault <R> parents <T> henri victor regnault
+<A> francois dauphin of france <H> charles de valois duc dorleans <R> parents <T> claude of france <H> claude of france <R> spouse <T> francis i of france <H> francis i of france <R> children <T> francois dauphin of france
+<A> composer <H> franz liszt <R> children <T> cosima wagner <H> cosima wagner <R> children <T> siegfried wagner <H> siegfried wagner <R> profession <T> composer
+<A> The Infinite Desire <H> Ritmo de la Noche <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> The Infinite Desire
+<A> female <H> gustavus adolphus of sweden <R> children <T> christina of sweden <H> christina of sweden <R> gender <T> female
+<A> roman catholic church <H> alice of bourbon parma <R> spouse <T> ferdinand iv grand duke of tuscany <H> ferdinand iv grand duke of tuscany <R> parents <T> marie antoinette of tuscany <H> marie antoinette of tuscany <R> religion <T> roman catholic church
+<A> chulalongkorn <H> mongkut <R> children <T> chulalongkorn <H> chulalongkorn <R> children <T> paripatra <H> paripatra <R> parents <T> chulalongkorn
+<A> O Holy Night <H> O Holy Night <R> recording <T> O Holy Night <H> O Holy Night <R> recording <T> O Holy Night <H> O Holy Night <R> recording <T> O Holy Night
+<A> Always <H> Always <R> tracks <T> Always <H> Always <R> recording <T> Always <H> Always <R> recording <T> Always
+<A> Rome <H> Ettore Marchiafava <R> place of birth <T> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> Bewitched <H> Bewitched <R> album <T> Bewitched <H> Bewitched <R> canonical version <T> Bewitched <H> Bewitched <R> album <T> Bewitched
+<A> hinduism <H> jawaharlal nehru <R> children <T> indira gandhi <H> indira gandhi <R> religion <T> hinduism
+<A> coronary thrombosis <H> george darwin <R> parents <T> charles darwin <H> charles darwin <R> cause of death <T> coronary thrombosis
+<A> female <H> john of gaunt 1st duke of lancaster <R> spouse <T> blanche of lancaster <H> blanche of lancaster <R> gender <T> female
+<A> london school of economics <H> jacqueline kennedy onassis <R> children <T> john f kennedy jr <H> john f kennedy jr <R> parents <T> john f kennedy <H> john f kennedy <R> institution <T> london school of economics
+<A> male <H> hortense de beauharnais <R> children <T> napoleon iii of france <H> napoleon iii of france <R> gender <T> male
+<A> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> book <T> Rome
+<A> Manic Moonlight <H> Believe <R> recording <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> releases <T> Manic Moonlight
+<A> male <H> eleanor stewart princess of scotland <R> parents <T> joan beaufort queen of scotland <H> joan beaufort queen of scotland <R> spouse <T> james i of scotland <H> james i of scotland <R> gender <T> male
+<A> Epilogue <H> Uwe Weber <R> art forms <T> Photography <H> Photography <R> releases <T> Epilogue
+<A> hinduism <H> madhubala <R> spouse <T> kishore kumar <H> kishore kumar <R> religion <T> hinduism
+<A> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> Fantasy <H> Golden Axe III <R> cvg genre <T> Fantasy <H> Fantasy <R> recording <T> Fantasy
+<A> actor <H> phillip terry <R> spouse <T> joan crawford <H> joan crawford <R> spouse <T> franchot tone <H> franchot tone <R> profession <T> actor
+<A> lucius aelius <H> lucius verus <R> parents <T> lucius aelius <H> lucius verus <R> parents <T> lucius aelius <H> lucius aelius <R> children <T> lucius verus
+<A> The Muffs <H> Another Day <R> recording <T> Another Day <H> Another Day <R> recording <T> Another Day <H> Another Day <R> releases <T> The Muffs
+<A> assassination <H> franz joseph i of austria <R> spouse <T> elisabeth of bavaria <H> elisabeth of bavaria <R> cause of death <T> assassination
+<A> austria <H> friedrich ii eugen duke of wurttemberg <R> children <T> elisabeth of wurttemberg <H> elisabeth of wurttemberg <R> spouse <T> francis ii holy roman emperor <H> francis ii holy roman emperor <R> nationality <T> austria
+<A> Believe <H> Pulse <R> track <T> Believe <H> Believe <R> tracks <T> Believe <H> Believe <R> recording <T> Believe
+<A> India <H> Hum Dono <R> netflix genres <T> India <H> India <R> recording <T> India <H> India <R> recording <T> India
+<A> israel <H> pesach burstein <R> spouse <T> lillian lux <H> pesach burstein <R> nationality <T> israel <H> lillian lux <R> spouse <T> pesach burstein
+<A> monarch <H> princess tenagnework <R> parents <T> haile selassie i of ethiopia <H> haile selassie i of ethiopia <R> profession <T> monarch
+<A> Guatemala <H> Guatemala <R> tracks <T> Guatemala <H> Guatemala <R> tracks <T> Guatemala <H> Guatemala <R> tracks <T> Guatemala
+<A> Red <H> Thomas Nelson <R> books published <T> Red <H> Red <R> tracks <T> Red <H> Red <R> tracks <T> Red
+<A> germany <H> vratislaus ii of bohemia <R> parents <T> judith of schweinfurt <H> judith of schweinfurt <R> nationality <T> germany
+<A> victoria of the united kingdom <H> princess louise duchess of argyll <R> parents <T> albert of saxe-coburg and gotha <H> albert of saxe-coburg and gotha <R> children <T> princess beatrice of the united kingdom <H> princess beatrice of the united kingdom <R> parents <T> victoria of the united kingdom
+<A> male <H> kaiulani <R> parents <T> kekauluohi likelike <H> kekauluohi likelike <R> spouse <T> archibald cleghorn <H> archibald cleghorn <R> gender <T> male
+<A> louis antoine duke of angouleme <H> marie therese of savoy <R> children <T> louis antoine duke of angouleme <H> marie therese of savoy <R> children <T> louis antoine duke of angouleme <H> louis antoine duke of angouleme <R> parents <T> marie therese of savoy
+<A> Charade <H> Givenchy <R> founders <T> Hubert de Givenchy <H> Hubert de Givenchy <R> costume design for film <T> Charade
+<A> Afro-Rock, Volume 1 <H> On the Run <R> releases <T> Baby <H> Baby <R> release <T> Fever <H> Fever <R> releases <T> Afro-Rock, Volume 1
+<A> russia <H> grand duke konstantin nikolayevich of russia <R> children <T> grand duke dmitri konstantinovich of russia <H> grand duke konstantin nikolayevich of russia <R> nationality <T> russia <H> grand duke dmitri konstantinovich of russia <R> parents <T> grand duke konstantin nikolayevich of russia
+<A> Free <H> Free <R> release <T> Free <H> Free <R> appears in topic gallery <T> Free <H> Free <R> release <T> Free
+<A> male <H> catharina of sweden <R> parents <T> charles ix of sweden <H> charles ix of sweden <R> gender <T> male
+<A> Paris <H> Alistair Wells <R> track <T> Paris <H> Paris <R> tracks <T> Paris <H> Paris <R> tracks <T> Paris
+<A> The Breakout Trilogy <H> Believe <R> recording <T> Believe <H> Believe <R> recording <T> Believe <H> Believe <R> release <T> The Breakout Trilogy
+<A> nicholas i of montenegro <H> princess nadejda petrovna of russia <R> parents <T> grand duke peter nicolaievich of russia <H> grand duke peter nicolaievich of russia <R> spouse <T> anastasia of montenegro <H> anastasia of montenegro <R> parents <T> nicholas i of montenegro
+<A> male <H> charles iv of france <R> spouse <T> marie de luxembourg queen of france <H> charles iv of france <R> gender <T> male <H> marie de luxembourg queen of france <R> spouse <T> charles iv of france
+<A> grand duke konstantin nikolayevich of russia <H> grand duke dmitri konstantinovich of russia <R> parents <T> grand duke konstantin nikolayevich of russia <H> grand duke dmitri konstantinovich of russia <R> parents <T> grand duke konstantin nikolayevich of russia <H> grand duke konstantin nikolayevich of russia <R> children <T> grand duke dmitri konstantinovich of russia
+<A> Consumer product <H> Free <R> appears in topic gallery <T> Free <H> Free <R> release <T> Free <H> Free <R> notable types <T> Consumer product
+<A> Strasbourg IG <H> Robert Ménégoz <R> nationality <T> France <H> France <R> teams <T> Strasbourg IG
+<A> union college <H> frances adeline seward <R> spouse <T> william h seward <H> william h seward <R> children <T> frederick w seward <H> frederick w seward <R> institution <T> union college
+<A> chulalongkorn <H> paripatra <R> parents <T> chulalongkorn <H> paripatra <R> parents <T> chulalongkorn <H> chulalongkorn <R> children <T> paripatra
+<A> Monster <H> Polow da Don <R> releases produced <T> Monster <H> Monster <R> recording <T> Monster <H> Monster <R> recording <T> Monster
+<A> male <H> mieszko iv tanglefoot <R> parents <T> wladyslaw ii the exile <H> wladyslaw ii the exile <R> gender <T> male
+<A> composer <H> franz liszt <R> children <T> cosima wagner <H> cosima wagner <R> children <T> siegfried wagner <H> siegfried wagner <R> profession <T> composer
+<A> Fantasy <H> Caine Black Knife <R> genre <T> Fantasy <H> Fantasy <R> recording <T> Fantasy <H> Fantasy <R> recording <T> Fantasy
+<A> Red Baron <H> Red Baron <R> versions <T> Red Baron <H> Red Baron <R> versions <T> Red Baron
+<A> Blue <H> Blue <R> recording <T> Blue <H> Blue <R> recording <T> Blue <H> Blue <R> recording <T> Blue
+<A> phillip terry <H> joan crawford <R> spouse <T> phillip terry <H> joan crawford <R> spouse <T> phillip terry <H> phillip terry <R> spouse <T> joan crawford
+<A> Fantasy <H> Castle Roogna <R> genre <T> Fantasy <H> Fantasy <R> recording <T> Fantasy
+<A> Rome <H> Rome <R> canonical version <T> Rome <H> Rome <R> appears in topic gallery <T> Rome <H> Rome <R> appears in topic gallery <T> Rome
+<A> Believe <H> Believe <R> song <T> Believe <H> Believe <R> song <T> Believe <H> Believe <R> song <T> Believe
+<A> henry hastings 5th earl of huntingdon <H> alice spencer <R> children <T> lady elizabeth stanley <H> lady elizabeth stanley <R> spouse <T> henry hastings 5th earl of huntingdon
+<A> alfonso iii of leon <H> fruela ii of leon <R> parents <T> alfonso iii of leon <H> fruela ii of leon <R> parents <T> alfonso iii of leon <H> alfonso iii of leon <R> children <T> fruela ii of leon
+<A> Afro-Rock, Volume 1 <H> Grace Knight Live <R> track list <T> Fever <H> Fever <R> releases <T> Afro-Rock, Volume 1
+<A> He & Carmen <H> Habanera <R> artist <T> Al Di Meola <H> Al Di Meola <R> album <T> He & Carmen
+<A> sweyn i of denmark <H> sweyn i of denmark <R> children <T> canute the great <H> canute the great <R> parents <T> sigrid the haughty <H> sigrid the haughty <R> spouse <T> sweyn i of denmark
+<A> firearm <H> srinagarindra <R> children <T> ananda mahidol <H> ananda mahidol <R> cause of death <T> firearm
+<A> roman emperor <H> vespasian <R> spouse <T> domitilla the elder <H> vespasian <R> profession <T> roman emperor <H> domitilla the elder <R> spouse <T> vespasian
+<A> male <H> elisabeth marguerite of orleans <R> parents <T> marguerite duchess of orleans <H> marguerite duchess of orleans <R> spouse <T> gaston duke of orleans <H> gaston duke of orleans <R> gender <T> male
+<A> Free <H> Free <R> recordings <T> Free <H> Free <R> appears in topic gallery <T> Free
+<A> male <H> maria christina of austria <R> parents <T> archduchess elisabeth franziska of austria <H> archduchess elisabeth franziska of austria <R> children <T> archduke friedrich duke of teschen <H> archduke friedrich duke of teschen <R> gender <T> male
+<A> hungary <H> elisabeth of wurttemberg <R> spouse <T> francis ii holy roman emperor <H> francis ii holy roman emperor <R> children <T> ferdinand i of austria <H> ferdinand i of austria <R> nationality <T> hungary
+<A> burnham-on-sea <H> sylvia brett <R> spouse <T> charles vyner brooke <H> charles vyner brooke <R> parents <T> charles anthoni johnson brooke <H> charles anthoni johnson brooke <R> place of birth <T> burnham-on-sea
+<A> olof of sweden <H> iziaslav i of kiev <R> parents <T> olof of sweden <H> iziaslav i of kiev <R> parents <T> olof of sweden <H> olof of sweden <R> children <T> iziaslav i of kiev
+<A> History <H> History <R> tracks <T> History <H> History <R> tracks <T> History
