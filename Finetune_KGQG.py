@@ -19,5 +19,4 @@ if __name__ == '__main__':
     trainer.tune(model, datamodule=kgqg)
 
     # Train model
-    trainer.fit(model)
-    
+    # trainer.fit(model)
