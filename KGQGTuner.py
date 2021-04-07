@@ -6,11 +6,13 @@ from transformers import (
     T5ForConditionalGeneration,
     )
 import pytorch_lightning as pl
+from torchtext.data.metrics import bleu_score
 
 class KGQGTuner(pl.LightningModule):
-    def __init__(self, datamodule, learning_rate=3e-5):
+    def __init__(self, datamodule, learning_rate=3e-5, batch_size=8, dataset=''):
         super(KGQGTuner, self).__init__()
         self.model = T5ForConditionalGeneration.from_pretrained('t5-base')
+        
         # resize embedding to account for additional special tokens
         self.tokenizer = datamodule.tokenizer
         self.model.resize_token_embeddings(len(self.tokenizer))
@@ -19,7 +21,13 @@ class KGQGTuner(pl.LightningModule):
         
         # add batch size to init to enable automatic batch size scaling.
         self.batch_size = datamodule.batch_size
+        #self.dataset = dataset
         
+        # testing
+        self.bleu_metric = bleu_score
+        
+        self.save_hyperparameters('learning_rate', 'batch_size','dataset')
+
         
     def forward(
           self, input_ids, attention_mask=None, decoder_input_ids=None, decoder_attention_mask=None, labels=None
@@ -27,7 +35,7 @@ class KGQGTuner(pl.LightningModule):
         return self.model(
             input_ids,
             attention_mask=attention_mask,
-            decoder_input_ids=decoder_input_ids, # Can be None when passing labels
+            decoder_input_ids=decoder_input_ids, # can be left None when passing labels
             decoder_attention_mask=decoder_attention_mask,
             labels=labels,
         )
@@ -47,12 +55,60 @@ class KGQGTuner(pl.LightningModule):
 
     def training_step(self, batch, batch_idx):
         loss = self._step(batch)
-        self.log('train_loss', loss, on_step=True, on_epoch=True, prog_bar=True, logger=True)
+        self.log('train_loss', loss, on_step=False, on_epoch=True, prog_bar=True, logger=True, sync_dist=True)
         return loss
 
     def validation_step(self, batch, batch_idx):
+        # Generate predictions
+        preds_tokens = self.model.generate(batch['source_ids'])
+        preds = self.tokenizer.batch_decode(preds_tokens, skip_special_tokens=True, clean_up_tokenization_spaces=True)
+        targets = self.tokenizer.batch_decode(batch['target_ids'], skip_special_tokens=True, clean_up_tokenization_spaces=True)
+        
+        # Calculate loss
         loss = self._step(batch)
-        self.log('val_loss', loss)
+        self.log('val_loss', loss, sync_dist=True)
+        return {'preds' : preds, 'targets' : targets}
+    
+    def validation_epoch_end(self, outputs):
+        # Get list of all preds and targets of the epoch
+        self.val_preds = [pred for output in outputs for pred in output['preds']]
+        self.val_targets = [target for output in outputs for target in output['targets']]
+        
+        # Calculate BLEU score (max n=4)
+        splitpreds = [pred.split() for pred in self.val_preds]
+        splittargets = [[target.split()] for target in self.val_targets]
+        self.bleu = self.bleu_metric(splitpreds, splittargets)
+        self.log('bleu_score', self.bleu)
+        
+        # # Log best score   !!!! werkt niet??
+        # self.logger.log_hyperparams(
+        #     params=dict(learning_rate=self.learning_rate, batch_size=self.batch_size, dataset=self.dataset),
+        #     metrics=dict( bleu_score= self.bleu)
+        #     )
+        #     #val_loss=val_loss, train_loss=train_loss,
+        
+    def test_step(self, batch, batch_idx):       
+        # Generate predictions
+        preds_tokens = self.model.generate(batch['source_ids'])
+        preds = self.tokenizer.batch_decode(preds_tokens, skip_special_tokens=True, clean_up_tokenization_spaces=True)
+        targets = self.tokenizer.batch_decode(batch['target_ids'], skip_special_tokens=True, clean_up_tokenization_spaces=True)
+        
+        # Calculate loss
+        loss = self._step(batch)
+        self.log('test_loss', loss, sync_dist=True)
+        return {'preds' : preds, 'targets' : targets}
+
+    def test_epoch_end(self, outputs):
+        # Get list of all preds and targets of the epoch
+        self.test_preds = [pred for output in outputs for pred in output['preds']]
+        self.test_targets = [target for output in outputs for target in output['targets']]
+        
+        # Calculate BLEU score (max n=4)
+        splitpreds = [pred.split() for pred in self.test_preds]
+        splittargets = [[target.split()] for target in self.test_targets]
+        bleu = self.bleu_metric(splitpreds, splittargets)
+        self.log('bleu_score', bleu)
+        
     
     def configure_optimizers(self, eps=1e-8):
         return AdamW(self.model.parameters(), lr=self.learning_rate, eps=eps)

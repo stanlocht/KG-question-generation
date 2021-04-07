@@ -6,7 +6,7 @@ from transformers import T5TokenizerFast
 import pytorch_lightning as pl
 
 class KGQGDataModule(pl.LightningDataModule):
-    def __init__(self, data_dir: str, batch_size=16):
+    def __init__(self, data_dir: str, batch_size=8):
         super().__init__()
         self.batch_size = batch_size
         self.data_dir = data_dir
@@ -15,12 +15,16 @@ class KGQGDataModule(pl.LightningDataModule):
     def setup(self, stage=None):   
         self.train_set = KGQGDataset(self.tokenizer, self.data_dir, 'train')
         self.val_set = KGQGDataset(self.tokenizer, self.data_dir, 'val')
+        self.test_set = KGQGDataset(self.tokenizer, self.data_dir, 'test')
 
     def train_dataloader(self):
-        return DataLoader(self.train_set, batch_size=self.batch_size, num_workers=0)
+        return DataLoader(self.train_set, batch_size=self.batch_size, shuffle=True, num_workers=0)
 
     def val_dataloader(self):
-        return DataLoader(self.train_set, batch_size=self.batch_size, num_workers=0)
+        return DataLoader(self.val_set, batch_size=self.batch_size, shuffle=False, num_workers=0)
+
+    def test_dataloader(self):
+        return DataLoader(self.test_set, batch_size=self.batch_size, shuffle=False, num_workers=0)
 
 
 class KGQGDataset(Dataset):
@@ -38,7 +42,7 @@ class KGQGDataset(Dataset):
         self._build()
 
     def __len__(self):
-        return len(self.inputs)
+        return len(self.inputs.input_ids)
 
     def __getitem__(self, index):
         source_ids = self.inputs.input_ids[index]
@@ -57,6 +61,8 @@ class KGQGDataset(Dataset):
             tgt_text = f.read().splitlines()
 
         assert len(src_text) == len(tgt_text), "Source and target files are not of same size"
+        
+        self.source = src_text
         
         self.inputs = self.tokenizer(src_text, max_length=512, 
                    padding='max_length', truncation=True, return_tensors="pt")

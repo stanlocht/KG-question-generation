@@ -60,7 +60,7 @@ if __name__ == '__main__':
     if args.with_answer:
         a = '_a'
 
-    splits = ['train', 'dev', 'test']
+    splits = ['train', 'val', 'test']
 
     for split in splits:
         file = f'data/raw_data/PQ/{split}.json'
