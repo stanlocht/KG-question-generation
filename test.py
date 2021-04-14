@@ -37,21 +37,14 @@ if __name__ == "__main__":
     pl.seed_everything(42)
 
     parser = ArgumentParser()
-    
-    # add model specific args
-    parser.add_argument('--batch_size', type=int, default=8)
-    parser.add_argument('--learning_rate', type=float, default=3e-5)
-    parser.add_argument('--optimizer', type=str, default='adam')
-    parser.add_argument('--dataset', type=str, default='WQ')
-
-    # add all the available trainer options to argparse
     parser = pl.Trainer.add_argparse_args(parser)
-    
-    parser.add_argument("--test", help="Test model after fit.", 
-                        action="store_true")
     parser.add_argument("--savename", type=str, default='no_name')
-
+    parser.add_argument('--checkpoint', type=str, default='')
+    parser.add_argument('--dataset', type=str, default='WQ')
+    parser.add_argument('--batch_size', type=int, default=2)
     args = parser.parse_args()
+
+
 
     # Define trainer
     tb_logger = pl_loggers.TensorBoardLogger('logs/')
@@ -61,23 +54,9 @@ if __name__ == "__main__":
         callbacks=[EarlyStopping(monitor='val_loss')]
         )
 
-    # Load data and model
+
     kgqg = KGQGDataModule('data/' + args.dataset, batch_size=args.batch_size)
-    model = KGQGTuner(kgqg, args.learning_rate, args.batch_size, args.dataset)
+    model = KGQGTuner.load_from_checkpoint(args.checkpoint, datamodule=kgqg)
 
-    # Fit model
-    trainer.fit(model, datamodule=kgqg)
-
-    # Test model
-    if args.test:
-        # switch to max 1 gpu
-        if args.gpus > 1:
-            args.gpus = 1
-        trainer = pl.Trainer.from_argparse_args( 
-            args,  # max_epochs, gpus
-            logger=tb_logger,
-            callbacks=[EarlyStopping(monitor='val_loss')]
-            )
-
-        trainer.test(model=model, datamodule=kgqg)
-        write_test_files(model, kgqg, name=args.savename)
+    trainer.test(model=model, datamodule=kgqg)
+    write_test_files(model, kgqg, name=args.savename)

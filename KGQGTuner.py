@@ -3,13 +3,14 @@
 
 from transformers import (
     AdamW,
+    Adafactor,
     T5ForConditionalGeneration,
     )
 import pytorch_lightning as pl
 from torchtext.data.metrics import bleu_score
 
 class KGQGTuner(pl.LightningModule):
-    def __init__(self, datamodule, learning_rate=3e-5, batch_size=8, dataset=''):
+    def __init__(self, datamodule, learning_rate=3e-5, batch_size=8, optimizer='adam', dataset=''):
         super(KGQGTuner, self).__init__()
         self.model = T5ForConditionalGeneration.from_pretrained('t5-base')
         
@@ -22,11 +23,12 @@ class KGQGTuner(pl.LightningModule):
         # add batch size to init to enable automatic batch size scaling.
         self.batch_size = datamodule.batch_size
         #self.dataset = dataset
-        
+        self.optimizer = optimizer
+
         # testing
         self.bleu_metric = bleu_score
         
-        self.save_hyperparameters('learning_rate', 'batch_size','dataset')
+        self.save_hyperparameters('learning_rate', 'batch_size','optimizer','dataset')
 
         
     def forward(
@@ -89,7 +91,7 @@ class KGQGTuner(pl.LightningModule):
         
     def test_step(self, batch, batch_idx):       
         # Generate predictions
-        preds_tokens = self.model.generate(batch['source_ids'])
+        preds_tokens = self.model.generate(batch['source_ids'], max_length=50)
         preds = self.tokenizer.batch_decode(preds_tokens, skip_special_tokens=True, clean_up_tokenization_spaces=True)
         targets = self.tokenizer.batch_decode(batch['target_ids'], skip_special_tokens=True, clean_up_tokenization_spaces=True)
         
@@ -97,8 +99,10 @@ class KGQGTuner(pl.LightningModule):
         loss = self._step(batch)
         self.log('test_loss', loss, sync_dist=True)
         return {'preds' : preds, 'targets' : targets}
-
+    
+        
     def test_epoch_end(self, outputs):
+        print(outputs)
         # Get list of all preds and targets of the epoch
         self.test_preds = [pred for output in outputs for pred in output['preds']]
         self.test_targets = [target for output in outputs for target in output['targets']]
@@ -111,4 +115,7 @@ class KGQGTuner(pl.LightningModule):
         
     
     def configure_optimizers(self, eps=1e-8):
-        return AdamW(self.model.parameters(), lr=self.learning_rate, eps=eps)
+        if self.optimizer == 'adam':
+            return AdamW(self.model.parameters(), lr=self.learning_rate, eps=eps)
+        else:
+            return Adafactor(self.model.parameters(), scale_parameter=False, relative_step=False, warmup_init=False, lr=self.learning_rate)

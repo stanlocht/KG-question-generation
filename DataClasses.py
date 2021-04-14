@@ -55,10 +55,10 @@ class KGQGDataset(Dataset):
 
     def _build(self):
         with open(self.src_data, 'r', encoding='utf-8') as f:
-            src_text = f.read().splitlines()
+            src_text = f.read().splitlines()[:4]
         
         with open(self.tgt_data, 'r', encoding='utf-8') as f:
-            tgt_text = f.read().splitlines()
+            tgt_text = f.read().splitlines()[:4]
 
         assert len(src_text) == len(tgt_text), "Source and target files are not of same size"
         
