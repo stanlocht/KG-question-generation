@@ -1,15 +1,14 @@
 #!/bin/bash
 
 #SBATCH --gres=gpu:4
-#SBATCH --job-name=KGQG-1
+#SBATCH --job-name=KGQG-1e4
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=3
 #SBATCH --time=48:00:00
 #SBATCH --mem=32000M
 #SBATCH --output=slurmouts/slurm_output_%A.out
 #SBATCH -p gpu
-#SBATCH --mail-type=BEGIN,END
-#SBATCH --mail-user=stanlochtenberg@gmail.com
+
 
 module purge
 module load 2019
@@ -22,5 +21,5 @@ module load Anaconda3/2018.12
 # Activate your environment
 source venv/bin/activate
 # Run your code
-TOKENIZERS_PARALLELISM=false srun python -u main.py --gpus -1 --batch_size 2 --learning_rate 1e-3 --max_epochs 300 \
-                                         --optimizer adafactor --dataset WQ --test --savename WQ_ada_1e3
+TOKENIZERS_PARALLELISM=false srun python -u main.py --gpus -1 --batch_size 2 --learning_rate 1e-4 --max_epochs 300 \
+                                         --optimizer adafactor --dataset WQ --logdir t5_WQ --pre_trained t5

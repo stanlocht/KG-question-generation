@@ -2,15 +2,21 @@
 # -*- coding: utf-8 -*-
 
 from torch.utils.data import Dataset, DataLoader
-from transformers import T5TokenizerFast
+from transformers import T5TokenizerFast, BartTokenizerFast
 import pytorch_lightning as pl
 
 class KGQGDataModule(pl.LightningDataModule):
-    def __init__(self, data_dir: str, batch_size=8):
+    def __init__(self, data_dir: str, batch_size=8, pre_trained='t5'):
         super().__init__()
         self.batch_size = batch_size
         self.data_dir = data_dir
-        self.tokenizer = T5TokenizerFast.from_pretrained('t5-base',  extra_ids=0, additional_special_tokens = ['<A>', '<H>', '<R>', '<T>'])
+
+        if pre_trained == 't5':
+            self.tokenizer = T5TokenizerFast.from_pretrained('t5-base',  extra_ids=0, 
+            additional_special_tokens = ['<A>', '<H>', '<R>', '<T>'])
+        else:
+            self.tokenizer = BartTokenizerFast.from_pretrained('facebook/bart-large-cnn',  extra_ids=0, 
+            additional_special_tokens = ['<A>', '<H>', '<R>', '<T>'])
         
     def setup(self, stage=None):   
         self.train_set = KGQGDataset(self.tokenizer, self.data_dir, 'train')
@@ -55,10 +61,10 @@ class KGQGDataset(Dataset):
 
     def _build(self):
         with open(self.src_data, 'r', encoding='utf-8') as f:
-            src_text = f.read().splitlines()[:4]
+            src_text = f.read().splitlines()
         
         with open(self.tgt_data, 'r', encoding='utf-8') as f:
-            tgt_text = f.read().splitlines()[:4]
+            tgt_text = f.read().splitlines()
 
         assert len(src_text) == len(tgt_text), "Source and target files are not of same size"
         

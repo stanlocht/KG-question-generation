@@ -5,14 +5,19 @@ from transformers import (
     AdamW,
     Adafactor,
     T5ForConditionalGeneration,
+    BartForConditionalGeneration
     )
 import pytorch_lightning as pl
 from torchtext.data.metrics import bleu_score
 
 class KGQGTuner(pl.LightningModule):
-    def __init__(self, datamodule, learning_rate=3e-5, batch_size=8, optimizer='adam', dataset=''):
+    def __init__(self, datamodule, learning_rate=3e-5, batch_size=8, optimizer='adam', dataset='', pre_trained='t5'):
         super(KGQGTuner, self).__init__()
-        self.model = T5ForConditionalGeneration.from_pretrained('t5-base')
+
+        if pre_trained:
+            self.model = T5ForConditionalGeneration.from_pretrained('t5-base')
+        else:
+            self.model = BartForConditionalGeneration.from_pretrained('facebook/bart-large')
         
         # resize embedding to account for additional special tokens
         self.tokenizer = datamodule.tokenizer
@@ -28,7 +33,7 @@ class KGQGTuner(pl.LightningModule):
         # testing
         self.bleu_metric = bleu_score
         
-        self.save_hyperparameters('learning_rate', 'batch_size','optimizer','dataset')
+        self.save_hyperparameters('learning_rate', 'batch_size','optimizer','dataset', 'pre_trained')
 
         
     def forward(
@@ -81,13 +86,6 @@ class KGQGTuner(pl.LightningModule):
         splittargets = [[target.split()] for target in self.val_targets]
         self.bleu = self.bleu_metric(splitpreds, splittargets)
         self.log('bleu_score', self.bleu)
-        
-        # # Log best score   !!!! werkt niet??
-        # self.logger.log_hyperparams(
-        #     params=dict(learning_rate=self.learning_rate, batch_size=self.batch_size, dataset=self.dataset),
-        #     metrics=dict( bleu_score= self.bleu)
-        #     )
-        #     #val_loss=val_loss, train_loss=train_loss,
         
     def test_step(self, batch, batch_idx):       
         # Generate predictions
