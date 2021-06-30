@@ -42,8 +42,9 @@ if __name__ == "__main__":
     parser.add_argument('--checkpoint', type=str, default='')
     parser.add_argument('--dataset', type=str, default='WQ')
     parser.add_argument('--batch_size', type=int, default=2)
-    args = parser.parse_args()
+    parser.add_argument('--pre_trained', type=str, default='t5', help='t5 or bart')
 
+    args = parser.parse_args()
 
 
     # Define trainer
@@ -54,9 +55,8 @@ if __name__ == "__main__":
         callbacks=[EarlyStopping(monitor='val_loss')]
         )
 
-
-    kgqg = KGQGDataModule('data/' + args.dataset, batch_size=args.batch_size)
-    model = KGQGTuner.load_from_checkpoint(args.checkpoint, datamodule=kgqg)
+    kgqg = KGQGDataModule('data/' + args.dataset, batch_size=args.batch_size, pre_trained=args.pre_trained)
+    model = KGQGTuner.load_from_checkpoint(args.checkpoint, datamodule=kgqg, pre_trained=args.pre_trained)
 
     trainer.test(model=model, datamodule=kgqg)
     write_test_files(model, kgqg, name=args.savename)

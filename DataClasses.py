@@ -6,22 +6,25 @@ from transformers import T5TokenizerFast, BartTokenizerFast
 import pytorch_lightning as pl
 
 class KGQGDataModule(pl.LightningDataModule):
-    def __init__(self, data_dir: str, batch_size=8, pre_trained='t5'):
+    def __init__(self, data_dir: str, batch_size=8, pre_trained='', with_answers=False):
         super().__init__()
         self.batch_size = batch_size
         self.data_dir = data_dir
+        self.with_answers = with_answers
 
         if pre_trained == 't5':
             self.tokenizer = T5TokenizerFast.from_pretrained('t5-base',  extra_ids=0, 
             additional_special_tokens = ['<A>', '<H>', '<R>', '<T>'])
-        else:
-            self.tokenizer = BartTokenizerFast.from_pretrained('facebook/bart-large-cnn',  extra_ids=0, 
+        elif pre_trained == 'bart':
+            self.tokenizer = BartTokenizerFast.from_pretrained('facebook/bart-base',  extra_ids=0, 
             additional_special_tokens = ['<A>', '<H>', '<R>', '<T>'])
-        
+        else:
+            raise Exception(f'Unknown pre-trained model {pre_trained}, choose t5 or bart.')
+
     def setup(self, stage=None):   
-        self.train_set = KGQGDataset(self.tokenizer, self.data_dir, 'train')
-        self.val_set = KGQGDataset(self.tokenizer, self.data_dir, 'val')
-        self.test_set = KGQGDataset(self.tokenizer, self.data_dir, 'test')
+        self.train_set = KGQGDataset(self.tokenizer, self.data_dir, 'train', with_answers=self.with_answers)
+        self.val_set = KGQGDataset(self.tokenizer, self.data_dir, 'val', with_answers=self.with_answers)
+        self.test_set = KGQGDataset(self.tokenizer, self.data_dir, 'test', with_answers=self.with_answers)
 
     def train_dataloader(self):
         return DataLoader(self.train_set, batch_size=self.batch_size, shuffle=True, num_workers=0)
@@ -61,10 +64,10 @@ class KGQGDataset(Dataset):
 
     def _build(self):
         with open(self.src_data, 'r', encoding='utf-8') as f:
-            src_text = f.read().splitlines()
+            src_text = f.read().splitlines()[:2]
         
         with open(self.tgt_data, 'r', encoding='utf-8') as f:
-            tgt_text = f.read().splitlines()
+            tgt_text = f.read().splitlines()[:2]
 
         assert len(src_text) == len(tgt_text), "Source and target files are not of same size"
         

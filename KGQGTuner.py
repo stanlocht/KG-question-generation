@@ -11,13 +11,15 @@ import pytorch_lightning as pl
 from torchtext.data.metrics import bleu_score
 
 class KGQGTuner(pl.LightningModule):
-    def __init__(self, datamodule, learning_rate=3e-5, batch_size=8, optimizer='adam', dataset='', pre_trained='t5'):
+    def __init__(self, datamodule, learning_rate=3e-5, batch_size=8, optimizer='adam', dataset='', pre_trained=''):
         super(KGQGTuner, self).__init__()
 
-        if pre_trained:
+        if pre_trained == 't5':
             self.model = T5ForConditionalGeneration.from_pretrained('t5-base')
+        elif pre_trained == 'bart':
+            self.model = BartForConditionalGeneration.from_pretrained('facebook/bart-base')
         else:
-            self.model = BartForConditionalGeneration.from_pretrained('facebook/bart-large')
+            raise Exception(f'Unknown pre-trained model {pre_trained}, choose t5 or bart.')
         
         # resize embedding to account for additional special tokens
         self.tokenizer = datamodule.tokenizer
@@ -100,7 +102,6 @@ class KGQGTuner(pl.LightningModule):
     
         
     def test_epoch_end(self, outputs):
-        print(outputs)
         # Get list of all preds and targets of the epoch
         self.test_preds = [pred for output in outputs for pred in output['preds']]
         self.test_targets = [target for output in outputs for target in output['targets']]
@@ -115,5 +116,7 @@ class KGQGTuner(pl.LightningModule):
     def configure_optimizers(self, eps=1e-8):
         if self.optimizer == 'adam':
             return AdamW(self.model.parameters(), lr=self.learning_rate, eps=eps)
-        else:
+        elif self.optimizer == 'adafactor':
             return Adafactor(self.model.parameters(), scale_parameter=False, relative_step=False, warmup_init=False, lr=self.learning_rate)
+        else:
+            raise Exception(f'{self.optimizer} is an invalid optimizer, choose adam or adafactor.')

@@ -22,7 +22,7 @@ if __name__ == "__main__":
     parser.add_argument('--optimizer', type=str, default='adam')
     parser.add_argument('--dataset', type=str, default='WQ')
     parser.add_argument('--logdir', type=str, default='logs')
-    parser.add_argument('--pre_trained', type=str, default='t5')
+    parser.add_argument('--pre_trained', type=str, default='t5', help='t5 or bart')
 
     # add all the available trainer options to argparse
     parser = pl.Trainer.add_argparse_args(parser)
@@ -33,7 +33,7 @@ if __name__ == "__main__":
     trainer = pl.Trainer.from_argparse_args( 
         args,  # max_epochs, gpus
         logger=tb_logger,
-        callbacks=[EarlyStopping(monitor='bleu_score', verbose=True, mode='max')]
+        callbacks=[EarlyStopping(monitor='bleu_score', verbose=True, mode='max', patience=5)]
         )
 
     # Load data and model
