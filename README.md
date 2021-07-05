@@ -7,3 +7,5 @@ To generate questions for your own graphs, please refer to [this tutorial](noteb
 All scripts for the training of the models can be found in the [bin](bin/) directory.
 
 In [notebooks](notebooks/) you can find other code for [evaluation](notebooks/evaluation.ipynb), [converting graphs to cypher for Neo4j](notebooks/triples2cypher.ipynb) and [computing data descriptives](notebooks/descriptives.ipynb).
+
+The productional knowledge graph example and its extracted subgraphs mentioned in Chapter 4 can be found in the [Productional KG example](Productional%20KG%20example) directory.
