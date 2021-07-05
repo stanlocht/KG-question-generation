@@ -1,0 +1,1161 @@
+{
+  "nodes": [
+    {
+      "name": "cities",
+      "type": "data_source",
+      "node_id": 100
+    },
+    {
+      "name": "zip_codes",
+      "type": "data_source",
+      "node_id": 200
+    },
+    {
+      "name": "demographics",
+      "type": "data_source",
+      "node_id": 300
+    },
+    {
+      "name": "energy_consumption",
+      "type": "data_source",
+      "node_id": 400
+    },
+    {
+      "name": "energy_generation",
+      "type": "data_source",
+      "node_id": 500
+    },
+    {
+      "name": "weather",
+      "type": "data_source",
+      "node_id": 600
+    },
+    {
+      "name": "sales",
+      "type": "data_source",
+      "node_id": 700
+    },
+    {
+      "name": "city",
+      "type": "concept",
+      "node_id": 101
+    },
+    {
+      "name": "location",
+      "type": "concept",
+      "node_id": 1
+    },
+    {
+      "name": "latitude",
+      "type": "concept",
+      "node_id": 3
+    },
+    {
+      "name": "longitude",
+      "type": "concept",
+      "node_id": 4
+    },
+    {
+      "name": "wgs84",
+      "type": "concept",
+      "node_id": 2
+    },
+    {
+      "name": "rijksdriehoekcoordinaten",
+      "type": "concept",
+      "node_id": 5
+    },
+    {
+      "name": "population",
+      "type": "concept",
+      "node_id": 301
+    },
+    {
+      "name": "income",
+      "type": "concept",
+      "node_id": 302
+    },
+    {
+      "name": "age",
+      "type": "concept",
+      "node_id": 303
+    },
+    {
+      "name": "higher_education",
+      "type": "concept",
+      "node_id": 304
+    },
+    {
+      "name": "zip_code",
+      "type": "concept",
+      "node_id": 201
+    },
+    {
+      "name": "energy",
+      "type": "concept",
+      "node_id": 405
+    },
+    {
+      "name": "energy_consumption",
+      "type": "concept",
+      "node_id": 401
+    },
+    {
+      "name": "electric_vehicle",
+      "type": "concept",
+      "node_id": 402
+    },
+    {
+      "name": "domestic",
+      "type": "concept",
+      "node_id": 403
+    },
+    {
+      "name": "corporate",
+      "type": "concept",
+      "node_id": 404
+    },
+    {
+      "name": "energy_generation",
+      "type": "concept",
+      "node_id": 501
+    },
+    {
+      "name": "photovoltaic",
+      "type": "concept",
+      "node_id": 502
+    },
+    {
+      "name": "cogeneration",
+      "type": "concept",
+      "node_id": 503
+    },
+    {
+      "name": "wind_power",
+      "type": "concept",
+      "node_id": 504
+    },
+    {
+      "name": "temperature",
+      "type": "concept",
+      "node_id": 601
+    },
+    {
+      "name": "rain",
+      "type": "concept",
+      "node_id": 602
+    },
+    {
+      "name": "snow",
+      "type": "concept",
+      "node_id": 603
+    },
+    {
+      "name": "wind_speed",
+      "type": "concept",
+      "node_id": 604
+    },
+    {
+      "name": "sale",
+      "type": "concept",
+      "node_id": 701
+    },
+    {
+      "name": "sale_category",
+      "type": "concept",
+      "node_id": 702
+    },
+    {
+      "name": "number",
+      "type": "concept",
+      "node_id": 6
+    },
+    {
+      "name": "percentage",
+      "type": "concept",
+      "node_id": 7
+    },
+    {
+      "name": "moment_in_time",
+      "type": "concept",
+      "node_id": 8
+    },
+    {
+      "name": "unknown",
+      "type": "concept",
+      "node_id": 9
+    },
+    {
+      "name": "name",
+      "type": "source_feature",
+      "node_id": 110
+    },
+    {
+      "name": "lat",
+      "type": "source_feature",
+      "node_id": 111
+    },
+    {
+      "name": "lon",
+      "type": "source_feature",
+      "node_id": 112
+    },
+    {
+      "name": "city",
+      "type": "source_feature",
+      "node_id": 210
+    },
+    {
+      "name": "zip_code",
+      "type": "source_feature",
+      "node_id": 211
+    },
+    {
+      "name": "city",
+      "type": "source_feature",
+      "node_id": 310
+    },
+    {
+      "name": "age",
+      "type": "source_feature",
+      "node_id": 311
+    },
+    {
+      "name": "income",
+      "type": "source_feature",
+      "node_id": 312
+    },
+    {
+      "name": "population",
+      "type": "source_feature",
+      "node_id": 313
+    },
+    {
+      "name": "percentage_higher_educated",
+      "type": "source_feature",
+      "node_id": 314
+    },
+    {
+      "name": "overall_energy_consumption",
+      "type": "source_feature",
+      "node_id": 410
+    },
+    {
+      "name": "ev_consumption",
+      "type": "source_feature",
+      "node_id": 411
+    },
+    {
+      "name": "domestic_consumption",
+      "type": "source_feature",
+      "node_id": 412
+    },
+    {
+      "name": "corporate_consumption",
+      "type": "source_feature",
+      "node_id": 413
+    },
+    {
+      "name": "overall_energy_generation",
+      "type": "source_feature",
+      "node_id": 510
+    },
+    {
+      "name": "pv_generation",
+      "type": "source_feature",
+      "node_id": 511
+    },
+    {
+      "name": "heat_generation",
+      "type": "source_feature",
+      "node_id": 512
+    },
+    {
+      "name": "wind_generation",
+      "type": "source_feature",
+      "node_id": 513
+    },
+    {
+      "name": "2m_temperature",
+      "type": "source_feature",
+      "node_id": 610
+    },
+    {
+      "name": "precipitation",
+      "type": "source_feature",
+      "node_id": 611
+    },
+    {
+      "name": "snow",
+      "type": "source_feature",
+      "node_id": 612
+    },
+    {
+      "name": "wind_speed",
+      "type": "source_feature",
+      "node_id": 613
+    },
+    {
+      "name": "datetime",
+      "type": "source_feature",
+      "node_id": 710
+    },
+    {
+      "name": "gross_profit",
+      "type": "source_feature",
+      "node_id": 711
+    },
+    {
+      "name": "num_sales",
+      "type": "source_feature",
+      "node_id": 712
+    },
+    {
+      "name": "category",
+      "type": "source_feature",
+      "node_id": 713
+    },
+    {
+      "name": "city_name",
+      "type": "unit",
+      "node_id": 121
+    },
+    {
+      "name": "wgs84_latitude",
+      "type": "unit",
+      "node_id": 122
+    },
+    {
+      "name": "wgs84_longitude",
+      "type": "unit",
+      "node_id": 123
+    },
+    {
+      "name": "zip_code",
+      "type": "unit",
+      "node_id": 221
+    },
+    {
+      "name": "years",
+      "type": "unit",
+      "node_id": 321
+    },
+    {
+      "name": "euros",
+      "type": "unit",
+      "node_id": 322
+    },
+    {
+      "name": "number",
+      "type": "unit",
+      "node_id": 323
+    },
+    {
+      "name": "fraction",
+      "type": "unit",
+      "node_id": 324
+    },
+    {
+      "name": "wh",
+      "type": "unit",
+      "node_id": 421
+    },
+    {
+      "name": "kwh",
+      "type": "unit",
+      "node_id": 422
+    },
+    {
+      "name": "mwh",
+      "type": "unit",
+      "node_id": 423
+    },
+    {
+      "name": "celcius",
+      "type": "unit",
+      "node_id": 621
+    },
+    {
+      "name": "kmh",
+      "type": "unit",
+      "node_id": 622
+    },
+    {
+      "name": "meters",
+      "type": "unit",
+      "node_id": 623
+    },
+    {
+      "name": "centimeters",
+      "type": "unit",
+      "node_id": 624
+    },
+    {
+      "name": "millimeters",
+      "type": "unit",
+      "node_id": 625
+    },
+    {
+      "name": "datetime",
+      "type": "unit",
+      "node_id": 721
+    },
+    {
+      "name": "categorical",
+      "type": "unit",
+      "node_id": 722
+    },
+    {
+      "name": "wgs84_lat",
+      "type": "input",
+      "node_id": 631
+    },
+    {
+      "name": "wgs84_lon",
+      "type": "input",
+      "node_id": 632
+    },
+    {
+      "name": "datetime",
+      "type": "input",
+      "node_id": 633
+    },
+    {
+      "value": "Amsterdam",
+      "type": "data",
+      "node_id": 1211
+    },
+    {
+      "value": "Utrecht",
+      "type": "data",
+      "node_id": 1212
+    },
+    {
+      "value": "Rotterdam",
+      "type": "data",
+      "node_id": 1213
+    },
+    {
+      "value": "Veenendaal",
+      "type": "data",
+      "node_id": 1214
+    },
+    {
+      "value": "Den Bosch",
+      "type": "data",
+      "node_id": 1215
+    },
+    {
+      "value": "52.1",
+      "type": "data",
+      "node_id": 1221
+    },
+    {
+      "value": "50.43",
+      "type": "data",
+      "node_id": 1222
+    },
+    {
+      "value": "4.82",
+      "type": "data",
+      "node_id": 1231
+    },
+    {
+      "value": "5.12",
+      "type": "data",
+      "node_id": 1232
+    },
+    {
+      "value": "1425AM",
+      "type": "data",
+      "node_id": 2211
+    },
+    {
+      "value": "5390CD",
+      "type": "data",
+      "node_id": 2212
+    },
+    {
+      "value": "7543NB",
+      "type": "data",
+      "node_id": 2213
+    },
+    {
+      "value": "9762WH",
+      "type": "data",
+      "node_id": 2214
+    },
+    {
+      "value": "23",
+      "type": "data",
+      "node_id": 3211
+    },
+    {
+      "value": "43",
+      "type": "data",
+      "node_id": 3212
+    },
+    {
+      "value": "51",
+      "type": "data",
+      "node_id": 3213
+    },
+    {
+      "value": "73",
+      "type": "data",
+      "node_id": 3214
+    },
+    {
+      "value": "312.32",
+      "type": "data",
+      "node_id": 3221
+    },
+    {
+      "value": "43253.72",
+      "type": "data",
+      "node_id": 3222
+    },
+    {
+      "value": "6347.11",
+      "type": "data",
+      "node_id": 3223
+    },
+    {
+      "value": "1337",
+      "type": "data",
+      "node_id": 3231
+    },
+    {
+      "value": "9001",
+      "type": "data",
+      "node_id": 3232
+    },
+    {
+      "value": "42",
+      "type": "data",
+      "node_id": 3233
+    },
+    {
+      "value": "0.45",
+      "type": "data",
+      "node_id": 3241
+    },
+    {
+      "value": "0.23",
+      "type": "data",
+      "node_id": 3242
+    },
+    {
+      "value": "2345",
+      "type": "data",
+      "node_id": 4211
+    },
+    {
+      "value": "7.3",
+      "type": "data",
+      "node_id": 6211
+    },
+    {
+      "value": "18.4",
+      "type": "data",
+      "node_id": 6212
+    },
+    {
+      "value": "ice_cream",
+      "type": "data",
+      "node_id": 7221
+    },
+    {
+      "value": "umbrellas",
+      "type": "data",
+      "node_id": 7222
+    },
+    {
+      "value": "clothing",
+      "type": "data",
+      "node_id": 7223
+    },
+    {
+      "value": "tech",
+      "type": "data",
+      "node_id": 7224
+    },
+    {
+      "value": "beverages",
+      "type": "data",
+      "node_id": 7225
+    }
+  ],
+  "edges": [
+    {
+      "src_node": 100,
+      "dest_node": 110,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 100,
+      "dest_node": 111,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 100,
+      "dest_node": 112,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 200,
+      "dest_node": 210,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 200,
+      "dest_node": 211,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 300,
+      "dest_node": 310,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 300,
+      "dest_node": 311,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 300,
+      "dest_node": 312,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 300,
+      "dest_node": 313,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 300,
+      "dest_node": 314,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 400,
+      "dest_node": 410,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 400,
+      "dest_node": 411,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 400,
+      "dest_node": 412,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 400,
+      "dest_node": 413,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 500,
+      "dest_node": 510,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 500,
+      "dest_node": 511,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 500,
+      "dest_node": 512,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 500,
+      "dest_node": 513,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 600,
+      "dest_node": 610,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 600,
+      "dest_node": 611,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 600,
+      "dest_node": 612,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 600,
+      "dest_node": 613,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 700,
+      "dest_node": 710,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 700,
+      "dest_node": 711,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 700,
+      "dest_node": 712,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 700,
+      "dest_node": 713,
+      "type": "YIELDS"
+    },
+    {
+      "src_node": 110,
+      "dest_node": 101,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 111,
+      "dest_node": 3,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 112,
+      "dest_node": 4,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 210,
+      "dest_node": 101,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 211,
+      "dest_node": 201,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 310,
+      "dest_node": 101,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 311,
+      "dest_node": 303,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 312,
+      "dest_node": 302,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 313,
+      "dest_node": 301,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 314,
+      "dest_node": 304,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 410,
+      "dest_node": 401,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 411,
+      "dest_node": 401,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 412,
+      "dest_node": 401,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 413,
+      "dest_node": 401,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 411,
+      "dest_node": 402,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 412,
+      "dest_node": 403,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 413,
+      "dest_node": 404,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 510,
+      "dest_node": 501,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 511,
+      "dest_node": 502,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 512,
+      "dest_node": 503,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 513,
+      "dest_node": 504,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 610,
+      "dest_node": 601,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 611,
+      "dest_node": 602,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 612,
+      "dest_node": 603,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 613,
+      "dest_node": 604,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 710,
+      "dest_node": 8,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 711,
+      "dest_node": 701,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 712,
+      "dest_node": 703,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 713,
+      "dest_node": 702,
+      "type": "ABOUT_CONCEPT"
+    },
+    {
+      "src_node": 121,
+      "dest_node": 1211,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 121,
+      "dest_node": 1212,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 121,
+      "dest_node": 1213,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 121,
+      "dest_node": 1214,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 121,
+      "dest_node": 1215,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 122,
+      "dest_node": 1221,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 122,
+      "dest_node": 1222,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 123,
+      "dest_node": 1231,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 123,
+      "dest_node": 1232,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 221,
+      "dest_node": 2211,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 221,
+      "dest_node": 2212,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 221,
+      "dest_node": 2213,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 221,
+      "dest_node": 2214,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 321,
+      "dest_node": 3211,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 321,
+      "dest_node": 3212,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 321,
+      "dest_node": 3213,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 321,
+      "dest_node": 3214,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 322,
+      "dest_node": 3221,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 322,
+      "dest_node": 3222,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 322,
+      "dest_node": 3223,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 323,
+      "dest_node": 3231,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 323,
+      "dest_node": 3232,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 323,
+      "dest_node": 3233,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 324,
+      "dest_node": 3241,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 324,
+      "dest_node": 3242,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 421,
+      "dest_node": 4211,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 621,
+      "dest_node": 6211,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 621,
+      "dest_node": 6212,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 722,
+      "dest_node": 7221,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 722,
+      "dest_node": 7222,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 722,
+      "dest_node": 7223,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 722,
+      "dest_node": 7224,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "src_node": 722,
+      "dest_node": 7225,
+      "type": "EXAMPLE_VALUE"
+    },
+    {
+      "dest_node": 121,
+      "src_node": 110,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 122,
+      "src_node": 111,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 123,
+      "src_node": 112,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 121,
+      "src_node": 210,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 221,
+      "src_node": 211,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 121,
+      "src_node": 310,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 321,
+      "src_node": 311,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 322,
+      "src_node": 312,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 323,
+      "src_node": 313,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 324,
+      "src_node": 314,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 423,
+      "src_node": 410,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 423,
+      "src_node": 411,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 423,
+      "src_node": 412,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 423,
+      "src_node": 413,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 423,
+      "src_node": 510,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 423,
+      "src_node": 511,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 423,
+      "src_node": 512,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 423,
+      "src_node": 513,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 621,
+      "src_node": 610,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 625,
+      "src_node": 611,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 624,
+      "src_node": 612,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 622,
+      "src_node": 613,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 721,
+      "src_node": 710,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 322,
+      "src_node": 711,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 323,
+      "src_node": 712,
+      "type": "FEATURE_UNIT"
+    },
+    {
+      "dest_node": 722,
+      "src_node": 713,
+      "type": "FEATURE_UNIT"
+    }
+  ]
+}
